@@ -50,7 +50,7 @@ if __name__ == '__main__':
     # Xử lý tiếng việt
     # docx_file_path_vi = input("Input file name NĐ Vietnamese(docx): ") #'nd01_vi.docx'
     # docx_file_path_vi = 'nd01_vi.docx'
-    text = convert_docx_to_txt("./data/"+docx_file_path_vi)
+    text = convert_docx_to_txt("/root/snap/lxd/current/tools/ND01/data/"+docx_file_path_vi)
 
     text_arr_vn = text.split("\n")
     
@@ -77,7 +77,7 @@ if __name__ == '__main__':
     # Xử lý tiếng anh
     # docx_file_path_en = input("Input file name NĐ English(docx): ")  #'nd01_en.docx'
     # docx_file_path_en = 'nd01_en.docx'
-    text = convert_docx_to_txt("./data/"+docx_file_path_en)
+    text = convert_docx_to_txt("/root/snap/lxd/current/tools/ND01/data/"+docx_file_path_en)
 
     text_arr = text.split("\n")
     main_text_arr = []

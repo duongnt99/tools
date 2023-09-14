@@ -52,7 +52,7 @@ def checkStringStartNumber(string): # kiểm tra đầu mục có bắt đầu b
 
 if __name__ == '__main__':
     docx_file_path = input("Input file name British Council(docx): ")#'bri.docx'
-    text = convert_docx_to_txt("./data/"+docx_file_path)
+    text = convert_docx_to_txt("/root/snap/lxd/current/tools/British/data/"+docx_file_path)
 
     textArr = text.split("\n")
     correctArr = []

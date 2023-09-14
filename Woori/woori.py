@@ -50,7 +50,7 @@ if __name__ == '__main__':
     # Xử lý tiếng việt
     docx_file_path_vi, docx_file_path_en = input("Input file name Woori Vietnamese and English: ").split() #'woori_vi.docx'
     # docx_file_path_vi = 'woori_vi.docx'
-    text_vn = convert_docx_to_txt("./data/"+docx_file_path_vi)
+    text_vn = convert_docx_to_txt("/root/snap/lxd/current/tools/Woori/data/"+docx_file_path_vi)
 
     text_arr_vn = text_vn.split("\n")
     
@@ -93,7 +93,7 @@ if __name__ == '__main__':
     # Xử lý tiếng anh
     # docx_file_path_en = input("Input file name Woori English(docx): ")  #'woori_en.docx'
     # docx_file_path_en = 'woori_en.docx'
-    text_en = convert_docx_to_txt("./data/"+docx_file_path_en)
+    text_en = convert_docx_to_txt("/root/snap/lxd/current/tools/Woori/data/"+docx_file_path_en)
 
     text_arr_en = text_en.split("\n")
     main_text_arr = []

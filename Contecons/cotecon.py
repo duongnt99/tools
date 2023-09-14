@@ -38,7 +38,7 @@ def convert_docx_to_txt(docx_file_path):
 if __name__ == '__main__':
     # Xử lý tiếng việt
     # docx_file_path_vi = input("Input file name NĐ Vietnamese(docx): ") #'con_vi.docx'
-    docx_file_path_vi = './data/cotecon_vi.docx'
+    docx_file_path_vi = '/root/snap/lxd/current/tools/Contecons/data/cotecon_vi.docx'
     text = convert_docx_to_txt(docx_file_path_vi)
 
     text_arr_vn = text.split("\n")
@@ -64,7 +64,7 @@ if __name__ == '__main__':
 
     # Xử lý tiếng anh
     # docx_file_path_en = input("Input file name NĐ English(docx): ")  #'con_en.docx'
-    docx_file_path_en = './data/cotecon_en.docx'
+    docx_file_path_en = '/root/snap/lxd/current/tools/Contecons/data/cotecon_en.docx'
     text = convert_docx_to_txt(docx_file_path_en)
 
     text_arr = text.split("\n")

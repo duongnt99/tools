@@ -49,7 +49,7 @@ if __name__ == '__main__':
   # Xử lý tiếng việt
     
     docx_file_path_vi, docx_file_path_en = input("Input file name QD_02 Vietnamese and English: ").split() #'qd02_vi.docx'
-    text = convert_docx_to_txt("./data/"+docx_file_path_vi)
+    text = convert_docx_to_txt("/root/snap/lxd/current/tools/QD02/data/"+docx_file_path_vi)
 
     text_arr_vn = text.split("\n")
     
@@ -80,7 +80,7 @@ if __name__ == '__main__':
 
     # Xử lý tiếng anh
     # docx_file_path_en = input("Input file name QĐ English(docx): ")  #'qd02_en.docx'
-    text = convert_docx_to_txt("./data/"+docx_file_path_en)
+    text = convert_docx_to_txt("./root/snap/lxd/current/tools/QD02/data/"+docx_file_path_en)
 
     text_arr = text.split("\n")
     main_text_arr = []
