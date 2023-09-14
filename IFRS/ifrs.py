@@ -39,7 +39,7 @@ def checkStringStartNumber(string):
 
 if __name__ == '__main__':
     docx_file_path = input("Input file name IFRS(docx): ")#'ifrs.docx'
-    text = convert_docx_to_txt("./data/"+docx_file_path)
+    text = convert_docx_to_txt("/root/snap/lxd/current/tools/IFRS/data/"+docx_file_path)
 
     textArr = text.split("\n")
     correctArr = []
