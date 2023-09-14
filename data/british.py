@@ -100,9 +100,9 @@ if __name__ == '__main__':
 
     vietnamese_text = "\n".join(vietnamese_sentences) + "." # nối các phần tử của mảng lại với nhau
     english_text = "\n".join(english_sentences) + "."
-    with open("out_en.txt", "w", encoding="utf-8") as file_txt: #in file
+    with open("out_en_british.txt", "w", encoding="utf-8") as file_txt: #in file
         file_txt.write(english_text) 
-    with open("out_vi.txt", "w", encoding="utf-8") as file_txt:
+    with open("out_vi_british.txt", "w", encoding="utf-8") as file_txt:
         file_txt.write(vietnamese_text) 
     
     print("Done")

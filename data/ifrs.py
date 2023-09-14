@@ -60,9 +60,9 @@ if __name__ == '__main__':
 
     vietnamese_text = "\n".join(vietnamese_sentences) + "."
     english_text = "\n".join(english_sentences) + "."
-    with open("out_en.txt", "w", encoding="utf-8") as file_txt:
+    with open("out_en_ifrs.txt", "w", encoding="utf-8") as file_txt:
         file_txt.write(english_text) 
-    with open("out_vi.txt", "w", encoding="utf-8") as file_txt:
+    with open("out_vi_ifrs.txt", "w", encoding="utf-8") as file_txt:
         file_txt.write(vietnamese_text) 
 
     print("Done")

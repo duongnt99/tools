@@ -68,7 +68,7 @@ if __name__ == '__main__':
         if checkStringStartNumber(main_text_vn[i]) or checkStringBullet(main_text_vn[i]): # kiểm tra xem có bắt đầu là đề mục không
             main_text_vn[i] = main_text_vn[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
 
-    with open("out_vn.txt", "w", encoding="utf-8") as file_txt:
+    with open("out_vn_nd01.txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(main_text_vn) + "."
         file_txt.write(string_text) 
 
@@ -108,7 +108,7 @@ if __name__ == '__main__':
         if checkStringStartNumber(final_arr[i]) or checkStringBullet(final_arr[i]): # kiểm tra xem có bắt đầu là đề mục không
             final_arr[i] = final_arr[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
 
-    with open("out_en.txt", "w", encoding="utf-8") as file_txt:
+    with open("out_en_nd01.txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(final_arr) + "."
         file_txt.write(string_text)
     

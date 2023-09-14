@@ -85,7 +85,7 @@ if __name__ == '__main__':
         if checkStringStartNumber(final_arr_vn[i]) or checkStringBullet(final_arr_vn[i]): # kiểm tra xem có bắt đầu là đề mục không
             final_arr_vn[i] = final_arr_vn[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
 
-    with open("out_vi.txt", "w", encoding="utf-8") as file_txt:
+    with open("out_vi_woori.txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(final_arr_vn) + "."
         file_txt.write(string_text) 
 
@@ -126,7 +126,7 @@ if __name__ == '__main__':
         if checkStringStartNumber(final_arr_en[i]) or checkStringBullet(final_arr_en[i]): # kiểm tra xem có bắt đầu là đề mục không
             final_arr_en[i] = final_arr_en[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
 
-    with open("out_en.txt", "w", encoding="utf-8") as file_txt:
+    with open("out_en_woori.txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(final_arr_en) + "."
         file_txt.write(string_text) 
 

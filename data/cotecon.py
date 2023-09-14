@@ -58,7 +58,7 @@ if __name__ == '__main__':
     
     # print(main_text_vn[6])
     
-    with open("out_vi.txt", "w", encoding="utf-8") as file_txt:
+    with open("out_vi_cotecon.txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(main_text_vn) + "."
         file_txt.write(string_text) 
 
@@ -81,7 +81,7 @@ if __name__ == '__main__':
         if "STAND FIRM IN CHALLENGES" in elem:
             main_text_vn.remove(elem)
             
-    with open("out_en.txt", "w", encoding="utf-8") as file_txt:
+    with open("out_en_cotecon.txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(main_text_arr) + "."
         file_txt.write(string_text)
     
