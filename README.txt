@@ -5,14 +5,6 @@
     doc2txt: pip install docx2txt
 - Các file đầu vào phải có định dạng docx.
 - Chạy bằng câu lệnh: sh file_name.sh rồi nhập tên file docx tương ứng
-- Đinh dạng file docx
-        British: british.docx
-        IFRS: ifrs.docx
-        PBV: pbv.docx
-        Woori: woori_en.docx/woori_vi.docx
-        Cotecon: cotecon_en.docx/cotecon_vi.docx
-        ND_01: nd01_en.docx/nd01_vi.docx
-        QD_02: qd02_en.docx/qd02_vi.docx
 - Khi nhập tên 2 file đầu vào thì nhập tên file tiếng việt trước, file tiếng anh sau, cách nhau bằng khoảng trống ( ví dụ: nd01_vi.docx nd01_en.docx )
 - Định dạng file đầu ra: out_en_filename.txt (ví dụ với file ifrs.docx đầu vào thì 2 file xuất ra là out_en_ifrs.txt và out_vi_ifrs.docx)
         
