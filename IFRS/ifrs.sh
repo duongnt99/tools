@@ -11,5 +11,5 @@ for file in $dir/*.docx; do
   filename=$(basename "$file")
 
   # Chạy woori .py với 2 tham số đầu vào là file woori_en.docx và woori_vi.docx
-  python ifrs.py $file $filename 
+  python3 ifrs.py $file $filename 
 done 
