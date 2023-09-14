@@ -51,6 +51,8 @@ if __name__ == '__main__':
     docx_file_path_vi, docx_file_path_en = input("Input file name QD_02 Vietnamese and English: ").split() #'qd02_vi.docx'
     text = convert_docx_to_txt("/root/snap/lxd/current/tools/QD02/data/"+docx_file_path_vi)
 
+    namefile_vi = docx_file_path_vi.split(".")[0]
+
     text_arr_vn = text.split("\n")
     
     main_text_vn = []
@@ -73,7 +75,7 @@ if __name__ == '__main__':
         if checkStringStartNumber(main_text_vn[i]) or checkStringBullet(main_text_vn[i]): # kiểm tra xem có bắt đầu là đề mục không
             main_text_vn[i] = main_text_vn[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
 
-    with open("./output/out_vn_qd02.txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/out_vi_"+namefile_vi+".txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(main_text_vn) + "."
         file_txt.write(string_text) 
 
@@ -81,6 +83,8 @@ if __name__ == '__main__':
     # Xử lý tiếng anh
     # docx_file_path_en = input("Input file name QĐ English(docx): ")  #'qd02_en.docx'
     text = convert_docx_to_txt("./root/snap/lxd/current/tools/QD02/data/"+docx_file_path_en)
+
+    namefile_en = docx_file_path_en.split(".")[0]
 
     text_arr = text.split("\n")
     main_text_arr = []
@@ -143,7 +147,7 @@ if __name__ == '__main__':
         if checkStringStartNumber(standardized_arr[i]) or checkStringBullet(standardized_arr[i]): # kiểm tra xem có bắt đầu là đề mục không
             standardized_arr[i] = standardized_arr[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
 
-    with open("./output/out_en_qd02.txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/out_en_"+namefile_en+".txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(standardized_arr) + "."
         file_txt.write(string_text) 
 

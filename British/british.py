@@ -54,6 +54,8 @@ if __name__ == '__main__':
     docx_file_path = input("Input file name British Council(docx): ")#'bri.docx'
     text = convert_docx_to_txt("/root/snap/lxd/current/tools/British/data/"+docx_file_path)
 
+    namefile = docx_file_path.split(".")[0]
+
     textArr = text.split("\n")
     correctArr = []
     bucket_Arr = []
@@ -100,9 +102,9 @@ if __name__ == '__main__':
 
     vietnamese_text = "\n".join(vietnamese_sentences) + "." # nối các phần tử của mảng lại với nhau
     english_text = "\n".join(english_sentences) + "."
-    with open("./output/out_en_british.txt", "w", encoding="utf-8") as file_txt: #in file
+    with open("./output/out_en_"+namefile+".txt", "w", encoding="utf-8") as file_txt: #in file
         file_txt.write(english_text) 
-    with open("./output/out_vi_british.txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/out_vi_"+namefile+".txt", "w", encoding="utf-8") as file_txt:
         file_txt.write(vietnamese_text) 
     
     print("Done")

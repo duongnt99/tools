@@ -34,12 +34,26 @@ def convert_docx_to_txt(docx_file_path):
 
   return text
 
+def checkStringBullet(string): # kiểm tra đầu mục có bắt đầu bằng a), b), c), d)
+    if string.startswith(("a","b","c","d","e")):
+        return True
+    else:
+        return False
+
+def checkStringStartNumber(string): # kiểm tra đầu mục có bắt đầu bằng số
+    if string.startswith(("0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "□")):
+        return True
+    else:
+        return False
 
 if __name__ == '__main__':
     # Xử lý tiếng việt
     # docx_file_path_vi = input("Input file name NĐ Vietnamese(docx): ") #'con_vi.docx'
-    docx_file_path_vi = '/root/snap/lxd/current/tools/Contecons/data/cotecon_vi.docx'
-    text = convert_docx_to_txt(docx_file_path_vi)
+    docx_file_path_vi, docx_file_path_en = input("Input file name Cotecon Vietnamese and English: ").split() #'nd01_vi.docx'
+
+    # docx_file_path_vi = '/root/snap/lxd/current/tools/Contecons/data/cotecon_vi.docx'
+    text = convert_docx_to_txt("/root/snap/lxd/current/tools/Cotecons/data/"+docx_file_path_vi)
+    namefile_vi = docx_file_path_vi.split(".")[0]
 
     text_arr_vn = text.split("\n")
     
@@ -47,7 +61,7 @@ if __name__ == '__main__':
 
 
     for i in range(0 , len(text_arr_vn)): #created and standardized file txt
-      if len(text_arr_vn[i])>1:
+      if len(text_arr_vn[i])>3:
         text_arr_vn[i] = text_arr_vn[i].strip()
         main_text_vn.append(text_arr_vn[i])
     
@@ -56,31 +70,40 @@ if __name__ == '__main__':
             main_text_vn.remove(elem)
     
     # print(main_text_vn[6])
+
+    # for i in range(0 , len(main_text_vn)): #chuẩn hóa mảng
+    #     if checkStringStartNumber(main_text_vn[i]) or checkStringBullet(main_text_vn[i]): # kiểm tra xem có bắt đầu là đề mục không
+    #         main_text_vn[i] = main_text_vn[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
     
-    with open("./output/out_vi_cotecon.txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/out_vi_"+namefile_vi+".txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(main_text_vn) + "."
         file_txt.write(string_text) 
 
 
     # Xử lý tiếng anh
     # docx_file_path_en = input("Input file name NĐ English(docx): ")  #'con_en.docx'
-    docx_file_path_en = '/root/snap/lxd/current/tools/Contecons/data/cotecon_en.docx'
-    text = convert_docx_to_txt(docx_file_path_en)
+    # docx_file_path_en = '/root/snap/lxd/current/tools/Contecons/data/cotecon_en.docx'
+    text = convert_docx_to_txt("/root/snap/lxd/current/tools/Cotecons/data/"+docx_file_path_en)
+    namefile_en = docx_file_path_en.split(".")[0]
 
     text_arr = text.split("\n")
     main_text_arr = []
 
 
     for i in range(0 , len(text_arr)): #created and standardized file txt
-        if len(text_arr[i])>1:
+        if len(text_arr[i])>3:
             text_arr[i] = text_arr[i].strip()
             main_text_arr.append(text_arr[i])
 
-    for elem in main_text_vn:
+    for elem in main_text_arr:
         if "STAND FIRM IN CHALLENGES" in elem:
-            main_text_vn.remove(elem)
+            main_text_arr.remove(elem)
+          
+    # for i in range(0 , len(main_text_arr)): #chuẩn hóa mảng
+    #     if checkStringStartNumber(main_text_arr[i]) or checkStringBullet(main_text_arr[i]): # kiểm tra xem có bắt đầu là đề mục không
+    #         main_text_arr[i] = main_text_arr[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
             
-    with open("./output/out_en_cotecon.txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/out_en_"+namefile_en+".txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(main_text_arr) + "."
         file_txt.write(string_text)
     

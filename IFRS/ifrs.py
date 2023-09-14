@@ -41,6 +41,8 @@ if __name__ == '__main__':
     docx_file_path = input("Input file name IFRS(docx): ")#'ifrs.docx'
     text = convert_docx_to_txt("/root/snap/lxd/current/tools/IFRS/data/"+docx_file_path)
 
+    namefile = docx_file_path.split(".")[0]
+
     textArr = text.split("\n")
     correctArr = []
 
@@ -60,9 +62,9 @@ if __name__ == '__main__':
 
     vietnamese_text = "\n".join(vietnamese_sentences) + "."
     english_text = "\n".join(english_sentences) + "."
-    with open("./output/out_en_ifrs.txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/out_en_"+namefile+".txt", "w", encoding="utf-8") as file_txt:
         file_txt.write(english_text) 
-    with open("./output/out_vi_ifrs.txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/out_vi_"+namefile+".txt", "w", encoding="utf-8") as file_txt:
         file_txt.write(vietnamese_text) 
 
     print("Done")
