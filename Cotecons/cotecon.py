@@ -7,6 +7,7 @@ import docx2txt
 import re
 import langid
 import string
+import sys
 
 from langdetect import detect, DetectorFactory
 DetectorFactory.seed = 0 # Để kết quả xác định ngôn ngữ là nhất quán
@@ -48,12 +49,16 @@ def checkStringStartNumber(string): # kiểm tra đầu mục có bắt đầu b
 
 if __name__ == '__main__':
     # Xử lý tiếng việt
-    # docx_file_path_vi = input("Input file name NĐ Vietnamese(docx): ") #'con_vi.docx'
-    docx_file_path_vi, docx_file_path_en = input("Input file name Cotecon Vietnamese and English: ").split() #'nd01_vi.docx'
 
-    # docx_file_path_vi = '/root/snap/lxd/current/tools/Contecons/data/cotecon_vi.docx'
-    text = convert_docx_to_txt("/root/snap/lxd/current/tools/Cotecons/data/"+docx_file_path_vi)
-    namefile_vi = docx_file_path_vi.split(".")[0]
+    docx_file_path_en = sys.argv[1] # en_file = "<filename> (EN).docx"
+
+    # Lấy tên của file docx tiếng Việt
+    docx_file_path_vi = sys.argv[2] # vn_file = "<filename> (VN).docx"
+
+
+    text = convert_docx_to_txt(docx_file_path_vi)
+
+    namefile_vi = docx_file_path_vi.split("/")[1].split(".")[0]
 
     text_arr_vn = text.split("\n")
     
@@ -81,10 +86,10 @@ if __name__ == '__main__':
 
 
     # Xử lý tiếng anh
-    # docx_file_path_en = input("Input file name NĐ English(docx): ")  #'con_en.docx'
-    # docx_file_path_en = '/root/snap/lxd/current/tools/Contecons/data/cotecon_en.docx'
-    text = convert_docx_to_txt("/root/snap/lxd/current/tools/Cotecons/data/"+docx_file_path_en)
-    namefile_en = docx_file_path_en.split(".")[0]
+    
+    text = convert_docx_to_txt(docx_file_path_en)
+
+    namefile_en = docx_file_path_en.split("/")[1].split(".")[0]
 
     text_arr = text.split("\n")
     main_text_arr = []
@@ -110,7 +115,7 @@ if __name__ == '__main__':
     
     
     
-    print("Done")
+    print("Generate file from "+namefile_en+".docx and "+namefile_vi+".docx"+" success")
     
 
 

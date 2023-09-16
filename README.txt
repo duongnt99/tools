@@ -3,8 +3,9 @@
 - Cài đủ thư viện cho python:
     langid: pip install langid, pip install langdetect
     doc2txt: pip install docx2txt
-- Các file đầu vào phải có định dạng docx.
-- Chạy bằng câu lệnh: sh file_name.sh rồi nhập tên file docx tương ứng
-- Khi nhập tên 2 file đầu vào thì nhập tên file tiếng việt trước, file tiếng anh sau, cách nhau bằng khoảng trống ( ví dụ: nd01_vi.docx nd01_en.docx )
-- Định dạng file đầu ra: out_en_filename.txt (ví dụ với file ifrs.docx đầu vào thì 2 file xuất ra là out_en_ifrs_en.txt và out_vi_ifrs_vi.docx)
+- Đặt các file đầu vào vào thư mục data. File đầu vào có định dạng docx với cấu trúc sau:
+  + Nếu là 2 file song ngữ: <filename>(EN).docx và <filename>(VN).docx
+  + Nếu là file bilingual: <tên file>(EN-VN)
+- Chạy bằng câu lệnh: sh file_name.sh 
+- Folder output sẽ chứa các file đầu ra. Định dạng file đầu ra: out_en_filename.txt (ví dụ với file ifrs.docx đầu vào thì 2 file xuất ra là out_en_ifrs.txt và out_vi_ifrs.docx)
         

@@ -5,7 +5,7 @@ import docx2txt
 import re
 import langid
 import string
-
+import sys
 
 from langdetect import detect, DetectorFactory
 DetectorFactory.seed = 0 # Để kết quả xác định ngôn ngữ là nhất quán, hàm này trả về 3 kết quả: vietnamese, english, unknown. Hầu như unknow đều là tiếng anh, trừ một số trường hợp đặc biệt
@@ -48,10 +48,17 @@ def checkStringStartNumber(string): # kiểm tra đầu mục có bắt đầu b
 if __name__ == '__main__':
   # Xử lý tiếng việt
     
-    docx_file_path_vi, docx_file_path_en = input("Input file name QD_02 Vietnamese and English: ").split() #'qd02_vi.docx'
-    text = convert_docx_to_txt("/root/snap/lxd/current/tools/QD02/data/"+docx_file_path_vi)
 
-    namefile_vi = docx_file_path_vi.split(".")[0]
+    docx_file_path_en = sys.argv[1] # en_file = "<filename> (EN).docx"
+
+    # Lấy tên của file docx tiếng Việt
+    docx_file_path_vi = sys.argv[2] # vn_file = "<filename> (VN).docx"
+
+
+    # print(docx_file_path_vi)
+    text = convert_docx_to_txt(docx_file_path_vi)
+    # print(docx_file_path_vi)
+    namefile_vi = docx_file_path_vi.split("/")[1].split(".")[0]
 
     text_arr_vn = text.split("\n")
     
@@ -82,9 +89,9 @@ if __name__ == '__main__':
 
     # Xử lý tiếng anh
     # docx_file_path_en = input("Input file name QĐ English(docx): ")  #'qd02_en.docx'
-    text = convert_docx_to_txt("./root/snap/lxd/current/tools/QD02/data/"+docx_file_path_en)
+    text = convert_docx_to_txt(docx_file_path_en)
 
-    namefile_en = docx_file_path_en.split(".")[0]
+    namefile_en = docx_file_path_en.split("/")[1].split(".")[0]
 
     text_arr = text.split("\n")
     main_text_arr = []
@@ -151,7 +158,7 @@ if __name__ == '__main__':
         string_text = "\n".join(standardized_arr) + "."
         file_txt.write(string_text) 
 
-    print("Done!")
+    print("Generate file from "+namefile_en+".docx and "+namefile_vi+".docx"+" success")
     
 
 

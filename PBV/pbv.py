@@ -4,6 +4,7 @@ import docx2txt
 import re
 import langid
 import string
+import sys
 
 from langdetect import detect, DetectorFactory
 DetectorFactory.seed = 0 # Để kết quả xác định ngôn ngữ là nhất quán, hàm này trả về 3 kết quả: vietnamese, english, unknown. Hầu như unknow đều là tiếng anh, trừ một số trường hợp đặc biệt
@@ -38,10 +39,20 @@ def checkStringStartNumber(string):
         return False
 
 if __name__ == '__main__':
-    docx_file_path = input("Input file name PBV(docx): ")#'pbv.docx'
-    text = convert_docx_to_txt("/root/snap/lxd/current/tools/PBV/data/"+docx_file_path)
+    # docx_file_path = input("Input file name British Council(docx): ")#'bri.docx'
+    # Lấy tên của file python
+    script_name = sys.argv[0] # script_name = "process_docx.py"
 
-    namefile = docx_file_path.split(".")[0]
+    # Lấy tên của file docx tiếng Anh
+    docx_file_path = sys.argv[1] # en_file = "<filename> (EN).docx"
+
+    # Lấy tên của file docx tiếng Việt
+    # vn_file = sys.argv[2] # vn_file = "<filename> (VN).docx"
+
+    # Tiếp tục xử lý hai file docx theo ý bạn
+    text = convert_docx_to_txt(docx_file_path)
+
+    namefile = docx_file_path.split("/")[1].split(".")[0] #Lấy tên file
 
     textArr = text.split("\n")
     correctArr = []
@@ -88,7 +99,7 @@ if __name__ == '__main__':
     with open("./output/out_vi_"+namefile+".txt", "w", encoding="utf-8") as file_txt:
         file_txt.write(vietnamese_text) 
 
-    print("Done")
+    print("Generate file from "+namefile+".docx success")
 
         
 

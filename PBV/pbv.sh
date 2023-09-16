@@ -1,4 +1,6 @@
 #!/bin/bash
 
-# Chạy tệp Python
-python3 pbv.py
+for docx_file in data/*.docx
+do
+  python3 pbv.py $docx_file
+done
