@@ -2,5 +2,5 @@
 
 for docx_file in data/*.docx
 do
-  python3 british.py $docx_file
+  python british.py $docx_file
 done

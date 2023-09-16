@@ -11,7 +11,7 @@ for file in data/*.docx; do
     # Check if the VN file exists
     if [ -f $vn_file ]; then
       # Use the pair of files as input for the python file
-      python3 woori.py $file $vn_file
+      python woori.py $file $vn_file
     fi
   fi
 done
