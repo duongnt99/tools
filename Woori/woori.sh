@@ -9,9 +9,9 @@ for file in data/*.docx; do
     # Remove the EN suffix and add VN suffix to get the corresponding VN file name
     vn_file=${base/"(EN)"/"(VN)"}.docx
     # Check if the VN file exists
-    if [ -f $vn_file ]; then
+    if [ -f "$vn_file" ]; then # ĐẶT DẤU NGOẶC KÉP XUNG QUANH BIẾN vn_file
       # Use the pair of files as input for the python file
-      python woori.py $file $vn_file
+      python woori.py "$file" "$vn_file" # ĐẶT DẤU NGOẶC KÉP XUNG QUANH CÁC BIẾN file VÀ vn_file
     fi
   fi
 done
