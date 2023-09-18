@@ -34,7 +34,7 @@ def convert_docx_to_txt(docx_file_path):
 
   return text
 def checkStringBullet(string): # kiểm tra đầu mục có bắt đầu bằng dấu ()
-    if string.startswith("("):
+    if string.startswith(("(","-")):
         return True
     else:
         return False
@@ -69,35 +69,27 @@ if __name__ == '__main__':
         text_arr_vn[i] = text_arr_vn[i].strip()
         main_text_vn.append(text_arr_vn[i])
 
-    final_arr_vn = []
-    
-    for i in range (0, len(main_text_vn)):
-        if checkStringStartNumber(main_text_vn[i]):
-            sentence = []
-            correct_text_arr = main_text_vn[i].split(".")
-            if(correct_text_arr[2].isnumeric()):
-                for i in range(3, len(correct_text_arr)):
-                    sentence.append(correct_text_arr[i])
-            else:
-                for i in range(2, len(correct_text_arr)):
-                    sentence.append(correct_text_arr[i])
-
-            correct_text = "".join(sentence)
-            final_arr_vn.append(correct_text)
-        else:
-            correct_text = main_text_vn[i]
-            final_arr_vn.append(correct_text)
-
-    for elem in final_arr_vn:
+    for elem in main_text_vn:
       if len(elem)<3:
-        final_arr_vn.remove(elem)
+        main_text_vn.remove(elem)
 
-    for i in range(0 , len(final_arr_vn)):
-        if checkStringStartNumber(final_arr_vn[i]) or checkStringBullet(final_arr_vn[i]): # kiểm tra xem có bắt đầu là đề mục không
-            final_arr_vn[i] = final_arr_vn[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
+    for i in range(0 , len(main_text_vn)):
+        if checkStringBullet(main_text_vn[i]): # kiểm tra xem có bắt đầu là đề mục không
+            main_text_vn[i] = main_text_vn[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
+
+    if main_text_vn.index("Căn cứ vào các PPA, PPA sửa đổi bổ sung đã ký, kết quả việc công nhận Ngày vận hành thương mại các dự án điện gió cụ thể như sau:"): 
+      start_index = main_text_vn.index("Căn cứ vào các PPA, PPA sửa đổi bổ sung đã ký, kết quả việc công nhận Ngày vận hành thương mại các dự án điện gió cụ thể như sau:")+1
+      print(start_index)
+      end_index = main_text_vn.index("Tập đoàn Điện lực Việt Nam kính báo cáo./.") + 1
+      print(end_index)
+      main_text_vn = main_text_vn[:start_index] + main_text_vn[end_index:]
+
+    if main_text_vn.index("Phụ lục 1"):
+      start_index = main_text_vn.index("Phụ lục 1") - 1
+      main_text_vn = main_text_vn[:start_index]
 
     with open("./output/out_vi_"+namefile_vi+".txt", "w", encoding="utf-8") as file_txt:
-        string_text = "\n".join(final_arr_vn) + "."
+        string_text = "\n".join(main_text_vn) + "."
         file_txt.write(string_text) 
 
 
@@ -114,35 +106,27 @@ if __name__ == '__main__':
             text_arr_en[i] = text_arr_en[i].strip()
             main_text_arr.append(text_arr_en[i])
 
-    final_arr_en = []
-    
-    for i in range (0, len(main_text_arr)):
-        if checkStringStartNumber(main_text_arr[i]):
-            sentence = []
-            correct_text_arr = main_text_arr[i].split(".")
-            if(correct_text_arr[2].isnumeric()):
-                for i in range(3, len(correct_text_arr)):
-                    sentence.append(correct_text_arr[i])
-            else:
-                for i in range(2, len(correct_text_arr)):
-                    sentence.append(correct_text_arr[i])
-
-            correct_text = "".join(sentence)
-            final_arr_en.append(correct_text)
-        else:
-            correct_text = main_text_arr[i]
-            final_arr_en.append(correct_text)
-
-    for elem in final_arr_en:
+    for elem in main_text_arr:
       if len(elem)<3:
-        final_arr_en.remove(elem)
+        main_text_arr.remove(elem)
+        
+    for i in range(0 , len(main_text_arr)):
+        if checkStringBullet(main_text_arr[i]): # kiểm tra xem có bắt đầu là đề mục không
+            main_text_arr[i] = main_text_arr[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
+    
+    if main_text_arr.index("Items"):
+      start_index = main_text_arr.index("Items") - 1
+      print(start_index)
+      end_index = main_text_arr.index("Above is the report by the Vietnam Electricity./.") + 1
+      print(end_index)
+      main_text_arr = main_text_arr[:start_index] + main_text_arr[end_index:]
 
-    for i in range(0 , len(final_arr_en)):
-        if checkStringStartNumber(final_arr_en[i]) or checkStringBullet(final_arr_en[i]): # kiểm tra xem có bắt đầu là đề mục không
-            final_arr_en[i] = final_arr_en[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
+    if main_text_arr.index("Appendix 1"):
+      start_index = main_text_arr.index("Appendix 1") - 1
+      main_text_arr = main_text_arr[:start_index]
 
     with open("./output/out_en_"+namefile_en+".txt", "w", encoding="utf-8") as file_txt:
-        string_text = "\n".join(final_arr_en) + "."
+        string_text = "\n".join(main_text_arr) + "."
         file_txt.write(string_text) 
 
     print("Generate file from "+namefile_en+".docx and "+namefile_vi+".docx"+" success")

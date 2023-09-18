@@ -1,4 +1,5 @@
 from ast import Import
+from cmath import isnan
 from json.tool import main
 from os import remove
 from pickle import TRUE
@@ -8,6 +9,7 @@ import re
 import langid
 import string
 import sys
+import nltk
 
 from langdetect import detect, DetectorFactory
 DetectorFactory.seed = 0 # Để kết quả xác định ngôn ngữ là nhất quán
@@ -73,17 +75,25 @@ if __name__ == '__main__':
     for elem in main_text_vn:
         if "VỮNG VÀNG TRONG THỬ THÁCH" in elem:
             main_text_vn.remove(elem)
-    
-    # print(main_text_vn[6])
 
-    # for i in range(0 , len(main_text_vn)): #chuẩn hóa mảng
-    #     if checkStringStartNumber(main_text_vn[i]) or checkStringBullet(main_text_vn[i]): # kiểm tra xem có bắt đầu là đề mục không
-    #         main_text_vn[i] = main_text_vn[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
+    bucket_arr_vn = []
+    for i in range(0 , len(main_text_vn)):
+        sentence = nltk.sent_tokenize(main_text_vn[i]) #Tách đoạn thành câu
+        bucket_arr_vn.append(sentence)
+ 
+    standardized_arr_vn = []
+    for i in range (0,len(bucket_arr_vn)):
+        if(len(bucket_arr_vn[i])>1): # tìm đoạn văn
+            for j in range(0, len(bucket_arr_vn[i])):
+                standardized_arr_vn.append(bucket_arr_vn[i][j]) # Lấy các câu trong đoạn văn
+        else:
+            string_text = "".join(bucket_arr_vn[i])
+            standardized_arr_vn.append(string_text) #lấy các câu đơn
     
-    with open("./output/out_vi_"+namefile_vi+".txt", "w", encoding="utf-8") as file_txt:
-        string_text = "\n".join(main_text_vn) + "."
-        file_txt.write(string_text) 
-
+    for elem in standardized_arr_vn:
+        if len(elem)<10: # xóa những dòng bị thừa
+            standardized_arr_vn.remove(elem)
+    
 
     # Xử lý tiếng anh
     
@@ -104,40 +114,33 @@ if __name__ == '__main__':
         if "STAND FIRM IN CHALLENGES" in elem:
             main_text_arr.remove(elem)
           
-    # for i in range(0 , len(main_text_arr)): #chuẩn hóa mảng
-    #     if checkStringStartNumber(main_text_arr[i]) or checkStringBullet(main_text_arr[i]): # kiểm tra xem có bắt đầu là đề mục không
-    #         main_text_arr[i] = main_text_arr[i].split(" ", 1)[1].strip() #lấy phần tử thứ 2, loại bỏ đề mục
-            
+    bucket_arr_en = []
+    for i in range(0 , len(main_text_arr)):
+        sentence = nltk.sent_tokenize(main_text_arr[i]) #Tách đoạn thành câu
+        bucket_arr_en.append(sentence)
+ 
+    standardized_arr_en = []
+    for i in range (0,len(bucket_arr_en)):
+        if(len(bucket_arr_en[i])>1): # tìm đoạn văn
+            for j in range(0, len(bucket_arr_en[i])): 
+                standardized_arr_en.append(bucket_arr_en[i][j]) # Lấy các câu trong đoạn văn
+        else:
+            string_text = "".join(bucket_arr_en[i]) 
+            standardized_arr_en.append(string_text) #lấy các câu đơn
+    
+    for elem in standardized_arr_en:
+        if len(elem)<10: # Xóa những dòng bị thừa
+            standardized_arr_en.remove(elem)
+
     with open("./output/out_en_"+namefile_en+".txt", "w", encoding="utf-8") as file_txt:
-        string_text = "\n".join(main_text_arr) + "."
-        file_txt.write(string_text)
+        string_text = "\n".join(standardized_arr_en) + "."
+        file_txt.write(string_text) 
     
-    
+    with open("./output/out_vi_"+namefile_vi+".txt", "w", encoding="utf-8") as file_txt:
+        string_text = "\n".join(standardized_arr_vn) + "."
+        file_txt.write(string_text) 
     
     
     print("Generate file from "+namefile_en+".docx and "+namefile_vi+".docx"+" success")
-    
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        
 
