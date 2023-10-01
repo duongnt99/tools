@@ -1,0 +1,339 @@
+TermsandConditionsforHLBConnect Digital BankingService(forIndividuals)ofHong LeongBankVietnam Limited
+Your use and access to your HLB Connect Digital Banking Service shall be subject to the following Terms and Conditions  
+These Terms and Conditions are applicable to all access of HLB Connect from online banking, and mobile electronic device having operation system platform including but not limited to iOS, Android or any electronic operating system platform which is linked to HLB Connect of Hong Leong Bank Vietnam Limited for its customers using  
+The following terms and expressions shall have the meanings assigned to them unless the context otherwise requires  
+“Customer” or “you” means the individual customers who register HLB Connect Digital Banking Service  
+“HLB Connect Digital Banking Service” or “HLB Connect” means digital banking service provided by HLBVN through HLB Connect Online Banking or HLB Connect App or any other electronic device as HLBVN’s description from time to time and in accordance with the Terms and Conditions of HLB Connect Digital Banking Service  
+“HLB Connect Online Banking” means the internet banking services provided by HLBVN to enable you to	perform	banking	transactions	on	electronic	device	through	the	internet	browser www hongleongconnect com vn of HLBVN  
+“HLB Connect App” means the mobile banking application provided by HLBVN to enable you to perform banking transactions on your mobile device (which is allowed to install HLB Connect Digital Banking Application) through HLB Connect App  
+“HLBVN” means Hong Leong Bank Vietnam Limited and includes all its successors-in-title and assigns in respect of rights and obligations of HLBVN  
+“Banking Account” means all banking accounts (including but not limited payment account, deposit account and loan account) which you had with HLBVN, linked to HLB Connect Digital Banking Service at any time and from time to time  
+The Banking Account shall refer to one or more accounts as the context shall require  
+“Digital Banking Account Card” means savings account Hong Leong Visa debit card which you had opened with HLBVN digitally via HLB Connect. 
+The Digital Banking Account is called as Lite Account  
+The Digital Banking Account Card shall be entitled to make specific online transactions only with limits on transaction unless otherwise removed as per applicable regulations. 
+“HLB Connect Account” means the login account to HLB Connect granted to customer by HLBVN for accessing to HLB Connect including Username and Password  
+“Username” means a name for using HLB Connect selected or created by you comprising of alphanumeric characters during the Registration or the Reset of your HLB Connect Account  
+“Password” means access password to your HLB Connect Account, including alphanumeric characters created by you as rules provided by HLBVN during the Registration or Reset HLB Connect Account  
+“Activation Code” is list of alphanumeric characters issued to you by HLBVN where you opened Banking Account at HLBVN branches, transaction office as required for your Registration or the Reset of HLB Connect Account where you choose the Banking Account number option for Registration or Reset HLB Connect Account  
+“Mã OTP” (One Time Password) 
+“OTP” (One Time Password)  “SmartOTP” which is a transaction confirmation code sent via mobile 
+phone in case of OTP or via device registered for SmartOTP in case of SmartOTP to provide a second layer of protection for Online Transaction in addition to Username and Password  
+It is required to enter OTP or SmartOTP within specific time to perform the Online Transaction  
+“Registration” means the process of registering HLB Connect Digital Banking Service and or HLB Connect App of HLBVN. 
+“Reset HLB Connect Account” means change of your Security Codes to access HLB Connect should you want to change or forget your Security Codes or when you want to reactivate your HLB Connect Account which has become dormant after three (3) months of in-active un-utilizing. 
+“Security Codes” means the security credentials used to identify you when you access and utilize HLB Connect comprising of the Username, Password, OTP, Activation Code, Connect Biometric Authentication and any other Security Codes as HLBVN may issue from time to time  
+“Online Transaction” means transactions performed by Banking Account through HLB Connect  
+“CAPTCHA Code” (Completely Automated Public Turing test to tell Computers and Humans Apart) means a random automatic test applied in computer to distinguish computer with human, this is part of HLB Connect’s online security to register HLB Connect  
+ “Biometric Authentication” means the service which  
+is only available for customer using smart phone or such other equivalent electronic device (“Mobile Device”) which employs either  
+ hoặc fingerprint recognition  or 
+facial recognition  
+And 
+ enables you to gain access to HLB Connect by using either  
+your fingerprint which has been stored on your Mobile Device (“Fingerprint”)  or 
+your facial identification which has been stored on your Mobile Device (“Face”)  
+as a simplified sign-in option, and your Fingerprint or Face (“Biometric Identification”), as the case may be, together with the Biometric Authentication (as defined in Clause 5 9 2 (a) herein) shall form one of your Security Codes by which HLBVN identifies you for the purpose of enabling you to transact through HLB Connect  
+“Instructions” mean any instruction given by you to HLBVN using the Security Codes through HLB Connect or through any Approved Communication Channel  
+“Instant Transfer” is inter-bank transfer service through HLB Connect provided by HLBVN in collaboration with National Payment Corporation of Vietnam (Napas) to allow instant money transfers from the payment account to another account at other banks in the Napas system by using ATM Debit Card number or account number. 
+“Privacy Policy” means HLBVN’s policies and principles pertaining to the collection, use and storage of personal information of existing and prospective individuals and entities dealing with HLBVN as may be amended from time to time and made available at the HLBVN website respectively and or in such manner as HLBVN deems appropriate. 
+“Approved Communication Channel” means the communication channels (including but not limited to the telephone, email or any electronic means as may be approved by HLBVN from time to time and which requires authentication with the requisite security codes prescribed for the respective communication channel) which you may use to issue Instructions to HLBVN  
+“Contact Center” is center to perform serving, guiding and responding your question via telephonenumber 1900 633 068, operating 24 hours per day and 7 days per week  
+“Affiliates” means any entity, company, corporation or institution which may offer products, services, content or information on HLB Connect from time to time  
+“Mobile Network Service Provider” or “Mobile Network” means any of the registered telecommunication network service providers providing mobile phone services  
+“Network Service Provider” or “Network Provider” means any internet service provider or commercial online service provider providing connection to the internet  
+“Business Day” means a day on which HLBVN is opened for business in Vietnam, as the case may be, except for public, bank holidays or other holidays  
+Transaction time of HLBVN will be posted on HLBVN website and or at branches transaction office from time to time. 
+“User Guide” means the user manual guideline(s) prepared by HLBVN intended to give assistance to customers using HLB Connect  
+“FAQ” means the frequently asked questions pertaining to registration and banking transaction matters through HLB Connect  
+The FAQ are available on HLB Connect website at www hongleongconnect com vn and HLB Connect App  
+“Terms and Conditions” means these terms and conditions for HLB Connect Digital Banking Service unless the context requires otherwise and includes any amendments, additions, variations or deletions made from time to time and shall refer to the terms and conditions prevailing at that time  
+thích Interpretation
+Wordsimporting the singularshall include theplural and viceversa  
+Where there are two or more personscomprised in the term “You” or “Customer”, instructions, agreements, undertakings, obligations expressed to be issued or given by or made by one person, shall be deemed to have been issued or given by or made by and binding upon such persons jointly and severally  
+Existing HLBVN customer and has an active Banking Account with HLBVN or new customer applies for Hong Leong Visa Debit card  
+HLBVNhasthe sole and absolute discretion to accept orreject yourregistration without having to disclose its reason for doing so and or to respond to any request for information. 
+You are able to customize your Banking Account(s) settings on HLB Connect which you are the account holder and or joint account holder, however you could not perform any transaction with the jointly Banking Account (if any). 
+Personal Electronic Devices and Internet Mobile Network Access 
+ You are solely responsible  
+To ensure that the computer terminal and or personal electronic devices and related software and hardware meet the required specifications and configurations as may be specified by HLBVN from time to time; and 
+For the installation, maintenance and security of your computer terminal and or personal electronic devices, related hardware and software (including the internet browser software) and internet data connection used to access the HLB Connect, and HLBVN shall not be responsible for any loss, damage or expense incurred by you or any third party from any delay, failure, disruption, malfunction or intrusion to the above. 
+Your access to HLBVN’s website and HLB Connect through a Network Service Provider will be dependent on the terms and conditions of the Network Service Provider  
+The provision of the OTP or SmartOTP upon your request is sent to you through the Mobile Network or the Network Provider respectively and will be dependent on the terms and conditions of the Mobile Network Network Provider. 
+HLBVN shall not be responsible for any loss or expense incurred by you or any third party from any delay, failure, disruption, malfunction or intrusion to the provision of OTP SmartOTP above. 
+ký HLB Connect Registration of HLB Connect
+For existing customer of HLBVN, you access to website www hongleongconnect com vn, or download HLB Connect App to register HLB Connect using your Banking Account number as below: 
+Step 1: You will be required to select a Banking Account type, enter the Banking Account number, Activation Code, Passport ID Number, CAPTCHA code (if any) and OTP to verify information. 
+Step 3: Read and accept these Terms and Conditions  
+Step 4: You may select login by Biometric Authentication (if any)  
+If not, please skip this step to complete the registration  
+Once successful registration via website www.hongleongconnect.com.vn, you will be notified of the default daily monthly online transaction limits through HLB Connect on the acknowledgment screen. 
+For new customer, the Registration of HLB Connect is performed together with registration for account and Hong Leong Visa Debit Card via HLB Connect by these steps  
+Step description
+Select “Start now” and choose “Open bank account”, key in your email address and input OTP which is sent to your email  
+Answer questions on ID Citizen Card, FATCA, resident status in Vietnam and Legal agreement question as requested then select “Next”. 
+Take font ID, back ID and selfie, after that you verify your information which have been captured and generated by OCR, fulfill your gender information and marital status then select “Next”  
+Input permanent, current address and delivery address then select “Next”  
+Fulfill required information: occupation, title and industry, Annual Income and Tax code then select “Next”  
+Register HLB Connect Account by creating username, password and register mobile number, create tag name then select “Next”  
+You will receive a summary page for your review and send (Open now)
+Read and accept these Terms and Conditions, Terms and Conditions of Account, Hong Leong Visa Debit Card Terms and Conditions, then download the Application Form and read it
+Enter OTP which is sent to your mobile phone number to submit the Registration  
+Select Lite Account for immediate availability with limited transactions as provided by HLBVN from time to time or Full Account (bank account with full functions) for the unlimited transactions  
+After completion of account and card opening, you can login to your HLB Connect Account by using the registered Username and Password or registered Biometric Authentication  
+You may download and install HLB Connect App on up to five (5) Mobile Devices, and use the same Security Codes to login and access HLB Connect  
+You may de-register HLB Connect App from any of your Mobile Devices through any of the following modes  
+Self de-registration – you are required to login to HLB Connect App to uninstall HLB Connect App from any registered Mobile Device  
+Contact to Contact Center to request for the de-registration of HLB Connect App from any your Mobile Device  
+Message – you are required to login to HLB Connect and send us a message to request for de-registration of HLB Connect App from any your Mobile Device  
+HLB Connect Account will become dormant if there is no login activity and or utilization within a 3-consecutive month period. 
+For the purpose of security, the HLB Connect Account will be blocked if the Username and or Password was keyed in wrongly for three (3) times, or the OTP SmartOTP was input wrongly for nine (9) times. 
+ Reset HLB Connect  
+1 (a)  
+You are required to reset or change your Username or Password by performing the same process as Registration in Clause 5 1 (a)  
+HLB Connect Account in dormant block status 
+You are required to reactivate your HLB Connect Account in dormant blocked status by contact our Contact Center or any Branch Transaction office of HLBVN for our support to update Banking Account status then you can reactivate HLB Connect Account by performing the same process as Registration in Clause 5.1 (a). 
+You agreethat HLBVNuses yourSecurity Codes to identify you andacknowledgethat youmust keep all yourSecurity Codes secure and exercise reasonable care to prevent unauthorised access and or use. 
+HLBVN reserves the right to invalidate your Security Codes without being obliged to offer any prior notice or explanation and to refuse the replacement of the Security Codes without assigning any reason  
+Once you have logged on to HLB Connect Account, you must not leave the device which you are using to access HLB Connect at any time or let anyone else to access it until you have properly logged off  
+You are responsible for ensuring that you have properly logged off at the end of each session  
+ To use the Biometric Authentication function, you hereby undertake and confirm that  
+ You are the registered user of HLB Connect Account  
+You have installed HLB Connect App on your Mobile Device  
+You have registered successfully HLB Connect Account on your Mobile Device  
+You have registered successfully your Biometric Identification on your Mobile Device to access HLB Connect Account  and 
+ Activate the following functions  
+For iOS devices: Touch ID or Face ID to unblock your Mobile Device  
+For Android devices: Activate fingerprint protection  
+Biometric Identification stored on your Mobile Device which you used to access HLB Connect is your identification and you agreed to use this information as your official identification information when accessing to HLB Connect  
+To activate the Biometric Authentication of HLB Connect, firstly you must login into HLB Connect App, then go to “Security” menu and select “Manage Biometric” and turn on “Login using device biometrics”  
+To deactivate the Biometric Authentication, first you are required to login into HLB Connect App, then go to “Security” menu and select “Manage Biometric” and turn off “Login using device biometrics”  
+By using the Biometric Authentication service, you hereby acknowledge and agree to the following specific terms  
+Your Mobile Devices installed HLB Connect App which having the biometric authentication function enable you access HLB Connect Account by your Fingerprint or Face after you activate Biometric Authentication function on HLB Connect, and HLBVN shall base on your Biometric Identification (Face or Fingerprint) on Mobile Device for verification  
+For avoidance of doubt, all exiting Fingerprint or Face data is stored in the relevant Mobile Device when you set-up activation of Biometric Authentication by your Fingerprint Face on your Mobile Device and no Fingerprint or Face data is stored on HLBVN servers. 
+For the purpose of the Biometric Authentication service, verification of the Fingerprint or Face is effected by the Mobile Device itself  
+Once the Fingerprint or Face is recognised by the Mobile Device, the successful verification will be relayed by the Mobile Device to the Biometric Authentication interfaceof HLB Connecttoenable or disableyou to proceed with therelevant transaction on HLB Connect  
+You shall not register any third party fingerprint as your Fingerprint or any third party face as your Face, as doing so will enable the third party(s) to have access rights to your HLB Connect Account and perform all functions services available within HLB Connect, including Biometric Authentication service. 
+If you have any third party fingerprint or third party face stored on your Mobile Device, you are required and you hereby warrant that such third party fingerprint or third party face has been deleted from your Mobile Device prior to activate Biometric Authentication service at HLB Connect App  
+Your Fingerprint or Face should be protected with the same level of security as your other Security Codes to prevent any unauthorized access to your HLB Connect Account as well as specified in Clause 11 of this Terms and Conditions  
+Instructions given by you to use Biometric Authentication service shall comprise Instructions as set out in Clause 7 of these Terms and Conditions  
+You shall deactivate Biometric Authentication service in accordance with Clause 5 9 1 (c) herein in the event that you change or dispose your Mobile Device  
+You can use the Biometric Authentication service in respect of up to five (5) Mobile Devices which registered for HLB Connect App but each Mobile Device requires separate Registration for Biometric Authentication service  
+You acknowledge that HLBVN owes no duty to verify the Fingerprint or Face endorsed on the Mobile Device and agree that to the extent permitted under applicable law, HLBVN shall not be liable for any and all losses, liabilities, costs, expenses, damages, claims, actions, or proceedings of any kind whatsoever (whether direct, indirect, or consequential) in respect of any matter in connection with  
+the provision by HLBVN of or your use of Biometric Authentication  
+any unauthorised access and performance of unauthorized transaction by HLB Connect Account through Biometric Authentication and or use of your Mobile Device; and 
+any breach of or failure to comply with any of these Terms and Conditions or any relevant procedures set by HLBVN  
+You acknowledge that in the event that you have lost your Mobile Device, you must deactivate Biometric Authentication immediately bycontacting Contact Center to report the loss of your Mobile Device and request for the Biometric Authentication in respect of the lost Mobile Device to be de-registered  
+If you have more than one (1) Mobile Device registered for Biometric Authentication, you are able to deactivate Biometric Authentication for the lost Mobile Device yourself by using your other Mobile Device  
+9  
+HLBVN reserves the right to deactivate Biometric Authentication if such service has not been utilised for three (3) months from the date of your last login or registration or for any time period as may be determined by HLBVN at its absolute discretion without any prior notice of such deactivation  
+To be able to use Biometric Authentication again, you are required to reactivate Biometric Authentication in accordance with clause 5 9 1 (b) herein  
+HLBVN may in its absolute discretion and at any time, suspend, restrict or terminate your access to Biometric Authentication without being obliged to provide any reason for such suspension, restriction or termination  
+Step 1: To activate the SmartOTP of HLB Connect, firstly you must login into HLB Connect App, go to “Security” menu, select “SmartOTP” and turn on “Active SmartOTP”  
+You are required to input OTP to confirm your request on activiating SmartOTP  
+The OTP will be sent to your phone number registered at HLBVN  
+You have successfully registered your SmartOTP PIN  
+The current device will become the main SmartOTP device
+After enable SmartOTP successfully, all transactions relating to the Bank Account will be performed with SmartOTP, which is sent via the main SmartOTP device  
+Step 1: To change the SmartOTP PIN, firstly you must login into HLB Connect App, then go to “Security” menu, select “SmartOTP” and turn on “Change SmartOTP PIN”  
+Step 2: Confirm OTP code  
+This OTP code will be sent via SMS to your registered mobile phone number to confirm your request  
+Step 3: Key in new PIN and confirm by re-keying in new PIN  
+Complete the change of SmartOTP PIN  
+Step 1: To un-enroll the SmartOTP, firstly you must login into HLB Connect App, go to “Security” menu, select “SmartOTP” and then select “Un-enroll Smart OTP”  
+Step 2: Confirm OTP code  
+This OTP code will be sent via SMS to your registered mobile phone number to confirm your request  
+Complete the un-enroll SmartOTP  
+Step 1: to un-active the SmartOTP PIN, firstly you must login into HLB Connect App, then go to “Security” menu, select “SmartOTP”  
+ turn off “Active SmartOTP” 
+Step 3  confirm your request to switch off Smart OTP 
+If your SmartOTP Management Device is facing problems such as damage or losing, you can contract to HLBVN via Customer Center  
+Hotline  1900633068 
+Email: ask@hlbvn hongleong com 
+New Additional Services – Where HLBVN offers new or additional services, your acceptance in the manner prescribed by HLBVN and use of such new or additional services shall be prescribed in these Terms and Conditions and such additional terms and conditions (if any) as may be prescribed by HLBVN. 
+Rules and Regulations Governing Your Accounts – These Terms and Conditions shall be read together with the Terms and Conditions of Accounts  
+If there is any inconsistency between such Terms and Conditions of Accounts and these Terms and Conditions in term of HLB Connect, these Terms and Conditions shall prevail  
+Type of Services Available in HLB Connect Online Banking (to be performed on website) include the following but not limited to
+Savings Account 
+Savings account at HLBVN 
+Debit Card number 
+Fixed Deposit (FD)  Time Savings Deposit (TSD) 
+TSD Placement 
+TSD Withdrawal 
+Customise your internal Accounts to allow for online viewing only or for payment & transaction  
+ Type of Services Available in HLB Connect App include the following but not limited to 
+Savings account 
+Savings account at HLBVN 
+Debit card number 
+Bill Payment & Top Up Service
+ Time Savings Deposit (TSD) 
+TSD Placement 
+TSD Withdrawal 
+Mange registration of Biometric Authentication
+TSD Online 
+The placement and withdrawal FD TSD on HLB Connect is performed by your payment Account opened at HLBVN and is not applied for jointly Account. 
+You could place a FD TSD through HLB Connect by fulfilling all required information and follow the procedure set up on HLB Connect including: choose payment Account, input deposit amount, tenor, maturity instructions and note (if any). 
+Your request shall be addressed to HLBVN and effected after the OTP sent to your registered mobile phone number with HLBVN or SmartOTP sent to your Mobile Device registered for SmartOTP  
+By entering into OTP SmartOTP, the placement FD TSD transaction is completed, unless any other error notification from HLB Connect. 
+The receipt of FD TSD placement is transaction confirmation which is equivalent to FD agreement or TSD certificate. 
+You could obtain the information on such FD TSD directly by using HLB Connect Account or contacting Contact Center. 
+The Debit Account for placing FD TSD shall be concurrently payment Account to receive placed FD TSD and its interest at maturity. 
+You could withdraw FD TSD before maturity date in accordance with set up procedure on HLB Connect. 
+The Customers are allowed to withdraw (partial or wholly) the FD TSD before its maturity, the premature withdrawn deposits shall earn the maximum interest rate equal to the lowest interest rate of demand deposits based on the type of customers and or the respective deposit currency offered by HLBVN at the time of premature withdrawal or other rate provided by HLBVN in accordance with the applicable laws. 
+The remaining amount of the FD TSD after the premature withdrawal (if any) shall be recorded on your HLB Connect Account and continue to earn the interest rate equal to the interest rate applied to the FD TSD that the customer has withdrawn a part until its maturity. 
+The interest rate for deposit or renewal shall be respective interest rate applied by HLBVN from time to time and automatically set up on HLB Connect  
+The interest rate for premature withdrawals shall be the lowest interest applicable to demand deposits of HLBVN by respective currency at the time of premature withdrawal or other rate provided by HLBVN in accordance with the applicable laws  
+ Interest accrues on a daily basis of a 365 day per year and the actual number of days elapsed using the following formula  
+365 Interest = ∑ (Actual balance x number of days maintaining actual balance x Interest rate) 365 
+If you are the foreigner, the tenor for deposit is restricted within the remaining time of the permitted residence term in Vietnam which is updated and recorded in HLBVN system  
+In any circumstances, if your payment Account at HLBVN is inactive  has been closed at the maturity of deposit, HLBVN is entitled to settle the balance of such deposit according to HLBVN’s internal procedure and applicable laws. 
+SmartOTP: For transactions or services requiring OTP SmartOTP: 
+You may request for the OTP or SmartOTP to perform any Service via HLB Connect where the OTP will be sent via SMS to your mobile phone number which has been registered with HLBVN or SmartOTP sent to your Mobile Device registered for SmartOTP  
+Delivery time of the OTP SmartOTP is dependent on the service level of your subscribed Mobile Network Network Provider respectively. 
+When you enter the received OTP SmartOTP to perform your request Service, you are assumed that you understood and agreed with all terms and conditions applicable for such Service. 
+SmartOTP, Mã OTP 
+If you request for an OTP SmartOTP more than once, the previously requested OTP SmartOTP will be rendered invalid and the latest request will be the valid OTP SmartOTP to be used in HLB Connect. 
+ Account Information Presented via HLB Connect  
+HLBVN shall endeavour to ensure that all information pertaining to your Banking Accounts are presented as accurate as possible on HLB Connect  
+Notwithstanding this, you acknowledge that HLBVN does not warrant the absolute accuracy of the information  
+Should you have reason to believe that the information is inaccurate, you will report to HLBVN who will then investigate and resolve the inaccuracy within seven (7) Business Days  
+You acknowledge that your Banking Account information as presented to you via HLB Connect may not be always completely up-to-date due to the possibility of transactions that are yet to be fully processed, verified or authorized by HLBVN or third party (as the case may be)  
+Pursuant to this, HLBVN is obliged to attend to your queries on any of your accounts related to HLB Connect  
+In the event of inconsistency between the Banking Accounts information presented in HLB Connect and the HLBVN's main system (the Host banking system), the Banking Account information as reported by the main system and assessable at branches of HLBVN shall prevail  
+ Transfer to other banks in Vietnam 
+HLBVN may send messages pertaining to telegraphic fund transfer or other modes of electronic fund transfer by way of cable, telex, telephone, facsimile or other electronic means as may be determined by HLBVN, in either literally, code or cipher or other forms as HLBVN may deems fit  
+Instruction for fund transfer shall be irreversible and irrevocable once delivered to HLBVN unless otherwise permitted by HLBVN  
+Instruction for fund transfer received after the respective stipulated cut-off-time will be held over until the next Business Day, this term is not applicable for Instant Transfer  
+Refund of any remittance will be made only after HLBVN receives confirmation of effective cancellation of the remittance and confirmation of indemnity in the form of HLBVN from the Customer  
+Refund shall only in the currency corresponding to the currency of the remittance less cost, interests, charges and expenses, if any  
+All cost and expenses incurred in respect of the amendments, reversals, cancellations and or refund shall be solely borne by the Customer. 
+Notwithstanding any provisions herein contained, HLBVN reserves the absolute right to reject any transfer request in its absolute discretion and without having to disclose its reason(s) for doing so and its decision shall not be questioned on any account whatsoever  
+You shall ensure that all information provided in the transfer request is accurate and correct  
+For any straight through processing, the crediting to beneficiary’s account will be based on the account number in Instruction but not from other details, unless otherwise specified  
+HLBVN shall not liable to the Customer or any third party for damages, loss of profits or earnings, goodwill or any type of special exemplary, incidental, direct or consequential loss or damage howsoever arising whether by way of omission, negligence, any breach of contract or otherwise and whether or not HLBVN has been advised of the same for any of the following: 
+for any misinterpretation or error (including incorrect name(s) or account number(s) or amount of the transfer request) in any information provided to HLBVN  
+in the event thetransmission of messages isdelayed,failed orotherwise interrupted due to reasonsbeyond HLBVN’s control including but not limited to fire, earthquake, landslide, flood, epidemic, natural catastrophe accident, riots, civil disturbance, industrial disputes, act of public enemy, embargo, war, act of God or any failure or disruption to telecommunications, electricity, water, fuel supply or any factor in a nature of a force majeure or beyond the control of HLBVN  
+But in the event HLBVN is found liable by laws, HLBVN’s sole and entire liability shall not exceed the amount of fee charge paid for fund transfer involved which gave rise to the claim paid by the Customer. 
+The Customer undertakes to indemnify HLBVN fully and completely and against all claims, demands, loss and expenses (including legal costs as between solicitor and own client) and all other liabilities of whatsoever nature or description which may be made taken incurred and suffered by HLBVN in connection with or in any manner arising out of the provision of the Services or the acceptances of any application made by the Customer of any of the terms and conditions  
+The liabilities of the Customer shall be a continuing liability and will remain in full force and effect until the liability, if any, of HLBVN is fully discharged  
+Customers are required to be aware of any sanctions imposed by countries  organizations where they wish to send funds to or receive funds from. 
+If any funds documents transactions are delayed blocked held in relation to the said sanction(s), HLBVN will not be held liable for such delay block holding. 
+HLB Connect is available for your use in twenty four (24) hours a day and seven (7) days a week unless HLBVN notifies you otherwise or for any reason beyond the control of HLBVN  
+HLBVN does not warrant that HLB Connect will be available at all times, but HLBVN warrants that total time of system suspension in a year is maximum seven (7) day and time for system recovery upon breakdown is maximum four (4) hours  
+In the event HLB Connect is not available, you may carry out your transactions at any of HLBVN’s branches transaction offices or use other alternative banking services available to you. 
+HLBVN reserves the right to deactivate your HLB Connect Account if the services have not been utilized for three (3) months or any other time periods as may be determined by HLBVN at its absolute discretion without any prior notice of such deactivation  
+Reliability of Information – Information including but not limited to interest rates, foreign currency exchange rates, product information or quote provided by HLB Connect are for indication purposes only  
+The actual rate orspecific rate that shall apply fora particulartransaction canonly be determined at the time the relevant transaction is entered into  
+All transactions carried out through the Security Codes, shall be deemed Instructions and authorizations given by you to HLBVN and HLBVN shall rely upon and act in accordance with the Instructions given by or on behalf of you without inquiry to the authenticity of such Instructions and person giving such Instructions and that HLBVN shall be in no way responsible for any misuse or unauthorized use of messages or Instructions given to HLBVN  
+HLBVN shall be entitled to treat such instructions as given by you and HLBVN shall be entitled to take such steps in reliance upon such instructions and will not be held liable for any loss, damages and expenses suffered by you or anyone else for complying with such Instructions  
+Once issued or transmitted, such Instructions shall be irreversible and shall be conclusive evidence that the Instructions came from you  
+You shall ensure that the Instructions issued are complete, accurate and correct  
+HLBVN shall be entitled to debit your Banking Account immediately on completion of any transaction instructed by you via HLB Connect using your Security Codes  
+You may issue Instructions to cancel, revoke, reverse or amend your earlier Instructions and HLBVN, at its sole discretion, may only comply with the subsequent Instructions provided that the earlier instruction has not been executed  
+HLBVN reserves the right not to comply with your Instructions if they are inconsistent with HLBVN’s policies or rules and regulations in force for the time being  
+Any Instructions transmitted or received by HLBVN after the relevant cut-off processing time on any Business Day will be treated as given and processed on the next Business Day  
+The cut-off time for processing transactions may be varied by HLBVN from time to time at its absolute discretion without any prior notice to you  
+Transactions that have not been verified or processed by HLBVN shall not appear in the balances of the relevant Banking Account on HLB Connect and shall not be recorded on the statement of relevant Banking Account  
+You could inquire the history of online transactions performed by Banking Account through HLB Connect for period(s) as regulated by HLBVN and download the statement for such transactions  
+Such statements of the Banking Account shall be binding and conclusive evidence of such transactions carried out by you  
+HLBVN shall be entitled to determine and impose any limit whether in amount, frequency and use of or otherwise of any of HLB Connect and or Security Codes (“Limits of Digital Transaction”). 
+Such Limits of Digital Transaction may have difference between the domestic or oversea transaction, type of transfer (i e Instant Transfer and Normal Transfer) and subject to the customer status (being a priority customer, customer opening Full Account or Lite Account2)  
+The Limits of Digital Transaction may be announced by HLBVN from time to time via its website and or HLB Connect. 
+1 herein 
+The Customer may vary such limits by giving prior notice in writing to HLBVN and or through HLB Connect (where applicable) and or by upgrading your customer status at any branch transaction of HLBVN (i.e from customer who opens Digital Banking Account to customer opening Banking Account as normal process, or to priority customer). 
+The limit variation shall be subject to HLBVN’s acceptance in accordance with its regulations from time to time  
+HLBVN shall be entitled to impose service fees and other charges for the services utilized by you from time to time  
+HLBVN is entitled to vary the service fees and other charges, as its description, at any time and from time to time by serving notification at HLBVN premises or post on public media or on website of HLBVN or other media  
+Notwithstanding the imposition of service fees and charges of HLB Connect, transactions carried out through Banking Accounts will be charged the usual charges  
+HLBVN reserves the absolute right to vary the fees such as service fee and other charges at any time in accordance with laws from time to time with prior notice to you  
+For the purpose of collecting such fees, you hereby authorize HLBVN to debit the Banking Account with such fees, charges and any Government charges and taxes for the use of HLB Connect  
+You shall take all precautions to ensure and prevent unauthorized use and fraud of HLB Connect or any part of them and the Security Codes including but not limited to the following  
+That the Security Codes, which includes your Username, Password, ATM PIN, Activation Code and OTP SmartOTP, must be kept as secret, not accessible to any person and are not written down in any form or manner which may be deciphered by anyone or kept together or disclosed or exposed to any person (including the employees of HLBVN) under any circumstances or at any time. 
+Any advice sent to you containing the Security Codes, must be destroyed immediately after you have received and read them  
+Any e-mail or SMS requesting for your Security Codes is to be reported to HLBVN immediately  
+That you are to ensure that the equipment you are using will not allow recording of your activities and that the necessary anti-spyware and firewalls are installed  
+That you ensure that you are always logged in to the correct URL for HLB Connect Online Banking  
+That you ensure that you don’t use HLB Connect at an internet Café shop or public place providing internet service and you must log out your HLB Connect Account immediately when you leave your computer  
+That you are to de-register HLB Connect Mobile Banking immediately when you lost your mobile phone  
+ You are required to change your Password when requested to on a periodical basis  
+Non-Transferability: The Security Codes are issued solely for your use and you shall not transfer, pledge or otherwise use it as security in any form nor part with the use of the same to any other person  
+Exposure of the Security Codes: If the Security Codes are exposed or suspected to be exposed to any person, you shall immediately change the Security Codes, to protect your own interest  
+You shall be solely borne responsibility on arising losses or damages, if any, in the event that you have not complied with the above requirement or advice, HLBVN shall not be liable or involved in any losses or damages arising from such your noncomplying circumstances  
+You are requested to read and understand the FAQ before attempting to use HLB Connect and do not carry out any instructions or utilize HLB Connect in the presence of any other person  
+You have read, understood, agreed to be bound by and shall comply with the User Guide of HLB Connect and such other guides of using HLB Connect provided by HLBVN from time to time  
+You are to regularly check and carefully monitor the Banking Accounts and the balances and check the balances each time prior to issuing any Instructions to HLBVN  
+You are to immediately inform HLBVN if there is any inaccuracy or irregularity in any of the Banking Accounts  
+You shall ensure that there are sufficient balances available in the Banking Account to perform any of the transactions you require, unless you have made prior arrangements with HLBVN  
+HLBVN shall not be obliged to carry out any Instructions until and unless the relevant Banking Account has sufficient balances  
+ Joint Account holders 
+Depend on the signing conditions of the joint account, either one of the accountholders may issue instructions and authorize HLBVN to effect any transactions on a joint account  
+All transactions arising from the use of the Security Codes, to operate a designated joint account shall be binding on all account holders, who shall be jointly and severally liable on all transactions  
+If you receive data or information through HLB Connect which is not intended for you, you are to immediately inform HLBVN by telephone or e-mail and delete the same  
+This provision shall survive the termination of HLB Connect Account  
+ By using HLB Connect, you acknowledge and agree  
+Any electronic request instruction performed through using HLB Connect shall be valid and bind both you and HLBVN. 
+To acceptthe inherent risks associated with carrying out transactions through theinternet and MobileDevice  and 
+That HLBVN and its Affiliates do not make any representations or warranties, whether expressed or implied with respect to HLB Connect, including but not limited to merchantability and fitness for a particular purpose  
+No oral or written information or advice given by HLBVN, its Affiliates and their respective employees or agents shall create or enhance the scope of this warranty  
+You shall be responsible and liable, without any limit, for the following  
+Any loss or damages suffered for all unauthorized transactions carried out through the use of the Security Codes until such time when HLBVN has received written notification of the same from you  
+Any loss or damages suffered and all risk arising, in the event you do not terminate HLB Connect in accordance with the relevant procedures set out by HLBVN for the use of HLB Connect  
+Any loss or damage suffered by HLBVN as a result of your breach of or failure to comply with any of these Terms and Conditions or any relevant procedures set by HLBVN  
+Without prejudice to any other provisions here, HLBVN shall not be liable to you or any third party for any loss (whether direct or indirect) of profits, business or goodwill for any indirect or consequential loss or damage whatsoever or howsoever arising even if HLBVN has been advised of the possibility of such loss or damage or claim by any third party  
+Subject to the provisions herein, HLBVN's sole and entire liability to you in contract, tort, (including negligence or breach of statutory duty) or otherwise arising by reason of or in connection with these Terms and Conditions or howsoever shall not exceed the amount of the transaction involved which gave rise to the claim or the direct damages sustained, whichever is the lower  
+Each provision of this Clause 12 3 is to be construed as a separate limitation applying and surviving even if for any reason one or the other provisions is inapplicable or held unreasonable in any circumstances and shall remain in force notwithstanding the termination of the Banking Accounts or HLB Connect  
+Without limiting the generality of Clause 12 3, HLBVN shall not be responsible or liable for any loss, damage or embarrassment incurred or suffered by you or any third party by reason or arising from: 
+For your failure to provide accurate, complete and timely Instructions issued to HLBVN or failure to comply with  or 
+For your inability to perform any of the transactions due to limits set by HLBVN from time to time  or 
+Any error, alteration, destruction of the Instructions, data or information to or from HLBVN through HLB Connect, on the internet and Mobile Device  or 
+Any intrusion or attack by anyperson or on any hardware, software or system used in relation to HLB Connect or on the internet and Mobile Device, including but not limited to viruses, Trojan Horses, malware and or macros or other harmful components or disabling devices that may suspend, disrupt or disable HLB Connect or any part thereof; or 
+Any restriction or prohibition on the use of HLB Connect by any laws or regulations of any country from where you access HLB Connect  or 
+In the events of force majeure that HLBVN is unable to perform any operations or to provide any of the Services due to any reason beyond HLBVN’s control including but not limited to fire, earthquake, landslides, flood, epidemic, natural catastrophe or act of God, accident, riots, civil disturbances, industrial dispute, act of public enemy, embargo, war, or any failure, delay or disruption to telecommunications, electricity, fuel supply or services provided by the Network Service Provider, Mobile Network Service Provider or the Affiliates or any factor beyond the control of HLBVN  
+You undertake to indemnify HLBVN fully and completely and against all claims, demands, action, proceedings, loss and expenses (including legal costs as between solicitor and own client)and all other liabilities of whatsoever nature or description which may be made taken incurred or suffered by HLBVN in connection with or in any manner arising out of the provision of HLB Connect or the acceptance of any Instruction given by you or breach by you of any of
+the Terms and Conditions  
+Your liabilities obligations shall be a continuing liability and will remain in full force notwithstanding the termination of HLB Connect. 
+HLBVN may, in its absolute discretion and at any time, suspend or terminate your access to HLB Connect or any part of the Services without being obliged to provide any reason for the same  
+HLBVN will terminate your right of access to HLB Connect should you cease to maintain any Banking Account which registered HLB Connect or if such Banking Accounts is suspended, restricted or prohibited by HLBVN or any third party for any reason  
+If you intend to terminate HLB Connect, you are to terminate the services by (i) submitting a written request form in the form satisfactory to HLBVN at HLBVN branch or transaction office; or (ii) contacting Contact Center for assistance  
+HLB Connect Account will be terminated thereafter within three (03) Business Days from the actual receipt day of your request by HLBVN  
+If any provision which is determined to be illegal, invalid, prohibited or unenforceable in any respect under any law, the same shall be ineffective to the extent of such illegality, invalidity, prohibition or unenforceability without invalidating in any manner whatsoever the remaining provisions in these Terms and Conditions  
+HLBVN’s acceptance of any of the Instructions or processing of any of the Instructions issued beyond the times stipulated or any waiver by HLBVN of any of its rights or any indulgence granted to you shall not operate as consent to the modification of any part of these Terms and Conditions or as to prevent HLBVN from enforcing any of its rights under these Terms and Conditions or the rules and regulations or terms and conditions for the Accounts  
+Any notices required to be given in respect of HLB Connect by HLBVN to you may be given in any of the following manner as determined by HLBVN in its absolute discretion  
+By electronic mail to your last registered e-mail address in HLB Connect’s records and such notices shall be deemed to be received after twenty four (24) hours from transmission  or 
+By short message service (SMS) through the Mobile Network Service Provider to your last registered mobile phone number in HLB Connect’s records and such notices shall be dependent on the terms and conditions of the Mobile Network Service Provider and the connectivity status of your mobile phone, and shall be deemed to be received within twenty four (24) hours from transmission  or 
+By ordinary post or registered post or courier sent to or left at your last address registered with HLBVN and shall be deemed received by you within five (5) Business Days from posting if sent by ordinary or registered post and within two (2) Business Days from sending if sent by courier  or 
+ hoặc By displaying the notices at HLBVN’s branch premises or HLBVN’s website and such notices shall be deemed effective upon such display  or 
+By way of advertisement or general notice in one major national newspaper and the notice shall be deemed to be effective from the date of such notice or the date specified in the notice, as the case may be  
+Any notices (excluding Instructions) required to be sent hereunder by you to HLBVN may be given in any of the following manner  
+ or 
+Via any Approved Communication Channel to the Contact Center  or 
+By ordinary post or registered post or courier sent to or left at the HLBVN’s branch where the Banking Account is maintained  
+Aforesaid notices shall be delivered to HLBVN on the day of actual receipt by HLBVN  
+You shall promptly inform HLBVN of any changes to your personal details, your telephone or mobile numbers or your electronic mail, correspondence and or residential address in writing or via an Approved Communication Channel. 
+You hereby represent and warrant that you have obtained the consent of all persons named in your application for the Account(s) and the Services or such document submitted to HLBVN in support of such application and or their authorised representatives or such other persons as specified by HLBVN (“Relevant Data Subjects”), for HLBVN’s collection, holding and use of the personal information of the Relevant Data Subjects in accordance with HLBVN’s Privacy Policy as may be amended from time to time. 
+You hereby agree and accept to HLBVN hold, collect and use all personal information which provided to HLBVN or obtained from other source by HLBVN as well as personal information as the result from your use of Services in relation with your Banking Account and or account of third party in accordance with HLBVN’s Privacy Policy as may be amended from time to time. 
+ In addition to the permitted disclosures, you irrevocably authorise and permit HLBVN, its officers and employees to disclose and furnish at any time all information concerning the Services, your Account and Third Party Account(s), both present and future, and any other matters, other information relating to you or your business and to such extent as HLBVN may at its absolute discretion deem expedient or necessary to  
+Other financial institutions granting or intending to grant any credit facilities to you, the Credit Information Center (CIC) or any other credit information center established by State Bank of Vietnam, any other relevant authority as may be authorised by law to obtain such information or such authorities agencies established by State Bank of Vietnam; 
+Any current or future corporation which may be associated or related with HLBVN, including but not limited to branches, representative and transaction offices and their respective representatives  
+Your security parties or any party intending to provide security in respect of any of your credit facilities with HLBVN  
+HLBVN’s auditors, solicitors and or other agents in connection with the recovery of moneys due and payable hereunder; and 
+HLBVN’s holding companies, Affiliates, professional advisers, service providers, nominees, trustee, custodians, securities depositories, registrars, insurance companies, agents, contractors orthird party service providers who are involved in the provision of products and services to or by HLBVN and its related or associated companies  
+ 
+You hereby agree that above disclosure shall be without any liability by HLBVN to you  
+You expressly consent to such disclosure and confirm and declare thatno further consent from you is necessary or required in relation thereto  
+ 
+ 
+You agree that HLBVN reserves the right to share your personal data within HLBVN’s and or Hong Leong’s group of companies, holding company of HLBVN, other branches, subsidiaries, related companies (whether within or outside Vietnam) for marketing and promotional purposes. 
+You hereby allow HLBVN contact you via post-office, telephone, email and SMS to notify of HLBVN’s products and services from time to time (“Promotion”)  
+If you wish to opt-out from the receiving of the Promotion, you are required to visit any of HLBVN’s branches transaction office or call HLBVN’s Contact Center at 1900 633 068 or apply other measures permitted by laws to register your instruction to opt-out of the said receiving. 
+ 
+Your obligations and liabilities shall continue to be valid and binding for all purposes whatsoever notwithstanding any change by amalgamation, reconstruction or otherwise which may be made in the constitution of HLBVN or by any company by which the business of HLBVN may for the time being be carried on and shall be available to the company carrying on the business for the time being and you agree that no such changes shall affect the obligations and liabilities created here-within in relation to any transaction whatsoever whether past, present or future  
+If you have any queries, complaint or require any assistance, please refer to the nearest branch transaction office or Contact Center. 
+
+HLBVN has sole discretion to change, amend and or supplement to these Terms and Conditions at any time by informing you in any manner as provided in Article 16 of the Terms and Conditions. 
+You hereby agree to be bound by such change, amendment and or supplement made by HLBVN from time to time. 
+ 
+ 
+These Terms and Conditions shall be governed by and construed in accordance with the laws of Vietnam  
+You hereby agree to submit to the jurisdiction of the courts of Vietnam or the courts of such other competent jurisdiction as HLBVN may at its sole discretion elect to request for dispute resolutions as regulated by law  
+End - .

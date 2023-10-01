@@ -1,0 +1,343 @@
+ĐIỀU KHOẢN VÀ ĐIỀU KIỆN PHÁT HÀNH VÀ SỬ
+DỤNG THẺ TÍN DỤNG QUỐC TẾ VIETCOMBANK
+(Áp dụng cho Khách hàng Cá nhân)
+Áp dụng từ ngày: 25/08/2021
+ĐIỀU 1: GIẢI THÍCH TỪ NGỮ
+"Ngân hàng" (NH): là Ngân hàng Thương mại Cổ phần Ngoại Thương Việt Nam
+(Vietcombank).
+"Ngân hàng nhà nước" (NHNN): là ngân hàng Nhà Nước Việt Nam.
+"Tổ chức thẻ quốc tế" (TCTQT): là tổ chức được thành lập ở nước ngoài theo quy định của pháp luật nước ngoài, có thỏa thuận với các tổ chức phát hành thẻ, tổ chức thanh toán thẻ và các bên liên quan khác để hợp tác phát hành và thanh toán thẻ có mã tổ chức phát hành thẻ do TCTQT cấp phù hợp với các quy định của pháp luật Việt Nam và cam kết quốc tế.
+"Thẻ": là thẻ tín dụng quốc tế Vietcombank dành cho khách hàng cá nhân cho phép Chủ thẻ thực hiện Giao dịch thẻ trong phạm vi hạn mức tín dụng đã được cấp theo thỏa thuận với NH phát hành thẻ.
+"Thẻ không tiếp xúc" (thẻ contactless): là Thẻ sử dụng công nghệ thanh toán không tiếp xúc.
+"Chủ thẻ": là cá nhân được NH phát hành Thẻ để sử dụng, bao gồm Chủ thẻ chính và Chủ thẻ phụ.
+"Chủ thẻ chính": là cá nhân đứng tên ký Hợp đồng phát hành và sử dụng Thẻ với NH phát hành thẻ và có nghĩa vụ thực hiện thỏa thuận đó theo quy định của pháp luật hiện hành và quy định của NH trong từng thời kỳ.
+"Chủ thẻ phụ": là cá nhân được Chủ thẻ chính cho phép sử dụng Thẻ theo quy định của pháp luật hiện hành và quy định của NH trong từng thời kỳ; chủ thẻ chính cam kết với NH bằng văn bản về việc thực hiện toàn bộ các nghĩa vụ phát sinh liên quan đến việc sử dụng Thẻ theo Hợp đồng phát hành và sử dụng Thẻ tín dụng quốc tế.
+Chủ thẻ phụ chịu trách nhiệm về việc sử dụng thẻ với Chủ thẻ chính.
+phát hành và sử dụng Thẻ tín dụng quốc tế tạo thành một Hợp đồng phát hành và sử dụng Thẻ Tín dụng quốc tế chi phối việc phát hành và sử dụng Thẻ có tính ràng buộc về mặt pháp lý giữa NH và Chủ thẻ.
+“Chữ ký điện tử của chủ thẻ”: là Tên đăng nhập VCB Digibank kết hợp với mật khẩu đăng nhập VCB Digibank và Mã khóa bí mật dùng một lần và/hoặc các yếu tố nhận diện và/hoặc bất kỳ yếu tố định danh nào khác của khách hàng/chủ thẻ mà Vietcombank quy định trong từng thời kỳ phù hợp với quy định của pháp luật.
+"Internet": là hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng máy tính được liên kết với nhau.
+"Website/ Trang thông tin điện tử chính thức của NH": là trang website của NH theo đường dẫn sau https://portal.vietcombank.com.vn.
+"Tổ chức thanh toán thẻ" (TCTTT): là các tổ chức được phép thực hiện dịch vụ thanh toán Thẻ thông qua đơn vị chấp nhận Thẻ và/ hoặc điểm ứng tiền mặt và/hoặc ATM một cách hợp pháp.
+"Đơn vị chấp nhận Thẻ" (ĐVCNT): là tổ chức, cá nhân chấp nhận thanh toán hàng hóa, dịch vụ bằng thẻ theo hợp đồng thanh toán thẻ ký kết với TCTTT.
+"Thiết bị chấp nhận thẻ không tiếp xúc": là thiết bị chấp nhận thẻ có tích hợp công nghệ không tiếp xúc, ngoài chức năng như thiết bị chấp nhận thẻ thông thường còn có chức năng chấp nhận thanh toán thẻ không tiếp xúc và các thiết bị kết nối không dây khác.
+"Điểm ứng tiền mặt" (ĐƯTM): là các đơn vị, TCTTT, ATM mà ở đó Chủ thẻ có thể sử dụng Thẻ để được ứng tiền mặt.
+"Máy giao dịch tự động" (ATM – Automated Teller Machine): là thiết bị mà Chủ thẻ có thể sử dụng để thực hiện một số giao dịch ngân hàng tự động.
+ATM được coi như là một ĐƯTM, tại đó Chủ thẻ sử dụng Thẻ để rút tiền mặt và/hoặc thực hiện một số giao dịch khác.
+"Mã số xác định chủ thẻ" (PIN): là mã số mật do NH cấp cho mỗi Chủ thẻ, Chủ thẻ có trách nhiệm bảo mật và sử dụng cho một số loại hình Giao dịch Thẻ để chứng thực Chủ thẻ theo quy định của NH.
+“OTP" (mật khẩu dùng 1 lần): là mã khóa bí mật có giá trị sử dụng một lần và có hiệu lực trong một khoảng thời gian nhất định do NH quy định, thường được sử dụng như một yếu tố thứ hai để xác thực chủ thẻ, thực hiện giao dịch trực tuyến qua internet, giao dịch qua ứng dụng di động hoặc các kênh điện tử do NH cung cấp.
+OTP được gửi qua SMS, email hoặc các kênh khác do NH triển khai trong từng thời kì.
+"mPIN": là mật khẩu do Chủ thẻ tự tạo và đăng ký với NH, sử dụng để xác thực thanh toán với các giao dịch thẻ trên thiết bị di động.
+mPIN bao gồm các ký tự số và/hoặc chữ theo quy định của NH trong từng thời kì.
+“Secure code”: là số bảo mật được in trên thẻ và dùng để thực hiện các giao dịch thanh toán trực tuyến qua internet.
+"Tài khoản Thẻ": là tài khoản thẻ tín dụng do NH cấp cho Chủ thẻ chính và Chủ thẻ phụ để sử dụng.
+"Giao dịch Thẻ": là giao dịch được thực hiện bằng Thẻ tại ĐVCNT, ĐƯTM, ATM, Internet và/ hoặc các kênh giao dịch khác theo quy định của NH.
+"Giao dịch thẻ không tiếp xúc": là giao dịch được thực hiện bằng cách chạm thẻ không tiếp xúc vào thiết bị chấp nhận thẻ không tiếp xúc hoặc đặt thẻ không tiếp xúc trong cự ly gần với thiết bị chấp nhận thẻ không tiếp xúc.
+"Giao dịch nhanh không cần chữ kí": là việc Chủ thẻ sử dụng thẻ để thực hiện các giao dịch thanh toán tiền hàng hóa dịch vụ qua ĐVCNT mà không cần kí tên trên hóa đơn.
+Dịch vụ này chỉ được áp dụng tại một số loại hình ĐVNCT nhất định và khi số tiền hàng hóa, dịch vụ nhỏ hơn một giá trị nhất định theo quy định của NH và/hoặc NHNN/TCTQT trong từng thời kì.
+"Phí chuyển đổi giao dịch trả góp": là phí do NH thu từ chủ thẻ khi đăng ký thành công giao dịch trả góp trong thời gian tham gia trả góp.
+Mức phí chuyển đổi giao dịch trả góp áp dụng theo từng chương trình trả góp mà chủ thẻ tham gia và được NH thông báo theo từng thời kì.
+"Khoản trả góp định kỳ": là phần giá trị giao dịch gốc mà chủ thẻ phải trả hàng tháng trong thời hạn trả góp.
+"Thẻ giả": là thẻ không do tổ chức phát hành thẻ phát hành nhưng có chứa các thông tin của Thẻ thật, Chủ thẻ thật.
+"Giao dịch thẻ gian lận, giả mạo": là giao dịch bằng Thẻ giả, giao dịch sử dụng trái phép Thẻ hoặc thông tin Thẻ.
+"Hóa đơn thanh toán": là chứng từ xác nhận Giao dịch Thẻ do Chủ thẻ thực hiện.
+"Hạn mức tín dụng thẻ": là hạn mức tín dụng tối đa cấp cho 1 khách hàng để phát hành thẻ tín dụng Vietcombank.
+"Hạn mức thẻ tín dụng": là hạn mức tín dụng tuần hoàn cấp cho mỗi thẻ của khách hàng, bao gồm thẻ chính và thẻ phụ, trong đó hạn mức của thẻ chính và hạn mức của mỗi thẻ phụ có thể khác nhau.
+"Hạn mức sử dụng thẻ trong ngày": là số tiền và/hoặc số lần giao dịch rút tiền mặt/thanh toán hàng hóa dịch vụ/chuyển khoản… tối đa mà chủ thẻ được sử dụng thẻ để thực hiện giao dịch trong một ngày.
+“Hạn mức thanh toán”: là tổng số tiền tối đa chủ thẻ được phép sử dụng thẻ để thanh toán hàng hóa dịch vụ, trong đó bao gồm cả hạn mức rút tiền mặt chưa sử dụng.
+“Hạn mức chuyển khoản”: là tổng số tiền tối đa mà chủ thẻ được phép sử dụng thẻ để chuyển khoản.
+“Hạn mức rút tiền mặt”: là tổng số tiền tối đa mà chủ thẻ được phép sử dụng thẻ để rút tiền mặt.
+“Hạn mức rút tiền mặt ngoại tệ tại nước ngoài”: là số tiền tối đa mà chủ thẻ được phép sử dụng thẻ để rút tiền mặt tại nước ngoài trong một ngày nhưng không vượt quá hạn mức rút tiền mặt của thẻ.
+Hạn mức rút tiền mặt tại nước ngoài tối đa tương đương 30 triệu VNĐ/ngày.
+"Hạn mức không yêu cầu xác thực chủ thẻ": là hạn mức tối đa của giá trị mỗi giao dịch cho phép bỏ qua xác thực chủ thẻ theo quy định của TCTQT, NHNN và/hoặc NH trong từng thời kỳ.
+"Sao kê Thẻ": là bảng kê chi tiết bao gồm nhưng không giới hạn các Giao dịch Thẻ, giao dịch hoàn trả, giao dịch trả nợ, giao dịch trả thưởng từ các chương trình khuyến mại (nếu có), lãi và phí phát sinh liên quan đến việc sử dụng Thẻ của Chủ thẻ trong một khoảng thời gian cố định do NH quy định.
+"Số dư sao kê": là khoản tiền phải thanh toán của Chủ thẻ bao gồm giá trị các Giao dịch Thẻ, phí và lãi phát sinh liên quan đến việc phát hành, sử dụng và thanh toán Thẻ được liệt kê trong sao kê hàng tháng.
+"Ngày sao kê": là ngày NH lập Sao kê Thẻ của Chủ thẻ.
+"Kỳ sao kê": là khoảng thời gian NH lập sao kê được tính từ ngày sau ngày sao kê của kỳ liền trước tới hết ngày sao kê của kỳ hiện tại.
+"Số tiền thanh toán tối thiểu": là khoản tiền tối thiểu Chủ thẻ phải thanh toán cho NH trong mỗi kỳ sao kê.
+"Ngày đề nghị thanh toán": là ngày chậm nhất mà Chủ thẻ phải thanh toán Số tiền thanh toán tối thiểu hoặc toàn bộ Số dư sao kê để được hưởng ưu đãi miễn phí không thanh toán đủ số tiền thanh toán tối thiểu và/hoặc lãi được NH quy định trên Sao kê Thẻ của Chủ thẻ.
+"Ngày đến hạn thanh toán": là ngày thứ 60 kể từ ngày đề nghị thanh toán đầu tiên (hoặc ngày đề nghị thanh toán của kỳ sao kê thứ 3).
+“Thời gian ân hạn”: là khoảng thời gian tối đa TCPHT không tính lãi đối với Giao dịch thanh toán hàng hoá dịch vụ bằng thẻ của chủ thẻ tín dụng trong một Kỳ sao kê hoặc không tính phí chậm thanh toán đối với thẻ miễn lãi.
+"Tài sản bảo đảm": là tài sản thuộc quyền sở hữu hợp pháp của Chủ thẻ /bên thứ ba mà NH chấp nhận để bảo đảm cho việc phát hành và sử dụng Thẻ.
+"Ngày": là ngày, tháng, năm tính theo dương lịch.
+"Ngày làm việc": là các ngày làm việc trừ các ngày nghỉ, lễ, Tết theo quy định của Nhà nước Cộng hòa Xã hội Chủ nghĩa Việt Nam và/ hoặc thông báo chính thức của NH.
+ĐIỀU 2: QUYỀN VÀ NGHĨA VỤ CỦA CHỦ THẺ  2.1.
+Quyền của Chủ thẻ
+Được quyền sử dụng Thẻ để thanh toán hàng hoá và dịch vụ tại các ĐVCNT, trên Internet, mobile và/hoặc rút tiền mặt tại các ATM hoặc ĐƯTM trong và ngoài lãnh thổ Việt Nam và/hoặc các kênh giao dịch khác theo quy định của NH.
+Chủ thẻ chính được quyền yêu cầu cấp lại Thẻ, cấp lại PIN và các yêu cầu liên quan đến việc phát hành và sử dụng Thẻ của Chủ thẻ chính và Chủ thẻ phụ theo quy định của NH.
+Trên cơ sở chấp nhận của NH, các yêu cầu liên quan đến việc phát hành và sử dụng Thẻ của Chủ thẻ không làm ảnh hưởng đến các trách nhiệm của Chủ thẻ được quy định trong Hợp đồng này.
+Chủ thẻ phải trả các phí và chi phí phát sinh liên quan đối với yêu cầu được NH chấp nhận.
+Chủ thẻ chính là người duy nhất và có toàn quyền đưa ra các yêu cầu có liên quan đến việc sử dụng Thẻ của Chủ thẻ phụ.
+Chủ thẻ chính được khiếu nại về các sai sót (nếu có) phát sinh trong quá trình sử dụng Thẻ của mình và (các) Chủ thẻ phụ (nếu có) và phải chịu chi phí liên quan đến việc khiếu nại (nếu khiếu nại sai) theo biểu phí do NH công bố trên Trang thông tin điện tử chính thức của NH và theo quy định của TCTQT trong từng thời kỳ.
+Thời gian để Chủ thẻ chính thực hiện quyền yêu cầu tra soát khiếu nại không vượt quá 60 ngày kể từ ngày phát sinh giao dịch.
+Được quyền đơn phương chấm dứt sử dụng Thẻ và yêu cầu đổi Thẻ, cấp Thẻ mới thay thế theo Điều 5 và Điều 6 tại Hợp đồng này.
+Được quyền yêu cầu NH tự động ghi nợ tài khoản tiền gửi thanh toán của Chủ thẻ mở tại NH (tài khoản VNĐ hoặc tài khoản ngoại tệ) theo đăng ký của Chủ thẻ để thanh toán Số dư sao kê.
+Được quyền nhận sao kê của NH theo định kỳ hàng tháng.
+Được quyền hưởng các ưu đãi dành cho Chủ thẻ do NH và/hoặc các đối tác của NH cung cấp theo từng thời kỳ.
+Được quyền tham gia chương trình trả góp qua thẻ tín dụng theo các điều khoản cụ thể của chương trình ưu đãi mua sắm trả góp của NH được cập nhật theo từng thời kỳ trên website chính thức của NH/hoặc kênh thông tin khác mà NH thấy phù hợp.
+Các quyền lợi khác theo thỏa thuận với NH và quy định của pháp luật.
+Nghĩa vụ của Chủ thẻ
+Chịu trách nhiệm nhận Thẻ/PIN hoặc ủy quyền cho người khác nhận Thẻ/PIN.
+Giấy ủy quyền được lập bằng văn bản theo quy định của NH.
+Trường hợp ủy quyền cho người khác nhận Thẻ/PIN, Chủ thẻ phải chịu mọi rủi ro có thể phát sinh, trừ trường hợp do lỗi của NH.
+Chịu trách nhiệm ký chữ ký mẫu vào ô chữ ký ở mặt sau Thẻ ngay sau khi nhận Thẻ.
+Mỗi lần sử dụng Thẻ để rút tiền mặt hoặc thanh toán tiền hàng hoá dịch vụ, Chủ thẻ phải ký trên hoá đơn thanh toán giống chữ ký này trừ những giao dịch thực hiện bằng đơn đặt hàng qua thư, điện thoại, Internet hoặc các loại hình khác được sự chấp thuận của NH mà không yêu cầu có chữ ký của Chủ thẻ.
+Mọi thay đổi liên quan đến chữ ký phải thông báo bằng văn bản cho NH.
+Chịu trách nhiệm quản lý Thẻ và bảo mật PIN, mPIN, OTP, các thông tin Thẻ, thông tin giao dịch, Chữ ký điện tử và các dữ liệu/thông tin dùng để tạo lập Chữ ký điện tử.
+Chủ thẻ không được chuyển nhượng Thẻ hoặc đưa Thẻ cho người khác sử dụng, không được tiết lộ thông tin thẻ (mặt trước, mặt sau), PIN, mPIN, OTP, số secure code cho bất kỳ ai.
+Không được tiết lộ mã khóa bảo mật sử dụng một lần Vietcombank gửi cho khách hàng để tạo thành một phần chữ ký điện tử cho bất kỳ ai.
+Khi phát hiện chữ ký điện tử có thể không còn thuộc sự kiểm soát của mình, phải kịp thời khóa thẻ và sử dụng các phương tiện thích hợp để thông báo cho Vietcombank ngay lập tức
+Chịu trách nhiệm bảo quản Thẻ và thanh toán đối với toàn bộ các giao dịch có chữ ký/ không chữ ký/ ký không đúng với chữ ký đã đăng ký, sử dụng PIN, mPIN, (bao gồm cả các giao dịch NH không cấp phép) và/hoặc sử dụng OTP và các giao dịch khác nếu NH cung cấp được bằng chứng về việc Thẻ của Chủ thẻ đã thực hiện giao dịch mà không cần PIN/ mPIN/ chữ ký/ chữ ký đúng với đăng ký của Chủ thẻ.
+Trong trường hợp Thẻ bị lộ PIN/ mPIN, OTP, lộ thông tin Thẻ hoặc bị thất lạc/ mất cắp không phải do lỗi từ phía NH, Chủ thẻ phải chịu mọi rủi ro và có trách nhiệm thanh toán tất cả các Giao dịch Thẻ, phí và lãi phát sinh đã được thực hiện trước thời điểm Chủ thẻ yêu cầu và được NH khóa Thẻ.
+Chịu mọi rủi ro có thể xảy ra nếu giao dịch vi phạm chính sách cấm vận của Mỹ và/hoặc quốc gia nào và/hoặc bất kỳ tổ chức nào áp đặt.
+Chịu trách nhiệm với tất cả các giao dịch/ yêu cầu/ đề nghị/ lệnh phát sinh trên kênh ngân hàng điện tử của Vietcombank đã được xác thực bằng chữ ký điện tử của khách hàng theo thỏa thuận với Vietcombank.
+Trong trường hợp Thẻ đang còn hiệu lực mà bị thất lạc/ mất cắp, để tránh rủi ro Chủ thẻ phải thanh toán các giao dịch không do mình thực hiện, ngoài việc khóa/hủy thẻ vĩnh viễn, NH sẽ đưa Thẻ lên Danh sách Thẻ cấm lưu hành và Chủ thẻ phải chịu trách nhiệm thanh toán khoản phí thông báo thẻ mất cắp, thất lạc.
+Khoản phí này đã được quy định trong biểu phí và công bố trên Trang thông tin điện tử chính thức của NH.
+Khi Thẻ bị mất cắp, thất lạc, lộ PIN, mPIN, OTP, lộ thông tin thẻ, nghi ngờ bị lợi dụng, phát sinh giao dịch thẻ không tiếp xúc ngoài ý muốn…trước hết, Chủ thẻ phải báo ngay cho NH qua tổng đài dịch vụ 24/7 theo số điện thoại: 8424.3824.3524 hoặc 1900.54.54.13.
+Sau đó, Chủ thẻ phải liên hệ với NH và cung cấp bằng văn bản bao gồm tối thiểu những thông tin sau:
+Tên Chủ thẻ.
+Số Thẻ.
+Ngày hiệu lực của Thẻ.
+Nơi mất/nghi ngờ Thẻ bị lợi dụng/lộ thông tin/ phát sinh giao dịch thẻ không tiếp xúc ngoài ý muốn.
+Thời gian phát hiện mất/nghi ngờ Thẻ bị lợi dụng/lộ thông tin/ phát sinh giao dịch thẻ không tiếp xúc ngoài ý muốn.
+Số chứng minh nhân dân/ Hộ chiếu/Thẻ căn cước công dân còn giá trị sử dụng.
+Chịu hoàn toàn trách nhiệm và rủi ro (nếu có phát sinh) liên quan đến các giao dịch thực hiện qua Internet, mobile bằng Thẻ của Chủ thẻ trừ trường hợp lỗi xác định phát sinh từ NH.
+Phải sử dụng mã xác thực mPIN/OTP hoặc phương thức xác thực theo yêu cầu của NH khi thực hiện một số giao dịch thanh toán thẻ trực tuyến qua internet, khi đăng ký liên kết thẻ và thanh toán trên ứng dụng di động, đảm bảo không tiết lộ mPIN/OTP cho bất kì ai và chịu hoàn toàn trách nhiệm đối với các giao dịch được thực hiện bằng mPIN do chủ thẻ tạo hoặc OTP do NH gửi tới phương thức nhận OTP chủ thẻ đã đăng kí.
+Chịu trách nhiệm thông báo ngay cho NH về các Giao dịch Thẻ mà Chủ thẻ không thực hiện và hợp tác với NH trong quá trình điều tra các giao dịch gian lận phát sinh liên quan đến quá trình sử dụng Thẻ.
+Chịu trách nhiệm lưu giữ và cung cấp bằng chứng đã huỷ dịch vụ thanh toán định kỳ trong trường hợp Chủ thẻ ngừng việc sử dụng Thẻ để chi tiêu với các giao dịch mang tính chất định kỳ (hàng tháng, hàng quý).
+Không sử dụng lại Thẻ đã thông báo mất, thất lạc và phải hoàn trả lại cho NH Thẻ bị mất, thất lạc khi tìm lại được.
+Chịu trách nhiệm thông báo ngay cho NH bằng văn bản những thay đổi về các thông tin đã cung cấp/đăng ký với NH.
+Chịu trách nhiệm cung cấp đầy đủ và chịu trách nhiệm về tính chính xác, trung thực của các hồ sơ, giấy tờ, thông tin cần thiết theo yêu cầu của NH và các cơ quan, tổ chức có thẩm quyền khác theo quy định của pháp luật khi đề nghị phát hành Thẻ và trong quá trình sử dụng Thẻ.
+Chịu trách nhiệm sử dụng Thẻ theo đúng quy định của Pháp luật, NHNN, NH và TCTQT.
+Cam kết không thực hiện các Giao dịch Thẻ trái pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam, và/ hoặc nước sở tại.
+NH có quyền từ chối xử lý hoặc từ chối thanh toán trong những trường hợp trên.
+Hàng tháng, NH tự động gửi sao kê cho Chủ thẻ theo địa chỉ hòm thư điện tử mà Chủ thẻ đã đăng ký với NH và địa chỉ bưu điện nếu Chủ thẻ đăng kí nhận sao kê giấy.
+Trong trường hợp Chủ thẻ không nhận được sao kê hoặc chậm nhận được sao kê, Chủ thẻ vẫn có trách nhiệm thanh toán đầy đủ, đúng hạn cho NH các Giao dịch Thẻ, lãi và phí phát sinh trong kỳ.
+Chịu trách nhiệm kiểm tra tính chính xác của nội dung ghi trên sao kê.
+Trong trường hợp có thắc mắc về bất kỳ giao dịch nào trong Sao kê Thẻ, Chủ thẻ phải thông báo cho NH bằng văn bản (qua các điểm giao dịch của NH) hoặc qua Hotline 24/7 của NH các thắc mắc của mình liên quan đến các giao dịch trong vòng 60 ngày kể từ ngày phát sinh giao dịch.
+Trong trường hợp thông báo đến NH qua Hotline 24/7, Chủ thẻ có trách nhiệm bổ sung giấy đề nghị tra soát, khiếu nại theo mẫu của NH trong vòng 03 ngày làm việc làm căn cứ chính thức để xử lý đề nghị tra soát, khiếu nại.
+Trường hợp ủy quyền cho người khác đề nghị tra soát, khiếu nại, Chủ thẻ thực hiện theo quy định của pháp luật về việc ủy quyền.
+Chịu trách nhiệm kiểm tra và thanh toán đầy đủ, đúng hạn cho NH các Giao dịch Thẻ, phí và lãi phát sinh theo quy định của NH về việc sử dụng Thẻ.
+Trường hợp Chủ thẻ đăng ký trích nợ tự động theo các hình thức do NH quy định, bằng Hợp đồng này, Chủ thẻ đồng ý cho NH được chủ động trích (ghi nợ) tiền từ tài khoản thanh toán của Chủ thẻ mở tại NH hoặc tài khoản của cá nhân khác mở tại NH nếu được sự đồng ý bằng văn bản của chủ tài khoản đó để thanh toán Số dư sao kê theo đăng ký trích nợ tự động của Chủ thẻ.
+Trừ trường hợp có thỏa thuận khác, Chủ thẻ phải đảm bảo Tài khoản đăng ký này luôn đủ số dư cần thiết để NH ghi nợ hàng ngày (đối với hình thức đăng ký trích nợ tự động hàng ngày) hoặc từ Ngày sao kê đến Ngày đề nghị thanh toán (đối với hình thức đăng ký trích nợ tự động hàng tháng).
+Đối với hình thức trích nợ tự động hàng tháng, NH được quyền trích nợ tự động toàn bộ Số dư sao kê hoặc số dư sao kê theo đăng ký của Chủ thẻ với NH từ Tài khoản đăng ký vào bất kỳ thời điểm nào từ Ngày sao kê đến Ngày đề nghị thanh toán.
+Nếu trong khoảng thời gian nói trên số dư trong Tài khoản đăng ký không đủ để NH trích (ghi nợ) Số dư sao kê theo đăng ký của Chủ thẻ với NH, Chủ thẻ đồng ý cho NH được quyền tiếp tục trích (ghi nợ) bổ sung số tiền còn thiếu so với số tiền chủ thẻ đã đăng ký trích nợ tự động và Chủ thẻ phải chịu các khoản phí, lãi phát sinh được quy định theo biểu phí và lãi suất do NH công bố trên Trang thông tin điện tử chính thức của NH trong từng thời kỳ và phù hợp với quy định của pháp luật.
+Chịu trách nhiệm giải quyết các tranh chấp phát sinh với ĐVCNT về các vấn đề liên quan đến Giao dịch Thẻ mà không trì hoãn việc thanh toán theo thỏa thuận tại Hợp đồng này.
+Chịu trách nhiệm thanh toán các chi phí phát sinh đối với các hàng hóa/ dịch vụ do bên thứ ba cung cấp, nếu các hàng hóa/dịch vụ không thuộc gói ưu đãi do NH cung cấp.
+Chịu trách nhiệm thanh toán các chi phí phát sinh đối với việc sử dụng phòng chờ và/hoặc các dịch vụ tại phòng chờ cung cấp bởi TCTQT/nhà cung cấp dịch vụ phòng chờ.
+Chủ Thẻ chính chịu mọi trách nhiệm và rủi ro về các Giao dịch Thẻ của (các) Chủ thẻ phụ.
+Chịu trách nhiệm trực tiếp làm việc với các đối tác cung cấp ưu đãi/ công ty bảo hiểm được NH chỉ định cung cấp ưu đãi/ dịch vụ bảo hiểm cho Chủ thẻ để giải quyết các khiếu nại, yêu cầu bồi thường có liên quan.
+Chịu trách nhiệm đăng ký dịch vụ SMS chủ động khi phát hành Thẻ để kịp thời quản lý các Giao dịch Thẻ của Chủ thẻ.
+Chịu hoàn toàn trách nhiệm nếu không thông báo ngay cho NH khi Chủ thẻ không sử dụng Thẻ mà vẫn nhận được tin nhắn về các Giao dịch Thẻ trừ trường hợp lỗi xác định phát sinh từ NH.
+Chịu trách nhiệm đến nhận Thẻ tại NH hoặc kích hoạt Thẻ trong trường hợp nhận Thẻ qua đường bưu điện trong vòng 45 ngày kể từ ngày phát hành Thẻ.
+Sau thời hạn này, Thẻ sẽ bị hủy và Chủ thẻ phải chịu khoản phí phát hành và phí thường niên năm đầu tiên của Thẻ.
+Đồng ý vô điều kiện việc phát hành lại thẻ tín dụng thay thế thẻ tín dụng hết hạn trong trường hợp không có thông báo nào về việc ngừng sử dụng thẻ trong vòng 30 ngày trước ngày hết hạn ghi trên thẻ.
+Phản hồi về việc đồng ý hoặc không đồng ý khi nhận được thông báo của NH về việc điều chỉnh Hạn mức tín dụng và/hoặc hạng thẻ trong thời hạn và theo hình thức được NH đề nghị.
+Đồng ý và không yêu cầu thêm bất kỳ xác nhận/chấp thuận nào khác đối với quyết định điều chỉnh Hạn mức tín dụng và/hoặc hạng thẻ của NH nếu không phản hồi thông báo của NH trong thời hạn được đề nghị và/hoặc tiếp tục sử dụng thẻ sau thời điểm NH điều chỉnh.
+Chịu trách nhiệm thanh toán số tiền Giao dịch Thẻ tranh chấp và các khoản phí phát sinh theo quy định của TCTQT khi tranh chấp được đưa ra Trọng tài của TCTQT và Trọng tài của TCTQT xử Chủ thẻ thua kiện.
+Đồng ý cho NH ghi nợ tài khoản tiền gửi thanh toán/ tài khoản Thẻ của chủ Thẻ đối với các giao dịch NH hoàn trả/ghi có thừa/ nhầm vào tài khoản Thẻ của Chủ thẻ do lỗi trong quá trình xử lý, sự cố của hệ thống, hệ thống truyền tin hoặc giao dịch tra soát khiếu nại tại ATM và ĐVCNT đã được tạm ứng cho Chủ thẻ và các giao dịch nhầm lẫn khác mà Chủ thẻ không chứng minh được quyền sở hữu hợp pháp.
+Chịu trách nhiệm thanh toán một phần hoặc toàn bộ giá trị dịch vụ, các loại thuế và phí liên quan theo quy định của từng ĐVCNT trong trường hợp Chủ thẻ sử dụng Thẻ để đặt trước cho các dịch vụ nhưng không sử dụng dịch vụ đó và/hoặc không thông báo huỷ dịch vụ trong thời gian quy định của ĐVCNT.
+NH có quyền ghi nợ Tài khoản Thẻ của Chủ thẻ đối với các trường hợp này.
+Chịu hoàn toàn trách nhiệm thanh toán cho các giao dịch thẻ không tiếp xúc phát sinh ngoài ý muốn của chủ thẻ nếu chủ thẻ không thực hiện hoặc thực hiện không đúng và/ hoặc không đầy đủ các biện pháp bảo vệ do NH hướng dẫn.
+Các nghĩa vụ khác theo thỏa thuận với NH và quy định của pháp luật.
+ĐIỀU 3: QUYỀN VÀ NGHĨA VỤ CỦA NGÂN HÀNG 3.1.
+Quyền của Ngân hàng
+NH không chịu trách nhiệm trong trường hợp bất khả kháng và các trường hợp không phải do lỗi của NH theo quy định của pháp luật.
+Được quyền thu giữ Thẻ bằng cách thông báo việc thu hồi này cho Chủ thẻ hoặc thông qua các TCTTT hoặc ĐVCNT trong các trường hợp quy định tại Điều 6 của Hợp đồng này.
+NH không chịu trách nhiệm đối với bất kỳ trường hợp nào Thẻ bị ĐVCNT từ chối nằm ngoài khả năng kiểm soát của NH trừ trường hợp lỗi xác định phát sinh từ NH.
+Đồng thời, NH không chịu trách nhiệm về việc cung ứng hàng hóa, dịch vụ của bên thứ ba (bao gồm cả việc giao, nhận hàng và số lượng, chất lượng của hàng hóa, dịch vụ) được thanh toán bằng Thẻ và được quyền ghi nợ vào tài khoản Thẻ giá trị các giao dịch đã thanh toán bằng Thẻ cho dù hàng hóa, dịch vụ có được giao, nhận hoặc được thực hiện hay không hoặc có đạt yêu cầu về số lượng, chất lượng hay không.
+Được quyền yêu cầu Chủ thẻ thanh toán đầy đủ, đúng hạn các Giao dịch Thẻ và các khoản lãi, phí liên quan (nếu có).
+Được quyền yêu cầu Chủ thẻ cung cấp và bổ sung đầy đủ, chính xác các thông tin và tài liệu cần thiết khi đề nghị phát hành Thẻ và trong quá trình sử dụng Thẻ.
+Được quyền chuyển dư nợ Thẻ của Chủ thẻ thành nợ quá hạn và thực hiện phân loại nợ theo quy định của NHNN trong trường hợp Chủ thẻ không thanh toán hoặc thanh toán không đủ Số tiền thanh toán tối thiểu vào Ngày đến hạn thanh toán.
+Trường hợp Chủ thẻ không thanh toán hoặc thanh toán không đầy đủ, đúng hạn cho NH theo quy định, Chủ thẻ đồng ý cho NH được quyền:
+Thu nợ từ nguồn lương, thu nhập của Chủ thẻ hay từ cơ quan, đơn vị công tác của Chủ thẻ, và/ hoặc tài sản bảo đảm của Chủ thẻ, và/ hoặc từ bên bảo lãnh, và/ hoặc các tài khoản thanh toán, sổ tiết kiệm, giấy tờ có giá, và/hoặc bất cứ tài sản nào khác của Chủ thẻ mà không cần có xác nhận của Chủ thẻ.
+NH được chủ động trích nợ từ tài khoản tiền gửi hoặc rút tiền từ sổ tiết kiệm của Chủ thẻ tại NH để thanh toán các khoản nợ phát sinh.
+Khi đó, tài khoản hoặc sổ tiết kiệmđó được coi là không kỳ hạn theo quy định của NHNN.
+NH được quyền lập Ủy nhiệm thu yêu cầu các ngân hàng mở tài khoản cho Chủ thẻ trích tiền để thu hồi nợ gốc, lãi trong trường hợp các khoản nợ gốc, nợ lãi của Chủ thẻ bị chuyển sang nợ quá hạn, nợ lãi quá hạn.
+NH được quyền chấm dứt việc sử dụng Thẻ đồng thời với việc chấm dứt Hợp đồng này và/hoặc thực hiện các biện pháp khác theo quy định của pháp luật để thu hồi nợ (gốc, nợ lãi, phí và chi phí phát sinh liên quan) của Chủ thẻ.
+Được quyền miễn trách nhiệm trong trường hợp Thẻ không được bảo đảm an toàn hoặc bị lộ mPIN/ PIN/ lộ thông tin Thẻ, lộ số secure code/ lộ OTP do lỗi và/ hoặc sơ suất của Chủ thẻ hoặc bên thứ ba mà nguyên nhân phát sinh lỗi không phải từ lỗi của NH.
+Đối với Thẻ mang thương hiệu Visa, MasterCard, UnionPay, JCB, NH được quyền từ chối các khiếu nại của Chủ thẻ đối với tất cả các Giao dịch Thẻ có giá trị nhỏ hơn hoặc bằng hạn mức không yêu cầu xác thực chủ thẻ hoặc có giá trị/giá trị quy đổi nhỏ hơn 10 USD hoặc tương đương tại tất cả các loại hình ĐVCNT, ngoại trừ các ĐVCNT thuộc loại hình du lịch và giải trí (T&E – Travel & Entertainment).
+Đối với các ĐVCNT thuộc loại hình du lịch và giải trí (ví dụ: hàng không, dịch vụ thuê xe, đi tàu biển, đi tàu hỏa, khách sạn, nhà nghỉ, nhà hàng, đại lý du lịch…), NH được quyền từ chối các khiếu nại của Chủ thẻ đối với các Giao dịch Thẻ có giá trị/ giá trị quy đổi nhỏ hơn 25 USD hoặc có thể thay đổi theo quy định của TCTQT trong từng thời kỳ.
+Đối với Thẻ mang thương hiệu Amex, NH được quyền từ chối các khiếu nại của Chủ thẻ đối với các Giao dịch Thẻ có giá trị nhỏ hơn hoặc bằng hạn mức không yêu cầu xác thực chủ thẻ hoặc có giá trị/ giá trị quy đổi nhỏ hơn 25 USD hoặc có thể thay đổi theo quy định của TCTQT trong từng thời kỳ.
+Được quyền điều chỉnh giảm Hạn mức tín dụng và/hoặc giảm hạng Thẻ của Chủ thẻ phù hợp theo quy định của NHNN mà không cần nhận được xác nhận/chấp thuận của Chủ thẻ trước khi NH thực hiện việc điều chỉnh và/hoặc thay đổi này và sẽ thông báo cho Chủ thẻ qua hòm thư điện tử/tin nhắn và/hoặc các hình thức khác mà NH cung cấp trong từng thời kỳ.
+Được quyền quy định về hạn mức thanh toán, hạn mức rút tiền mặt (bao gồm cả hạn mức rút tiền mặt tại nước ngoài) và các hạn mức khác trong việc sử dụng Thẻ đối với Chủ thẻ phù hợp với quy định của pháp luật hiện hành và NH sẽ thông báo cho Chủ thẻ.
+Được quyền miễn trách đối với những rủi ro liên quan đến việc thanh toán mua sắm hàng hóa, dịch vụ qua Internet, mobile bằng Thẻ của Chủ thẻ trừ trường hợp có lỗi của NH.
+Được quyền quy định thời hạn hiệu lực của Thẻ trong từng thời kỳ.
+Thời hạn hiệu lực được in trên Thẻ.
+Nếu NH không nhận được bất kì thông báo nào từ chủ thẻ về việc ngừng sử dụng thẻ trong vòng 30 ngày trước ngày hết hạn ghi trên thẻ, NH sẽ tự động gia hạn thẻ cho chủ thẻ có quốc tịch Việt Nam và đáp ứng điều kiện về gia hạn thẻ theo quy định của NH trong từng thời kì.
+Bằng việc kích hoạt thẻ, Chủ thẻ xác nhận đồng ý với các Điều khoản và Điều kiện phát hành và sử dụng thẻ của NH và sẽ chịu sự ràng buộc bởi các điều khoản và điều kiện đó.
+Quy định về tự động gia hạn thẻ không áp dụng đối với chủ thẻ có quốc tịch nước ngoài.
+Để NH chấp thuận yêu cầu gia hạn thẻ, chủ thẻ có quốc tịch nước ngoài phải tuân thủ các quy định về cư trú tại Việt Nam cũng như các điều kiện về gia hạn thẻ theo quy định của NH trong từng thời kì.
+Được quyền yêu cầu Chủ thẻ cung cấp các thông tin, các chứng từ liên quan đến các Giao dịch Thẻ nhằm xác minh tính chính xác, hợp pháp của các giao dịch này.
+Được quyền cung cấp thông tin của Chủ thẻ và thông tin các Giao dịch Thẻ của Chủ thẻ khi có yêu cầu của cơ quan có thẩm quyền mà không cần thông báo cho Chủ thẻ.
+Không chịu trách nhiệm đối với các tranh chấp, khiếu nại liên quan đến các dịch vụ ưu đãi cho Chủ thẻ được cung cấp bởi bên thứ ba trừ trường hợp lỗi xác định phát sinh từ NH.
+Chủ thẻ đồng ý cho NH cung cấp các thông tin của Chủ thẻ cho bên thứ ba để phục vụ cho việc cung cấp dịch vụ ưu đãi cho Chủ thẻ và thu phí Chủ thẻ (nếu có).
+Được quyền từ chối cấp phép các Giao dịch Thẻ, các yêu cầu liên quan đến phát hành và sử dụng Thẻ không hợp pháp, hợp lệ theo quy định của pháp luật, NH, NHNN, TCTQT hoặc các trường hợp ngoài khả năng kiểm soát của NH.
+Được quyền ghi âm lại tất cả những trao đổi của Chủ thẻ qua điện thoại và/ hoặc bất kỳ các thông tin bằng lời nói giữa Chủ thẻ và NH trong quá trình sử dụng thẻ.
+Được quyền thu thập thông tin từ các tổ chức khác về Chủ thẻ theo quy định của Ngân hàng nhà nước để đánh giá mức độ tín nhiệm của khách hàng và có căn cứ cấp tín dụng thẻ cho Chủ thẻ.
+Được quyền khóa thẻ khi nhận được thông báo từ chủ thẻ về việc Thẻ bị mất cắp, thất lạc, lộ PIN hoặc có nghi ngờ Thẻ đang bị lợi dụng hoặc khi chủ thẻ nhập sai PIN/mPIN/OTP quá số lần NH quy định.
+Được quyền thu hồi đối với các giao dịch hoàn trả/ghi có thừa/ nhầm vào tài khoản Thẻ của Chủ thẻ do lỗi trong quá trình xử lý, sự cố của hệ thống, hệ thống truyền tin hoặc giao dịch tra soát khiếu nại tại ATM và ĐVCNT đã được tạm ứng cho Chủ thẻ và các giao dịch nhầm lẫn khác mà Chủ thẻ không chứng minh được quyền sở hữu hợp pháp.
+Được quyền tạm khóa các thẻ tín dụng khác của Chủ thẻ nếu Chủ thẻ có 01 (một) thẻ tín dụng bị chuyển nợ quá hạn cho đến khi Chủ thẻ đã thanh toán đủ Số tiền thanh toán tối thiểu được thông báo tại Sao kê thẻ.
+Được quyền đơn phương chấm dứt việc sử dụng Thẻ đồng thời với việc chấm dứt Hợp đồng này trong các trường hợp sau:
+Chủ thẻ vi phạm các quy định về việc phát hành và sử dụng Thẻ của NH, hoặc vi phạm các quy định của pháp luật, NHNN, TCTQT trong việc sử dụng Thẻ;
+NH phát hiện thông tin do Chủ thẻ cung cấp cho NH là không chính xác, không trung thực, sai sự thật;
+Chủ thẻ bị khởi tố, điều tra, truy tố hoặc xét xử hoặc Chủ thẻ bị Tòa án/Trọng tài ra bản án, quyết định, phán quyết mà NH có cơ sở xác định các sự kiện đó có thể ảnh hưởng nghiêm trọng đến khả năng trả nợ của Chủ thẻ;
+Chủ thẻ chết, mất tích;
+Tài sản của Chủ thẻ bị cơ quan pháp luật phong tỏa, cầm giữ; • Các trường hợp nghi ngờ liên quan đến các hành vi gian lận, giả mạo;
+Các trường hợp khác theo quy định của NH và pháp luật.
+Được miễn trách đối với các giao dịch thẻ không tiếp xúc phát sinh do Chủ thẻ không thực hiện hoặc thực hiện không đúng, không đầy đủ các biện pháp bảo vệ theo hướng dẫn của NH.
+Được quyền không cung cấp hóa đơn giao dịch đối với giao dịch nhanh không cần chữ kí.
+Các quyền lợi khác theo thỏa thuận với Chủ thẻ và quy định của pháp luật.
+Nghĩa vụ của Ngân hàng
+Chịu trách nhiệm tuân thủ các quy định về phát hành, thanh toán Thẻ theo quy định của Pháp luật, NHNN, NH và các TCTQT, đảm bảo các quyền lợi của Chủ thẻ, lưu giữ các thông tin của Chủ thẻ, trừ trường hợp có quy định khác.
+Chịu trách nhiệm nhận yêu cầu tra soát, khiếu nại của Chủ thẻ liên quan đến việc sử dụng Thẻ trong vòng 60 ngày kể từ ngày giao dịch theo quy định của TCTQT và NH.
+Chịu trách nhiệm khóa thẻ của Chủ thẻ ngay sau khi nhận được thông báo Thẻ bị mất cắp, thất lạc, lộ PIN hoặc có nghi ngờ Thẻ đang bị lợi dụng và sẽ thông báo cho Chủ thẻ sau khi hoàn thành, đồng thời chịu trách nhiệm với toàn bộ tổn thất tài chính phát sinh đối với trường hợp thẻ được sử dụng sau thời điểm khóa thẻ.
+Chịu trách nhiệm thực hiện giải chấp tài sản cầm cố của Chủ thẻ sau 40 ngày kể từ ngày yêu cầu chấm dứt sử dụng Thẻ của Chủ thẻ có hiệu lực theo quy định tại Điều 6 của Hợp đồng này, chỉ khi các tra soát khiếu nại của Chủ thẻ (nếu có) đã được giải quyết xong, tài sản cầm cố không đảm bảo cho khoản vay nào khác tại NH và tài sản đảm bảo chưa bị xử lý để thanh toán các nghĩa vụ của Chủ thẻ, trừ trường hợp NH và Chủ thẻ có thỏa thuận khác.
+Đối với tài sản cầm cố để tăng Hạn mức tín dụng tạm thời, NH cũng sẽ giải chấp sau 40 ngày kể từ ngày Hạn mức tín dụng tạm thời hết hạn và Chủ thẻ đã thanh toán hết các khoản chi tiêu liên quan đến Hạn mức tín dụng được tăng.
+NH sẽ trả Thẻ bị giữ tại máy ATM của NH trong vòng 10 ngày làm việc kể từ khi nhận được thông báo của Chủ thẻ trong các trường hợp sau:
+Giao dịch bị sai PIN;
+Máy ATM đã trả thẻ ra nhưng Chủ thẻ chưa lấy, máy ATM giữ lại Thẻ.
+NH sẽ không trả Thẻ cho Chủ thẻ trong những trường hợp sau:
+Thẻ bị máy ATM giữ ngoài lãnh thổ Việt Nam;
+Thẻ bị mất cắp, thất lạc;
+Thẻ đã bị khóa….
+Chịu trách nhiệm liệt kê tất cả các giao dịch của Chủ thẻ phát sinh trong kỳ vào Ngày sao kê hàng tháng.
+Đối với các Giao dịch Thẻ được thực hiện bằng ngoại tệ sẽ được chuyển đổi trị giá sang VNĐ theo tỷ giá của TCTQT quy định và/hoặc theo tỷ giá quy đổi của NH tại thời điểm giao dịch được cập nhật vào hệ thống của NH và NH sẽ thu phí chuyển đổi ngoại tệ (được quy định bởi TCTQT và/hoặc NH) và bất kỳ (các) phí giao dịch nào mà NH phải trả TCTQT (nếu có).
+NH không chịu trách nhiệm đối với các khoản chênh lệch phát sinh (nếu có) do ĐVCNT thực hiện Refund/ hoàn trả giao dịch gốc.
+Thời hạn tối đa NH trả lời các khiếu nại cho Chủ thẻ là 180 Ngày làm việc kể từ ngày NH nhận được khiếu nại bằng văn bản của Chủ thẻ.
+NH sẽ hoàn trả cho Chủ thẻ giá trị các giao dịch khiếu nại đúng.
+Trong trường hợp đặc biệt NH sẽ có thông báo cụ thể cho Chủ thẻ.
+Trong thời hạn tối đa 05 ngày làm việc kể từ ngày thông báo kết quả tra soát, khiếu nại cho Chủ thẻ, NH có trách nhiệm thực hiện bồi hoàn cho Chủ thẻ theo thỏa thuận và quy định của pháp luật hiện hành đối với những tổn thất phát sinh không do lỗi của Chủ thẻ và/hoặc không thuộc các trường hợp bất khả kháng thỏa thuận tại Hợp đồng.
+Trong trường hợp hết thời hạn xử lý đề nghị tra soát, khiếu nại theo thỏa thuận tại Hợp đồng này mà vẫn chưa xác định được nguyên nhân hay lỗi thuộc bên nào thì trong vòng 15 ngày làm việc tiếp theo, NH sẽ thỏa thuận với chủ thẻ về phương án xử lý.
+Trường hợp vụ việc có dấu hiệu tội phạm, NH thực hiện thông báo cho cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về tố tụng hình sự và báo cáo Ngân hàng Nhà nước (Vụ Thanh toán, Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trên địa bàn); đồng thời, thông báo bằng văn bản cho Chủ thẻ về tình trạng xử lý đề nghị tra soát, khiếu nại.
+Việc xử lý kết quả tra soát, khiếu nại thuộc trách nhiệm giải quyết của cơ quan nhà nước có thẩm quyền.
+Trong trường hợp cơ quan nhà nước có thẩm quyền thông báo kết quả giải quyết không có yếu tố tội phạm, trong vòng 15 ngày làm việc kể từ ngày có kết luận của cơ quan nhà nước có thẩm quyền, NH sẽ thỏa thuận với Chủ thẻ về phương án xử lý kết quả tra soát, khiếu nại.
+Trường hợp NH, Chủ thẻ và các bên liên quan không thỏa thuận được và/hoặc không đồng ý với quá trình xử lý đề nghị tra soát, khiếu nại thì việc giải quyết tranh chấp được thực hiện theo quy định của pháp luật.
+NH chịu trách nhiệm bảo mật thông tin về Chủ thẻ, Thẻ, Giao dịch thẻ ngoại trừ các trường hợp NH phải cung cấp cho các cá nhân, Tổ chức theo quy định của pháp luật, Tổ chức thẻ quốc tế.
+Các nghĩa vụ khác theo thỏa thuận với Chủ thẻ và quy định của pháp luật.
+ĐIỀU 4.
+QUY ĐỊNH VỀ SỬ DỤNG CHỮ KÝ ĐIỆN TỬ
+Chữ ký điện tử của Chủ thẻ được tạo lập có giá trị pháp lý như chữ ký bằng tay của Chủ thẻ trên văn bản giấy.
+Chủ thẻ không thể hủy, thay đổi, phủ nhận, thoái thác bất kỳ giao dịch nào thực hiện với chữ ký điện tử đã được tạo lập.
+Các tài liệu, chứng từ, dữ liệu liên quan đến việc cung cấp dịch vụ và/hoặc giao dịch giữa Vietcombank và Chủ thẻ được xác nhận và lưu giữ bởi hệ thống của Vietcombank sẽ là bằng chứng về việc giao dịch của Chủ thẻ với Vietcombank và có giá trị pháp lý và ràng buộc với Chủ thẻ
+ĐIỀU 5 : CÁC HÀNH VI BỊ CẤM
+Làm, sử dụng, chuyển nhượng và lưu hành thẻ giả.
+Thực hiện, tổ chức thực hiện hoặc tạo điều kiện để người khác thực hiện các hành vi giao dịch thẻ gian lận, giả mạo; giao dịch thanh toán khống tại ĐVCNT.
+Lấy cắp, thông đồng để lấy cắp thông tin thẻ; tiết lộ và cung cấp thông tin thẻ, Chủ thẻ và giao dịch thẻ không đúng quy định của pháp luật.
+Xâm nhập hoặc tìm cách xâm nhập trái phép, phá hủy chương trình hoặc cơ sở dữ liệu của hệ thống phát hành, thanh toán thẻ, chuyển mạch thẻ, bù trừ điện tử giao dịch thẻ.
+Sử dụng Thẻ để thực hiện các giao dịch cho các mục đích rửa tiền, tài trợ khủng bố, lừa đảo, gian lận và các hành vi vi phạm pháp luật khác
+Mua, bán, thuê, cho thuê Thẻ hoặc thông tin Thẻ, mở hộ Thẻ.
+Các hành vi khác theo quy định của pháp luật.
+ĐIỀU 6: LÃI VÀ PHÍ
+6.1 Thứ tự ưu tiên thanh toán nợ: Các khoản thanh toán Số dư sao kê được áp dụng theo thứ tự sau: Phí thường niên, phí phạt (phí vượt hạn mức, phí không thanh toán đủ số tiền thanh toán tối thiểu), phí chuyển đổi trả góp, lãi của giao dịch rút tiền mặt, lãi của các giao dịch chi tiêu, phí rút tiền mặt, phí dịch vụ, các giao dịch rút tiền mặt, khoản trả góp định kỳ, các giao dịch chi tiêu và theo thứ tự ngày các giao dịch này được cập nhật vào hệ thống của NH.
+Trong trường hợp Chủ thẻ không thanh toán hoặc thanh toán không đầy đủ, đúng hạn cho NH theo quy định, NH có thể điều chỉnh thứ tự thanh toán sao kê (trong đó ưu tiên thu gốc trước, thu phí/lãi sau) và sẽ thông báo cho Chủ thẻ qua hòm thư điện tử/tin nhắn và/hoặc các hình thức khác mà NH cung cấp trong từng thời kỳ.
+6.2 Giao dịch thanh toán hàng hoá, dịch vụ: Khi đến Ngày đề nghị thanh toán, nếu Chủ thẻ trả toàn bộ Số dư sao kê thì NH sẽ ưu đãi miễn lãi cho toàn bộ giao dịch trong kỳ của Chủ thẻ.
+Nếu Chủ thẻ không thanh toán, NH sẽ tính lãi tất cả các giao dịch kể từ ngày các giao dịch được cập nhật vào hệ thống của NH đến ngày Chủ thẻ thực tế trả nợ.
+Trường hợp đến Ngày đề nghị thanh toán, nếu Chủ thẻ chỉ trả một phần Số dư sao kê (bao gồm cả trường hợp có thỏa thuận thanh toán Số tiền thanh toán tối thiểu), NH sẽ tính lãi tất cả các giao dịch kể từ ngày các giao dịch được cập nhật vào hệ thống của NH đến ngày Chủ thẻ trả một phần số dư sao kê, số dư sao kê còn lại chưa thanh toán sẽ tiếp tục được tính lãi cho đến khi được thanh toán và sẽ được thể hiện trên kỳ sao kê tiếp theo.
+6.3 Giao dịch rút tiền mặt: Khi thực hiện giao dịch rút tiền mặt, Chủ thẻ sẽ phải chịu lãi ngay từ ngày giao dịch được cập nhật vào hệ thống của NH đến Ngày sao kê và khoản lãi này được thể hiện trên sao kê cùng kỳ.
+Nếu Chủ thẻ trả toàn bộ Số dư sao kê vào hoặc trước Ngày đề nghị thanh toán, Chủ thẻ sẽ được miễn lãi cho các giao dịch tiền mặt từ Ngày sao kê đến ngày Chủ thẻ thực tế trả nợ.
+Nếu Chủ thẻ không trả hoặc chỉ trả một phần Số dư sao kê (bao gồm cả trường hợp có thỏa thuận thanh toán Số tiền thanh toán tối thiểu, NH tiếp tục tính lãi đối với tất cả các giao dịch rút tiền mặt kể từ Ngày sao kê cho đến ngày Chủ thẻ trả hết nợ và các khoản lãi này sẽ được thể hiện trên sao kê kỳ tiếp theo.
+6.4 Giao dịch tra soát: Lãi và phí phạt đối với các giao dịch tra soát của Chủ thẻ mà chưa thanh toán, cũng được tính theo nguyên tắc trên.
+NH sẽ hoàn lại lãi và phí phạt cho Chủ thẻ đối với những giao dịch có khiếu nại, tra soát đúng.
+6.5 Phí không thanh toán đủ số tiền thanh toán tối thiểu: Nếu đến Ngày đề nghị thanh toán Chủ thẻ không trả hoặc trả số tiền nhỏ hơn Số tiền thanh toán tối thiểu mà NH yêu cầu, Chủ thẻ sẽ chịu phí không thanh toán đủ số tiền thanh toán tối thiểu theo quy định của NH tính trên phần Số tiền thanh toán tối thiểu chưa thanh toán.
+6.6 Phí vượt hạn mức: Chủ thẻ phải chịu khoản phí vượt hạn mức tính trên dư nợ vượt Hạn mức tín dụng khi Chủ thẻ sử dụng quá Hạn mức tín dụng được cấp.
+6.7 Biểu phí và lãi: Chi tiết các loại phí, mức phí, lãi suất áp dụng cho Chủ thẻ được quy định trong Biểu phí và lãi thẻ tín dụng quốc tế (sau đây gọi tắt là Biểu phí) công bố chính thức trên Trang thông tin điện tử chính thức của NH (website: https://portal.vietcombank.com.vn).
+Biểu phí có thể được thay đổi trong từng thời kỳ, phù hợp với quy định của Ngân hàng Nhà nước.
+Việc thay đổi này được NH thông báo cho cho Chủ thẻ qua hòm thư điện tử/ tin nhắn và công bố trên Trang
+thông tin điện tử chính thức của NH.
+tối thiểu trước 07 ngày kể từ ngày Biểu phí có hiệu lực.
+Ngoài ra, Chủ thẻ có thể tham khảo Biểu phí và lãi suất hiện hành qua các kênh: Trang thông tin điện tử chính thức của NH hoặc tại bất kỳ Chi nhánh/Phòng giao dịch nào của NH hoặc bằng cách gọi điện thoại đến Hotline 24/7 của NH.
+ĐIỀU 7: THẺ CHÍNH VÀ THẺ PHỤ
+(Không áp dụng cho Thẻ Vietcombank Vietnam Airlines American Express)
+Chủ thẻ chính có quyền yêu cầu NH phát hành tối đa ba (03) Thẻ phụ.
+Chủ thẻ chính và (các) Chủ thẻ phụ cùng sử dụng chung một tài khoản Thẻ đối với Hạn mức tín dụng mà NH cấp cho Chủ thẻ chính.
+Giao dịch của Thẻ chính và (các) Thẻ phụ được thể hiện trên cùng một sao kê và được gửi cho Chủ thẻ chính để thanh toán.
+Chủ thẻ chính là người chịu trách nhiệm về việc sử dụng Thẻ và các giao dịch thực hiện bằng Thẻ của Thẻ chính và (các) Thẻ phụ và chịu trách nhiệm thanh toán cho NH Số dư sao kê theo quy định.
+Trong trường hợp Chủ thẻ chính không thanh toán hoặc thanh toán không đầy đủ, đúng hạn dư nợ sao kê cho NH, không mâu thuẫn với điểm g khoản 1 Điều 3 của Hợp đồng này, NH có quyền yêu cầu (các) Chủ thẻ còn lại có trách nhiệm thực hiện nghĩa vụ thanh toán cho NH.
+Chủ thẻ chính có quyền yêu cầu NH ngừng việc sử dụng (các) Thẻ phụ bằng văn bản mà không cần sự đồng ý của (các) Chủ thẻ phụ.
+Nếu Chủ thẻ chính chính thức chấm dứt việc sử dụng Thẻ thì (các) Chủ thẻ phụ cũng phải ngừng theo.
+Chủ thẻ chính và (các) Chủ thẻ phụ cùng chịu trách nhiệm liên đới và mỗi người chịu trách nhiệm cá nhân trong việc thực hiện các quy định trong Hợp đồng này.
+Việc miễn trừ hoặc không thể thi hành bất kỳ trách nhiệm nào của Chủ thẻ chính (nếu có) theo các điều khoản, điều kiện của Hợp đồng sẽ không mặc nhiên xoá bỏ trách nhiệm của (các) Chủ thẻ phụ và/hoặc cá nhân được ủy quyền sử dụng thẻ và ngược lại, trừ trường hợp có sự đồng ý của NH.
+Trường hợp Chủ thẻ (bao gồm cả Chủ thẻ chính và (các) Chủ thẻ phụ) bị chết, mất tích, hoặc mất năng lực hành vi dân sự thì việc thực hiện các điều khoản, điều kiện này được thực hiện theo quy định của Hợp đồng và của pháp luật.
+ĐIỀU 8: ĐỔI, PHÁT HÀNH LẠI VÀ CHẤM DỨT SỬ DỤNG THẺ
+Khi bị mất, thất lạc Thẻ hoặc muốn đổi Thẻ khác, Chủ thẻ có thể yêu cầu NH cấp Thẻ mới thay thế và phải trả phí đổi Thẻ cho NH.
+Khi đơn phương chấm dứt sử dụng Thẻ, Chủ thẻ chính phải gửi thông báo bằng văn bản cho NH và có trách nhiệm gửi trả lại Thẻ (bao gồm cả Thẻ chính và Thẻ phụ) cho NH.
+Việc đơn phương chấm dứt sử dụng thẻ theo đề nghị của Chủ thẻ theo quy định tại Hợp đồng phát hành và sử dụng thẻ tín dụng này không loại bỏ trách nhiệm của Chủ thẻ trong việc thanh toán toàn bộ dư nợ và các tra soát, khiếu nại của chủ thẻ (nếu có).
+NH không phải chịu trách nhiệm phát sinh (nếu có) liên quan đến việc Chủ thẻ chính đơn phương thông báo chấm dứt sử dụng Thẻ trừ trường hợp do lỗi của NH.
+Khi chấm dứt việc sử dụng Thẻ theo yêu cầu của NH hay theo yêu cầu của Chủ thẻ hoặc hết thời hạn sử dụng Thẻ; hoặc có sự thay đổi của Chủ thẻ liên quan đến điều kiện phát hành Thẻ nhưng Chủ thẻ không làm thủ tục để tiếp tục sử dụng Thẻ thì toàn bộ số dư còn lại trên tài khoản Thẻ sẽ đến hạn và Chủ thẻ có trách nhiệm thanh toán mọi Giao dịch Thẻ, phí và lãi phát sinh tới thời
+điểm đó.
+Khi ngừng sử dụng Thẻ, Chủ thẻ phải gửi trả Thẻ cho NH và chấm dứt việc sử dụng Thẻ để rút tiền mặt, thanh toán các giao dịch mua hàng hoá hay dịch vụ kể cả các giao dịch thông qua Internet, điện thoại hoặc thư tín.
+Trong trường hợp gửi trả bằng đường bưu điện, Chủ thẻ phải gửi trả Thẻ đã được cắt đôi, đục lỗ ở Chip và băng từ tới NH.
+Nếu Chủ thẻ không hoàn trả lại Thẻ cho NH, Chủ thẻ sẽ phải chịu phí thông báo mất cắp, thất lạc Thẻ theo biểu phí do NH công bố trên Trang thông tin điện tử chính thức của NH trong từng thời kỳ.
+Nếu Chủ thẻ đã chấm dứt sử dụng Thẻ nhưng vẫn tiếp tục sử dụng Thẻ để thực hiện Giao dịch Thẻ thì Chủ thẻ vẫn phải có trách nhiệm thanh toán các giao dịch trên.
+NH được quyền thu hồi hoặc khoá Thẻ của Chủ thẻ trong những trường hợp sau:
+Sau Ngày đến hạn thanh toán, Chủ thẻ không trả hoặc không trả đủ Số tiền thanh toán tối thiểu;
+Chủ thẻ đã chi vượt Hạn mức tín dụng mà không được NH cho phép;
+Chủ thẻ vi phạm quy định về sử dụng Thẻ của NH hoặc vi phạm các quy định của pháp luật, NHNN, TCTQT trong việc sử dụng Thẻ;
+Các trường hợp nghi ngờ liên quan đến các hành vi gian lận, giả mạo và quản lý rủi ro;
+Theo yêu cầu của cơ quan có thẩm quyền;
+NH được quyền thu giữ Thẻ trong các trường hợp: thẻ giả; thẻ sử dụng trái phép; phục vụ công tác điều tra, xử lý tội phạm theo quy định của pháp luật bằng cách thông báo bằng văn bản về việc thu hồi này cho Chủ thẻ hoặc thông qua TCTTT hoặc ĐVCNT.
+Chủ thẻ bị tạm giữ theo quy định của pháp luật để phục vụ công tác điều tra;
+NH phát hiện tài liệu, thông tin do Chủ thẻ cung cấp là không chính xác, không trung thực, sai sự thật;
+Chủ thẻ vi phạm nghĩa vụ trả nợ (bao gồm nợ gốc, lãi, phí và các phí khác phát sinh) với NH và/hoặc với bất kỳ tổ chức tín dụng nào khác;
+Các sự kiện khác mà theo đánh giá, xem xét của NH là có khả năng ảnh hưởng tới khả năng trả nợ đầy đủ, đúng hạn của Chủ thẻ.
+ĐIỀU 9:  SỰ KIỆN BẤT KHẢ KHÁNG
+Sự kiện bất khả kháng là những sự kiện xảy ra một cách khách quan, không thể lường trước và
+không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết mà khả năng cho phép.
+Những trường hợp được coi là sự kiện bất khả kháng bao gồm nhưng không giới hạn bởi: động
+đất, lũ lụt, hạn hán, cháy nổ, dịch bệnh, thảm họa, thiên tai, chiến tranh, khủng bố, đình công, phá sản,... hoặc những sự kiện không thể lường trước được và không có nghĩa vụ phải biết trước dẫn đến việc không thể tiếp tục thực hiện hay có thể ảnh hưởng nghiêm trọng tới hiệu lực của Hợp đồng.
+Khi xảy ra sự kiện bất khả kháng cho một bên thì trong vòng 07 ngày bên đó có trách nhiệm thông báo bằng văn bản cho bên còn lại và trong vòng 30 ngày phải gửi văn bản cho bên còn lại mô tả chi tiết về nguyên nhân của sự kiện, ảnh hưởng của sự kiện đối với việc thực hiện nghĩa vụ Hợp đồng và gửi kèm các chứng nhận của chính quyền địa phương về việc xảy ra sự kiện bất khả
+kháng.
+Ngay sau khi sự kiện bất khả kháng chấm dứt, các bên có trách nhiệm tích cực khắc phục hậu quả (nếu có) và tiếp tục thực hiện Hợp đồng.
+Nếu có sự kiện bất khả kháng kéo dài hơn 01 tháng, thì các bên sẽ xem xét và quyết định một cách hợp lý về nội dung các điều khoản tại Hợp đồng.
+Trong trường hợp các bên không thống nhất được phương án thực hiện, các bên đồng ý giải quyết tranh chấp tại Tòa án nhân dân cấp có thẩm quyền theo quy định của pháp luật.
+ĐIỀU 10: THÔNG BÁO
+Tất cả các thông báo của Vietcombank đến Chủ thẻ sẽ được Vietcombank gửi cho chủ thẻ bằng văn bản theo địa chỉ hoặc thông tin cuối cùng mà Chủ thẻ đăng ký tại Hợp đồng phát hành và sử dụng thẻ tín dụng Vietcombank, hoặc công bố trên Trang thông tin điện tử chính thức của Vietcombank, hoặc thông báo trên Digibank của Chủ thẻ, hoặc thông báo trên các phương tiện thông tin đại chúng, hay niêm yết tại các Chi nhánh/ Phòng giao dịch của Vietcombank.
+Tất cả các thông báo và thông tin sẽ có hiệu lực:
+Trong vòng năm (05) ngày kể từ ngày gửi (tính theo dấu bưu điện nơi gửi) nếu gửi bằng thư; hoặc
+Vào ngày gửi đi nếu gửi bằng fax, telex, thư điện tử, tin nhắn mà Chủ Thẻ đã đăng ký với Vietcombank; hoặc
+Vào ngày nhận nếu điện thoại trực tiếp, gửi trực tiếp; hoặc
+Vào ngày công bố trên website chính thức của Vietcombank hoặc thông báo trên các phương tiện thông tin đại chúng hay ngày niêm yết tại các hệ thống của Vietcombank.
+Chủ Thẻ có thể liên lạc với Vietcombank qua Hotline 24/7 để được hỗ trợ tư vấn, giải đáp thắc mắc về các sản phẩm hoặc dịch vụ do Vietcombank cung cấp.
+Chủ thẻ có trách nhiệm bồi thường toàn bộ các thiệt hại phát sinh (nếu có) cho Vietcombank nếu nội dung trong thông báo điện tử do Vietcombank gửi cho Chủ thẻ, bằng bất kỳ phương thức nào, bị tiếp cận bởi bất kỳ người nào khác ngoài Chủ thẻ.
+Chủ thẻ đồng ý tham gia các chương trình khuyến mại của Vietcombank và nhận thông báo quảng cáo về tất cả các sản phẩm, dịch vụ, chương trình hoạt động của Vietcombank bằng hòm thư điện tử, tin nhắn hoặc qua các kênh khác, trừ trường hợp Chủ thẻ có phản hồi cho Vietcombank về việc không tiếp tục nhận thông báo quảng cáo theo Hợp đồng này.
+Trường hợp Chủ thẻ có phản hồi về việc không tiếp tục nhận thông tin quảng cáo sẽ không ảnh hưởng đến quyền và nghĩa vụ của Chủ thẻ trong việc tiếp tục thực hiện Hợp đồng này.
+Chủ thẻ có trách nhiệm thông báo cho Vietcombank bằng văn bản ngay khi có những thay đổi về các thông tin đã đăng ký với Vietcombank.
+ĐIỀU 11: CAM KẾT CỦA CHỦ THẺ
+Chủ thẻ xác nhận các thông tin trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm về các thông tin đã cung cấp.
+Chủ thẻ xác nhận đã được NH thông báo về Biểu phí và lãi Thẻ tín dụng quốc tế khi phát hành Thẻ.
+Biểu phí và lãi Thẻ Tín dụng quốc tế có thể được thay đổi trong từng thời kỳ, phù hợp với
+quy định của Ngân hàng Nhà nước.
+Khi có bất kỳ sự thay đổi về loại phí và mức phí (hoặc lãi suất), NH sẽ công bố trên trang thông tin điện tử chính thức của NH và thông báo cho Chủ thẻ qua hòm thư điện tử/tin nhắn.
+Chủ thẻ đồng ý nhận thông tin quảng cáo về tất cả các sản phẩm, dịch vụ, chương trình hoạt động của NH bằng hòm thư điện tử, tin nhắn hoặc qua các kênh khác trừ trường hợp Chủ thẻ có phản hồi cho NH về việc không tiếp tục nhận thông tin quảng cáo theo Hợp đồng này và đồng ý tham gia các chương trình khuyến mại của NH.
+Trường hợp Chủ thẻ có phản hồi về việc không tiếp tục nhận thông tin quảng cáo sẽ không ảnh hưởng tới quyền của Chủ thẻ trong việc tiếp tục thực hiện Hợp đồng này.
+Chủ thẻ đồng ý cho NH được sử dụng và cung cấp các thông tin tín dụng của Chủ thẻ tại NH cho các tổ chức cung cấp sản phẩm thông tin tín dụng hoặc theo yêu cầu của người/cơ quan nhà nước có thẩm quyền phù hợp với quy định của pháp luật.
+Chủ thẻ đồng ý và cam kết tuân thủ các quy định của các nhà cung cấp dịch vụ ưu đãi/ nhà cung cấp bảo hiểm khi sử dụng các dịch vụ được cung cấp bởi nhà cung cấp đó và NH được miễn trách hoàn toàn đối với các tranh chấp, khiếu nại phát sinh (nếu có).
+Chủ thẻ đồng ý để TCTQT/nhà cung cấp dịch vụ phòng chờ thu phí vào tài khoản Thẻ của Chủ thẻ cho việc sử dụng phòng chờ của bản thân Chủ thẻ và khách đi kèm.
+Chủ thẻ hiểu rằng mức phí và các nội dung khác liên quan đến việc sử dụng dịch vụ phòng chờ do Ngân hàng và/hoặc nhà cung cấp dịch vụ phòng chờ quy định.
+Ngân hàng và/hoặc nhà cung cấp dịch vụ phòng chờ có toàn quyền thay đổi điều kiện và điều khoản của chương trình theo từng thời kỳ.
+ĐIỀU 12: CÁC ĐIỀU KHOẢN SỬA ĐỔI BỔ SUNG
+Chủ thẻ và NH theo đây thỏa thuận về việc sửa đổi, bổ sung Hợp đồng phát hành và sử dụng thẻ tín dụng quốc tế Vietcombank như sau: Hợp đồng phát hành và sử dụng thẻ tín dụng quốc tế Vietcombank có thể được sửa đổi và bổ sung trong từng thời kỳ, đảm bảo nội dung tuân thủ theo quy định của pháp luật và bảo vệ quyền, lợi ích hợp pháp của các bên, thông qua việc NH thông báo cho Chủ thẻ qua Hòm thư điện tử/tin nhắn và công bố trên trang thông tin điện tử chính thức của NH tối thiểu trước 07 ngày kể từ ngày Hợp đồng được sửa đổi, bổ sung có hiệu lực, trừ trường hợp phải thực hiện ngay các sửa đổi, bổ sung đó theo quy định của pháp luật và/hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền.
+Nếu Chủ thẻ tiếp tục sử dụng thẻ sau ngày Hợp đồng được sửa đổi, bổ sung có hiệu lực thì được hiểu là Chủ thẻ chấp thuận toàn bộ những nội dung sửa đổi, bổ sung đó và NH không cần phải có thêm bất kỳ chấp thuận nào của Chủ thẻ.
+ĐIỀU 13: ĐIỀU KHOẢN VỀ THƯƠNG HIỆU VÀ CHUYỂN GIAO
+(Chỉ áp dụng đối với Thẻ mang thương hiệu Amex)
+American Express là thương hiệu được đăng ký bản quyền bởi American Express.
+Thẻ này được Vietcombank phát hành theo nhượng quyền của American Express.
+Theo quy định của Tổ chức thẻ quốc tế American Express, trong trường hợp NH không còn là ngân hàng phát hành thẻ American Express tại thị trường Việt Nam, để đảm bảo cho chủ thẻ American Express vẫn được tiếp tục cung cấp dịch vụ và không bị ảnh hưởng về sự thay đổi ngân hàng phát hành này, NH có thể chuyển giao toàn bộ hoặc bất kỳ phần nào quyền hạn và nghĩa vụ của NH liên quan đến việc phát hành và thanh toán Thẻ cho American Express.
+Việc
+chuyển giao này được NH thông báo cho chủ thẻ qua hòm thư điện tử/tin nhắn và công bố trên Trang thông tin điện tử chính thức của NH tối thiểu trước 07 ngày kể từ ngày việc chuyển giao có hiệu lực.
+Chủ thẻ được coi là chấp thuận với việc chuyển giao này nếu Chủ thẻ tiếp tục sử dụng thẻ và không thực hiện chấm dứt sử dụng thẻ.
+Trường hợp Chủ thẻ không đồng ý, Chủ thẻ cần có thông báo chính thức bằng văn bản gửi tới NH.
+ĐIỀU 14: LUẬT ĐIỀU CHỈNH, GIẢI QUYẾT TRANH CHẤP
+Hợp đồng phát hành và sử dụng Thẻ Tín dụng quốc tế này được điều chỉnh bởi luật pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam, các quy định hiện hành về phát hành, sử dụng và thanh toán Thẻ quốc tế của NH, NHNN và các TCTQT.
+Những nội dung không quy định trong Hợp đồng sẽ được áp dụng theo quy định pháp luật, quy định của NH, NHNN và TCTQT.
+Mọi tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này, trước tiên được các Bên giải quyết trên cơ sở thương lượng.
+Trường hợp không thương lượng được, các Bên đồng ý giải quyết tranh chấp tại Toà án nhân dân cấp có thẩm quyền theo quy định của pháp luật.
+ĐIỀU 15: ĐIỀU KHOẢN THI HÀNH
+Đề nghị phát hành Thẻ Tín dụng quốc tế Vietcombank cùng bất kỳ văn bản chỉnh sửa, bổ sung và các tài liệu kèm theo (nếu có) là một bộ phận không tách rời của Hợp đồng phát hành và sử dụng Thẻ Tín dụng quốc tế này.
+Hợp đồng có hiệu lực kể từ ngày các Bên thực hiện ký kết cho đến khi chấm dứt việc sử dụng Thẻ hoặc khi mọi nghĩa vụ thanh toán của Chủ thẻ đối với NH theo quy định của Hợp đồng đã hoàn thành, tùy thuộc ngày nào đến sau.
+Hợp đồng phát hành và sử dụng Thẻ Tín dụng quốc tế này được lập bằng Tiếng Việt.
+Nếu có bên nước ngoài tham gia, Hợp đồng có thể được lập bằng tiếng Việt và tiếng Anh.
+Trong trường hợp có mâu thuẫn về nội dung giữa bản tiếng Việt và bản tiếng Anh thì bản tiếng Việt có giá trị ưu tiên để giải thích Hợp đồng.
+Nếu một phần hoặc toàn bộ bất kỳ một điều khoản nào của Hợp đồng này trở nên không hợp lệ, không giá trị hoặc không thể thi hành theo quy định pháp luật thì nó sẽ không ảnh hưởng đến tính hợp pháp, hiệu lực và thi hành của những điều khoản còn lại của Hợp đồng.
+Việc chưa hoặc chậm trễ thực hiện quyền hạn và nghĩa vụ của NH theo Hợp đồng này sẽ không được coi như là từ bỏ toàn bộ hay một phần quyền hạn và nghĩa vụ của NH trừ khi NH có thông báo bằng văn bản về sự khước từ quyền hạn và nghĩa vụ của mình.
+Chủ thẻ và NH xác nhận đã đọc, hiểu rõ và cam kết thực hiện đúng các điều kiện của Hợp đồng phát hành và sử dụng Thẻ Tín dụng quốc tế, các quy định khác của NH, NHNN, TCTQT cũng như pháp luật hiện hành của Việt Nam..

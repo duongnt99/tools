@@ -1,0 +1,344 @@
+TERMS AND CONDITIONS FOR VIETCOMBANK
+INTERNATIONAL CREDIT CARD ISSUANCE AND USAGE
+(For individual customer)
+Applied from 25th August, 2021
+CLAUSE 1: DEFINITIONS
+"The Bank": shall mean the Joint Stock Commercial Bank for Foreign Trade of Vietnam (Vietcombank).
+“State Bank” (SBV): shall mean the State Bank of Vietnam.
+“International Card Scheme": shall mean the institute founded outside Vietnam pursuant to foreign regulations and laws, establishing a partnership relation with domestic issuing and acquiring institutes or other relevant parties for card issuing and acquiring business in compliance with Laws of Vietnam.
+"Card": shall mean the international Credit card issued by Vietcombank that allows Cardholder to make card transactions within Credit Limit as agreed with The Issuing Bank.
+“Contactless card”: shall mean the card used contactless payment technology.
+"Cardholder": shall mean any individual issued Card by the Bank for his/her usage, including the Primary Cardholder and Supplementary Cardholder(s).
+The “Primary Cardholder”: shall mean the individual who has directly signed the Agreement of Card issuance and usage with The Issuing Bank and has responsibility for executing this Agreement, stipulated by the law and the Bank from time to time.
+The “Supplementary Cardholder(s)”: shall mean the individual(s) who is/are agreed by the Primary Cardholder for the Card(s) usage, stipulated by the law and the Bank from time to time; the Primary Cardholder commit to the Bank in written form of undertakes all obligations related to card usage in accordance with the Agreement for International credit card issuance and usage for the Supplementary Cardholder(s)’s card usage under the Agreement.
+The Supplementary Cardholder(s) bears the responsibility for the Card usage to the Primary Cardholder.
+“Agreement for International Credit Card issuance and usage”: shall mean the Agreement for Vietcombank International Credit Card issuance and usage for individual customer, includes the Application for Vietcombank international credit card for individual customer, Terms and conditions of Vietcombank international credit card issuance and usage for individual customer and other annexes, amendment documents (if any).
+“Terms and conditions of Vietcombank International Credit Card Issuance and Usage for individual customer”: shall mean the Terms and Conditions of Vietcombank International Credit Card Issuance and Usage for individual customer.
+“Application for Vietcombank International Credit Card for individual customer”: shall mean customer’s request including relevant information and commitments, confirmation so that the
+Bank will consider and approve the card issuance for the Cardholder, and together with the Terms
+and conditions to form the Agreement for International Credit Card Issuance and Usage, which govern the card issuance and usage of a legal binding between the Bank and the Cardholder.
+Cardholder's electronic signature: is the combination of cardholder’s VCB-Digibank username and login password and One-Time Password and/or identification elements and/or any other
+Cardholder’s identifiers as stipulated by Vietcombank from time to time  in accordance with the provisions of the law.
+“Internet”: shall mean the global information network using Internet protocol and Internet resource to provide telecommunication users with various services and applications.
+“Website/ Official electronic webpage of the Bank”: shall mean the bank’s web page as the following link: http://portal.vietcombank.com.vn.
+"Acquirer": shall mean the institutes allowed to legally provide the Card payment services through Merchant and/or Cash Advance Point and/or ATM.
+"Merchant": shall mean individuals, organizations which are the goods and services suppliers, accepting the Card payment according to the merchant contract with Acquirer.
+“Contactless terminal”: shall mean card-accepting device with integrated contactless technology, has the function of accepting contactless cards and other wireless connection devices in addition to functions of normal devices.
+"Cash Advance Point": shall mean transaction counter, Acquirer and ATM where Cardholders could use heir Cards for cash advance.
+"Automated Teller Machine" (ATM): shall mean the machine that Cardholder can use to perform some automated banking transactions.
+ATM is considered as a Cash Advance Point, where Cardholder could use their Cards for cash advance and/or other transactions performance.
+"Personal Identification Number" (PIN): shall mean the security code number issued for each Cardholder by the Bank, and must be preserved and used towards some Card transaction types by the Cardholder to certify the Cardholder as stipulated by the Bank.
+“OTP” (one time password): shall mean secret password that is valid for only one transaction for a certain period of time specified by the Bank, usually used as a second authentication of cardholder, conducting e-commerce transactions, transactions via mobile apps or other digital channels provided by the Bank.
+OTP is sent via SMS, email or other channels implemented by the Bank in each period.
+“mPIN”: shall mean the password generated by Cardholder and registered with the Bank, used for mobile device transaction authentication.
+mPIN includes number and/or letter as regulated by the Bank from time to time.
+“Secure code”: shall mean the security number printed on the Card, used to perform e-commerce transactions.
+"Card Account": shall mean the credit card account provided by The Bank to the Primary Cardholder and Supplementary Cardholder(s) for the Card usage.
+"Card transaction": shall mean any transaction made by the Card at Merchant, CAP, and ATM, on the Internet and/or other transaction channels as stipulated by the Bank.
+“Contactless card transaction”: shall mean transaction conducted by touching the contactless card on the contactless card reader or placing the contactless card close to the contactless card reader.
+“Quick transaction without signature”: The Cardholder uses the card to carry out transactions of goods and services through the Merchant without signing the invoice.
+This service is only applicable in certain types of Merchant and when the amount of goods and services is less than a specific amount according to the provisions of the Bank and/or SBV/ International Card Scheme in each period.
+“Conversion fee for instalment transaction”: shall mean the fee that VCB collects from the Cardholder upon successful registration of the instalment transaction during the instalment payment period.
+Conversion fees for instalment payments applied to each instalment program that the Cardholder participates in and is notified by VCB from time to time.
+“Periodic instalment payment”: shall mean the principle transaction value that Cardholder pays monthly during instalment period.
+“Fraud card”: shall mean the card illegally issued by individuals, organizations other than the Bank but contains information of actual cards and cardholder.
+“Fraud card transaction”: shall mean transaction made by a Fraud card or using card/card information illegally.
+"Sales slip": shall mean the evidence to prove the Card transaction made by Cardholder.
+“Card credit limit”: shall mean the maximum credit limit approved for 1 customer for Vietcombank credit card issuance.
+"Credit card limit": shall mean the revolving credit limit approved for each card of customer, including primary card and supplementary card, of which credit limit of primary card and supplementary cards may be different.
+"Daily usage limit": shall mean the maximum transaction amount and number which is allowed for goods, services payment and/or cash withdrawal by the Card within a day.
+“Limit that not required for cardholder authentication”: shall mean the maximum limit per transaction value that allows to ignore Cardholder authentication in accordance with regulations of the International Card Scheme, SBV and/or the Bank in each period.
+"Card Statement": shall mean the detailed record including but not limited to Card transactions, reimbursement, refund/reversal, reward transactions from promotional programs (if any), arising interest and fees relating to the Card usage of the Cardholder within a fixed period as stipulated by the Bank.
+"Current Statement balance" shall mean the payables by the Cardholder, including the transaction value, fees and interest relating to the Card issuance, usage and payment as specified in the monthly Card statement.
+“Statement Date”: shall means the day that the Bank issues Card Statement for Cardholders.
+“Statement period”: shall mean the period the Bank issues Card Statement from the date after the statement date of the previous period to the end of statement date of the current period.
+"Minimum payment amount": shall mean the minimum amount payable by the Cardholder to the Bank in each statement period.
+“Proposed Payment Date”: shall mean the deadline that the Cardholder must pay the minimum payment amount or the total current statement balance in order to be waived unpaid minimum payment fee and/or interest as stipulated by the Bank in Cardholder’s Statement.
+"Payment due date": shall mean the 60th day from the first proposed payment date (or the proposed payment date of the third statement period), the Cardholder must fully pay the minimum payment amount to avoid being moved into delinquency.
+"Collateral": shall mean the legal assets of the Cardholder/Guarantor which are accepted by the Bank as the guarantee for Card issuance and usage.
+"Date": shall mean calendar day.
+“Working day”: shall mean business day except holidays in accordance with the Laws of Socialist
+Republic of Vietnam and/or the Bank’s official notice.
+CLAUSE 2: RIGHTS AND OBLIGATIONS OF THE CARDHOLDER 2.1.Rights of the Cardholder
+To be entitled to use the Card for goods and services payment at Merchant, on the Internet, mobile  and/or cash withdrawal at ATM or CAP inside or outside the territory of Vietnam and/or other transaction channels as stipulated by the Bank.
+The Primary Cardholder is entitled to request for Card replacement, PIN renewal and other requirements relating to Card issuance and usage of the Primary Cardholder and Supplementary
+Cardholder(s) in accordance with the Bank’s regulation.
+Upon the Bank’s approval, such requests relating to Card issuance and usage of the Cardholder have no influence on Cardholder’s responsibilites stipulated in this Agreement.
+The Cardholder is required to pay all arising fees for the requests accepted by the Bank.
+Primary Cardholder is the only person fully entitled to make requests relating to Supplement Card usage.
+Primary Cardholder is entitled to make claims for the arising mistakes (if any) during his/her and Supplementary Cardholder(s)’ Card usage and be responsible for all fees relating to the claim (in case of wrong claim) according to the fee schedule published by Official electronic webpage of the Bank and in accordance with the regulations of the International Card Scheme in each period.
+The duration for The Primary Cardholder to make claim shall not exceed 60 days from the Card transaction date.
+To be entitled to unilaterally terminate Card usage and to request for Card replacement, Card reissuance according to Clause 5 and Clause 6 of this Agreement.
+To be entitled to request the Bank to automatically debit the registered current account of the Cardholder opened at the Bank (VND account or foreign currencies account) to pay the Current Statement balance.
+To be entitled to receive the Card statement issued by the Bank on the monthly basis.
+To be entitled to enjoy all privileges provided by the Bank and/or its partners as stipulated from time to time.
+To be entitled to participate in credit card instalment program under the specific terms of the installment program of VCB updated from time to time on VCB official website/other channels that VCB considers appropriate.
+Other rights as agreed with the Bank and stipulated by the Laws
+2.Obligations of the Cardholders
+To be responsible for pickup the Card/PIN or authorize other to pick up the Card/PIN.
+The authorised letter shall be made in writting as stipulated by the Bank.
+In case of authorising other individual to pick up the Card/PIN, the Cardholder must bear all arising risks, excluding the case due to the Bank’s fault.
+To be responsible for signing the sample signature on the signature panel at the back of the Card immediately upon receiving the Card.
+When the Cardholder makes any cash withdrawal or goods, services payment transaction, the Cardholder has to sign on the Sales slip with the similar signature excluding the transactions through mail, telephone, Internet order or other channels without the requirement for the signature of the Cardholder as approved by the Bank.
+Any change of the signature must be informed in written to the Bank.
+To be responsible for managing the Card and securing PIN, mPIN, Card information, transaction information, Electronic signature and data which are used to generate Electronic Signature.
+Cardholder must not transfer or allow any other people to use the card and must not disclose Card information (both front and back side), PIN, mPIN, OTP, secure code to anyone else.
+Cardholder is not allowed to disclose the One-Time Password that Vietcombank sent to Cardholder to generate the electronic signature to anyone.
+When detecting that the electronic signature may no longer be under control, Cardholder must promptly block the card and use appropriate means to notify Vietcombank immediately.
+To be responsible for ensuring the safety of the Card and committing to pay all transactions with/without the Cardholder’s signature/indifferent signature with the registered one, PIN, mPIN usage (including the unauthorized transactions by the Bank) and/or OTP usage and other transactions if the Bank could provide the evidences of transaction performance made by the Card without PIN/mPIN, the Cardholder’s signature/signature as the same as registered one.
+In case of disclosed or lost/stolen PIN/mPIN, Card information not due to the Bank’s fault, the Cardholder must bear all arising risks and take responsibilites for paying all Card transaction amounts, fees and interest arising before the Cardholder’s request for locking Card and the Card locked by the Bank.
+To bare all risks if the transaction violates the embargo policy of the US and/or any country and/or any organization that imposes it.
+To take responsibilities for all transactions/requests/proposals/orders on Vietcombank's E-banking service that are verified by Cardholder's electronic signature as agreed with Vietcombank.
+In case the Card is still in effect and lost/stolen, to avoid the risk that the Cardholder must pay for transactions not made by himself, in addition to locking/blocking the card permanently, the Bank will update the Card into list of lost/stolen Card.
+The Cardholder must take responsibility for paying the Bank all the fees for updating this Card into list of lost/stolen Card.
+This fee has been specified in the fee schedule and published on the official website of the Bank..
+In case of lost or stolen Card or disclosure of PIN, mPIN, Card information or at risk of being fraud..., the Cardholder shall, first of all, immediately inform the Bank through 24/7 Vietcombank Call Center at the number: 8424.3824.3524 or 1900.54.54.13.
+After that, the Cardholder must contact and provide the Bank with at least following information in writing:
+The Cardholder’s name
+The Card number
+The Card Effective Date
+The Place of the lost Card/suspicion of disclosed/misused Card information/ contactless card transaction incurred unintentionally.
+The Time of the lost Card/suspicion of disclosed/misused Card information/ contactless card transaction incurred unintentionally.
+Valid ID/ passport number
+To fully take responsibilities and risks (if any) for transactions on the Internet/mobile made by the
+Card of the Cardholder excluding the cases identified due to the Bank’s fault.
+Must use mPIN/OTP or authentication methods as required by the Bank when performing some ecommerce transactions, registering for card on file and paying on some mobile apps, to ensure that no mPIN/OTP to be disclosed to anyone and take full responsibility for transactions used mPIN generated by Cardholder or OTP sent by VCB to the registered OTP receiving method.
+To be responsible to immediately inform the Bank in the event of any Card transactions not made by the Cardholder and cooperate with the Bank during investigation period of arising fraud transactions relating to the Card usage.
+To be responsible for keeping and providing evidences for the cancellation of the recurring billing service in case the Cardholder terminates the Card usage of making payment for periodic transactions (on the monthly, quarterly basis).
+Not to use but to return to the Bank upon finding the Card which the Cardholder has previously reported as being lost or stolen.
+To immediately notify the Bank in writing of any change in Cardholder’s information registered to the Bank.
+To be responsible for fully and exactly providing the Bank with necessary documents and for the accuracy of information on the Card issuance and usage according to the requests of the Bank or other authorised organizations as regulated by the Laws.
+To be responsible for using the Card in accordance with the Laws, the regulations of the SBV/the Bank and International Card Scheme.
+To commit not to make any transactions against the Laws of the Socialist Republic of Vietnam and/or local countries.
+The Bank is entitled to decline to process or make payment for such above cases.
+On the monthly basis, the Bank automatically sends the Statement to the Cardholder through registered email address and post address in case Cardholder registers for paper statement.
+In the event of not receiving or late receiving the Card Statement, the Cardholder is still responsible for making full and timely payment for the Bank for all Card transaction amounts, arising fees and interest in the Card Statement period.
+To be responsible for checking the accuracy of recorded contents on the monthly statement .
+In case contents stated in the statement is not accurate, Cardholder is responsible for informing the Bank
+(through the Bank’s branches) in writing or through Hotline 24/7 about any transaction inquiries within 60 days from the date of the transaction.
+After that period, if the Bank does not receive any claims of Cardholder, it shall mean that Cardholder has agreed with all incurring card transactions and fees.
+In case of notifying Hotline 24/7, Cardholder is responsible for submitting the request for claims and disputes resolution as per the Bank’s form within 03 working days as an official basis for claims and disputes resolution.
+In case Cardholder authorizes another person to submit the request of claims and disputes resolution, Cardholder shall comply with the provisions of law for the authorization.
+To be responsible for checking and making full and timely payment of all Card transactions, arising fees and interest to the Bank in accordance with the Bank’s regulations on Card usage.
+In case the Cardholder registers auto debit in accordance with the Bank’s regulation, by this Agreement the Cardholder agrees to the Bank to automatically debit the Cardholder’s registered account opened at the Bank or or the account of another individual opened with a bank if agreed in writing by that account holder to collect payment for Current Statement Balance.
+Except as otherwise specified, on the monthly basis, the Cardholder must ensure a sufficient balance in the registered account for the Bank to debit during the period from the statement date to the proposed payment date.
+For monthly automatic debit method, the Bank is entitled to automatically debit the registered account to collect payment for total Current Statement Balance or registered Current Statement Balance at any time in the period stated above.
+If during the above period, the balance in the registered account is not sufficient for the Bank to debit, the Cardholder agrees to allow the Bank to continue deducting supplement the outstanding amount against the amount registered by the cardholder to automatically debit and the Cardholder shall be liable to make payment for the rest balance and other arising fees, interest published by the Bank on the website Official in each period and in accordance with provisions of applicable laws.
+To be responsible for resolving disputes with Merchant relating to Card transactions without delaying the payment as regulated in this Agreement.
+To be responsible for paying all arising fees relating to goods/services provided by the third party if the mentioned good/services are not in the privilege package provided by the Bank.
+To be responsible for paying all arising fees relating to using airport lounge and/or lounge services provided by International Card Scheme/lounge service provider.
+The Primary Cardholder shall take full responsibilities and risks of Card transactions made by Supplementary Cardholder(s).
+To be responsible for directly working with the partners which are assigned by the Bank to provide incentives/insurance to Cardholder in order to resolve relating claims, compensation requests.
+To be responsible for registering the SMS-B@nking service on applying for Card issuance to timely manage the Card transactions.
+To take full responsibilities for any arising risk if Cardholder does not promptly notice the bank when getting SMS reporting Card transactions which are not made by Cardholder except for from the Bank’s fault.
+To be responsible for receiving Card at the Bank or activating Card in case of receiving Card through Post within 45 days from the date of issuance.
+After this given period, Card shall be terminated and the Cardholder must pay for Card issuance fee as well as the first year annual fee.
+Agree unconditionally on the reissuance of the replacement credit card in case there is no notice of termination within thirty (30) days before the expiration date indicated on the card.
+Respond to agree or disagree upon receiving notice from the Bank about the adjustment of the Credit Limit and/or Card Class within the time limit proposed by the Bank.
+Agree and not require any further confirmation/approval of the decision to adjust the credit limit and/or card class of the Bank if not responding to the notice of the Bank within the proposed time and/or continue to use the card after the adjustment.
+To be responsible for making payment of disputed Card transaction and arising fees as stipulated by regulation of International Card Scheme when the dispute is arbitrated by the Referee of International Card Scheme and the Cardholder fails in this suit.
+To allow the Bank to debit Cardholder’s current account/ Card Account for excessive/ incorrect reimbursement/credit by the Bank into Cardholder’s card account due to errors in transaction processing, breakdown of system, transmission line network or advance payment made to the Cardholder for dispute resolution at ATM and Merchant and other error transactions which the Cardholder can not prove his/her legal property.
+To be responsible for paying partially or fully service amount, relevant taxes and fees in accordance with regulations of the Merchant in the event that the Cardholder uses the Card to make a reservation for services but does not use the service or not cancel the booking in time as stipulated by  Merchant.
+The Bank is entitled to debit the Cardholder’s Card Account in these above cases.
+Take full responsibility for payment of contactless card transaction incurred unintentionally if Cardholder fails to perform or improperly performs and/or fails to comply fully with the security measures guided by the Bank.
+Other obligations as agreed with the Bank and stipulated by the Laws.
+CLAUSE 3: RIGHTS AND OBLIGATIONS OF THE BANK 3.1.Rights of the Bank
+The Bank is not responsible in case of force majeure and cases not due to the bank's fault in accordance with the law.
+To be entitled to retrieve the Card at any time by notifying this revocation to the Cardholder or through Acquirer or Merchant in the cases regulated in Clause 6 of this Agreement.
+In this case,
+The Bank is excused from responsibility for any damage to the Cardholder’s honour and reputation caused by the revocation of the Card.
+The Bank is not responsible for any case where the Card is declined by the Merchant outside the control of the Bank except from the Bank’s fault.
+To be excused from responsibility for the goods and services provision by the third party (including the delivery, quantity and quality of goods, services) paid by the Card.
+The Bank is entitled to debit the Card account for the Card transaction amount whether goods, services are delivered or performed or meet the requirement of quantity and quality or not.
+To be entitled to request the Cardholder to pay in time, in full for all Card transactions, relevant interest, fees (if any).
+To be entitled to request the Cardholder to provide fully and correctly necessary information and documents when applying for the Card and during the Card usage.
+To be entitled to convert the Card current balance of the Cardholder into the deliquency  and classify debt as stipulated by the SBV in case the Cardholder does not pay or pay less than the Minimum Payment Amount on the Payment Due Date.
+In the event that the Cardholder does not pay or pay unsufficiently, lately to the Bank as regulated, the Cardholder agrees to the Bank:
+To be entitled to collect debts from salary, income of the Cardholder or from the current company of the Cardholder, and/or the collateral of the Cardholder, and/or from the guarantor, and/or payment account, certificate of deposit, valuable papers, and/or any other assets of the Cardholder without confirmation of the Cardholder.
+If the Bank collects debts from the Cardholder’s current account or savings book, such account or savings book shall be considered  as a demand deposit.
+The Bank shall be excused from responsibility for the breach of changing the deposit term of Cardholder.
+To be entitled to make the collection order to request the Bank where Cardholder opened his/her account to hold money to collect principal, interest in the event of the Cardholder’s principal, interest being converted into deliquency.
+To be entitled to terminate Card usage, terminate this Agreement and/or exercise other methods as stipulated by the Laws to collect debt (principal, arising fees and interests).
+To be excused from responsibility in case the Card is not secured or PIN/Card information/secure code/OTP is disclosed due to the faults and/or negligence of the Cardholder or the third party except from the Bank’s fault.
+For Visa, Mastercard, UnionPay, JCB branded Cards, the Bank is entitled to reject all claims of the Cardholder relating to transactions with the amount less than or equal to the limit that not required for cardholder authentication or the amount/converted amount less than USD 10 or equivalent at all merchant exclude at T&E (Travel & Entertainment) Merchant.
+For T&E merchant (e.g Airlines, automobile and vehicle rentals, cruise lines, passenger railways, hotels, motels, restaurants, travel agencies and tour operators, …), the Bank is entitled to reject claims relating to transactions with the amount/converted amount less than USD 25 or changeable as stipulated by International Card Scheme from time to time.
+For Amex branded cards, the Bank is entitled to reject all claims of the Cardholder relating to transactions with the amount less than or equal to the limit that not required for cardholder authentication or the amount/converted amount less than USD 25 or changeable as stipulated by International Card Scheme from time to time.
+To be entitled to adjust the credit limit and/or reduce the Card Class of the Cardholder as stipulated by the Bank without receiving the confirmation/consent of the Cardholder before the Bank performed the change.
+The Bank shall reasonably inform the Cardholder via registered email address or any methods provided by the Bank from time to time.
+To be entitled to regulate Card payment limit/Cash advance limit (including Cash advance limit abroad) and other limits in Card usage in compliance with Laws of Vietnam and the Bank shall notify the Cardholder.
+To be excused from responsibility for the risks relating to goods/services payment made by Card of the Cardholder on the Internet/mobile excluding the Bank’s fault.
+To be entitled to regulate the Card’s expiry date from time to time.
+The Card’s expiry date shall be printed on the Card.
+If the Bank does not receive any notice from the Cardholder about the termination of the card within 30 days before the expiry date printed on the card, the card will be automatically renewed the Cardholder of Vietnamese nationality and meet the requirements of card extension in accordance with the regulations of the Bank in each period.
+By activating the card, the Cardholder agrees to the Terms and Conditions of card issuance and usage and will be bound by these terms and conditions.
+Regulations on automatic card renewal do not apply to foreign Cardholders.
+In order for the bank to approve the request for renewal of the card, the foreign Cardholder must comply with the regulations on residence in Vietnam as well as the conditions for card extension according to the regulations of the Bank from time to time.
+To be entitled to request the Cardholder to provide full documents and any evidences relating to Card transactions in order to verify the authenticity and legaltimacy of Card transactions.
+To be entitled to disclose Cardholder’s information and Card transaction information as required by any authorized agencies without prior notice to the Cardholder.
+To be excused from responsibility for claims and disputes relating to incentive services provided to the Cardholder by the third party except from the Bank’s fault.
+The Cardholder agrees the Bank to provide the Cardholder’s information to the third party in order to support the incentive service providing and fees collecting from the Cardholder (if any).
+To be entitled to decline to authorize the Card transactions, process illegal requests relating to Card issuance and usage as stipulated by the Laws, the Bank, the SBV, International Card Scheme or any case beyond the Bank control.
+To be entitled to record all the discussion of the Cardholder via phone and/or any verbal information between the Bank and Cardholder during Card usage period.
+To be entitled to collect information of Cardholder from other organizations.
+To be entitled to lock the Card when receiving the notification of the lost/stolen Card, PIN disclosure or at risk of being fraud or when the Cardholder incorrectly enter mPIN/OTP number of times specified by the Bank.
+To be entitled to reclaim for excessive/ incorrect reimbursement/ credit into Cardholder’s card account due to errors in transaction processing, breakdown of system, transmission line network or advance payment made to the Cardholder for dispute resolution at ATM and Merchant and other error transactions which the Cardholder can not prove his/her legal property.
+To be entitled to temporarily lock the other Credit Cards of the Cardholder if 01 (one) Credit Card of the Cardholder is moved into deliquency till the Cardholder makes full payment of the minimum payment amount as regulated by the Bank.
+To be entitled to unilaterally terminate the Card usage together with terminate the Agreement in any of the following cases:
+The Cardholder has breached the regulations on the Card usage as stipulated by the Bank or the Laws, the SBV, the International Card Schemes;
+The Bank realizes that the documents and information provided by the Cardholder are not true, inaccurate;
+The Cardholder is involved criminal cases that in the Bank’s notice may affect the Cardholder’s capability to execute payables
+The Cardholder is in temporarily custody in accordance with the Laws for investigation purpose or judgement execution.
+The Cardholder is dead/lost
+Suspected cases relating to the fraud, counterfeit and risk management
+Other cases stipulated by the Bank and Laws of Vietnam
+To be excused from responsibility regarding contactless card transaction incurred due to Cardholder failure to perform or improperly perform security measures guided by the Bank.
+To not provide transaction invoice for quick transaction without signature.
+Other rights as agreed with Cardholder and stipulated by the law
+2.Obligations of the Bank
+To be responsible for complying with rules, regulations of the Card issuance and payment as stipulated by the Laws, the SBV, the Bank and the International Card Scheme, ensuring the rights of the Cardholder, keeping the Cardholder’s information confidential, except as otherwise specified.
+To be responsible for receiving the claims and disputes of Cardholder relating to Card usage within 60 days since the date of Card transaction as regulated by International Card Scheme and the Bank.
+To be responsible for Card locking after receiving notification of the Cardholder for the lost/stolen Card/ suspicion of disclosed/misused Card information/PIN and shall notify the Cardholder upon completion.
+To be responsible for releasing the collateral of the Cardholder after 40 days since the approved request of Card usage termination of the Cardholder according to Clause 6 of this Agreement, only if claims/disputes of the Cardholder (if any) have been resolved, the collateral has not used for guarantee of other loans in VCB and the collateral is not used for collecting debts of the Cardholder yet except as otherwise negotiation.
+For the collateral used to increase the temporary credit limit, the Bank shall also release the collateral after 40 days since the temporarily credit limit expires and the Cardholder has paid all outstanding balances relating to the increased credit limit.
+The Bank shall release Card being hold at the Bank’s ATM within 10 Working Days since the receipt date of Cardholder’s notification in following cases:
+Wrong PIN transaction;
+ATM releases Card but the Cardholder does not collect Card, ATM holds Card.
+The Bank will not release Card to Cardholder in the following cases:
+Card is hold by ATM outside the territory of Vietnam;
+Card is stolen or lost;
+Card is locked…
+To be responsible for stating all arising transactions of the Cardholder within the period on the monthly Statement Date.
+All Card transactions in foreign currencies will be converted into VND at the exchange rate regulated by International Card Scheme and/or the Bank’s exchange rate at the time of updating transaction into the system of the Bank and the Bank shall charge the foreign currency conversion fee (regulated by International Card Scheme and/or the Bank) and any transaction fees the Bank must pay to International Card Scheme (if any).
+The Bank will be fully excused from responsibility for arising difference (if any) resulted from Refund of the original Card transaction made by Merchant.
+The maximum time frame for the Bank to resolve claims/disputes of the Cardholder is 180 working days since the receipt date of such claims/requests in writing.
+The Bank will refund under the appropriate disputed request of the Cardholder.
+In some special case, specific notice shall be released to the Cardholder by the Bank.
+Within the maximum of 05 working days since the date of noticing result of claims/disputes resolution to the Cardholder, the Bank shall reimburse the Cardholder under the agreement and regulations of current laws for loss/damage which does not arise from Cardholder’s fault and/or any force majeure as stipulated in the Agreement.
+Over the regulated duration for claims/disputes resolution as stipulated in this Agreement, if the Bank could not identify the reason or which party is at fault, within the next 15 working days, the Bank shall negotiate with Cardholder about the plan to resolve claims/disputes.
+In case of crime signals, the Bank shall inform governmental authorities under the provisions of the law on criminal procedure and report to the State Bank of Vietnam (Payment Department, local State Bank branches), as well as send a notice in writing to Cardholder about the status of claims/disputes resolution.
+The handling of claims/disputes shall be under the responsibilities of the state competent authorities.
+In case there is no criminal element notified by governmental authorities, within 15 working days from the date of conclusion of the governmental authorities, the Bank shall negotiate with Cardholder about the plan to resolve claims/disputes.
+In case the Bank, Cardholder and other related parties could not negotiate and/or disagree with the claims/disputes resolution procedure, the dispute shall be handled in accordance with law.
+Other responsibilities as agreed with Cardholder and stipulated by the law
+CLAUSE 4: REGULATION ON THE USE OF ELECTRONIC SIGNATURE
+The Cardholder's electronic signature shall have the same legal value as the Cardholder's handwritten signature on paper documents.
+Cardholder shall not cancel, change, deny or repudiate any transaction which is made with Cardholder’s electronic signature.
+Documents, data related to the provision of services and/or transactions between Vietcombank and the Cardholder which are verified and kept by Vietcombank system will be the proof of Cardholder's transaction and have the legal value to bind Cardholder's responsibilities.
+CLAUSE 5: PROHIBITED ACTIONS
+To create, use, transfer and circulate counterfeit cards.
+To implement, organize or take advantage of others to make fraudulent or counterfeit card transactions; short payment card transactions at Merchants.
+To steal, collude to steal card information; disclose and provide card, Cardholder and card transactions information illegally.
+To infiltrate or attempt to illegally access, destroy the program or database of the system of issuing, acquiring, switching cards, clearing electronic card transactions.
+To use Card to perform transactions for the purposes of money laundering, terrorism financing, fraud, counterfeit and other illegal acts.
+To buy, sell, rent, lease Card or card information, issue cards to others.
+Other acts as prescribed by law.
+CLAUSE 6: INTEREST AND FEES
+Payment priority order: The payables are applied as following order: annual fee, penalty fee (over limit fee, unpaid minimum payment fee), conversion fee for instalment, interest of cash withdrawal transactions, interest of Card payment transactions, cash withdrawal fee, service fee, cash withdrawal transactions, periodical instalment payment, transactions of goods and services payment in accordance with the chronological order of updating these transactions into the system of the Bank.
+In case the Cardholder does not pay or does not pay in full and on time to the Bank as prescribed, the Bank may adjust the order of statement payment (including priority of principal collection first, fee/interest after) and will notify the Cardholder via email /SMS and/or other methods provided by the Bank from time to time.
+Transactions of goods and services payment: On the proposed payment date, if the Cardholder pays the total statement balance, the Bank shall waive the interest for all Cardholder’s transactions within the statement period.
+If the Cardholder does not pay, the Bank shall charge the interest for all transactions from the date of updating these transactions into the system of the Bank to the actual payment date by the Cardholder.
+In case on the proposed payment date, the Cardholder only pays a part of such balance (including the case of the negotiation about the minimum payment amount), the Bank shall charge the interest for all transactions from the date of updating these transactions into the system of the Bank to the date the Cardholder makes a part of payables, the residual payables shall be charged interest until be paid and shown on the next statement.
+Cash withdrawal transactions: Towards cash withdrawal transaction, the Cardholder shall bear interest from the date that transaction is updated into the Bank’s system until the statement date, and such interest shall be stated in the statement for the same period.
+The interest for cash transactions from the statement date to the payment date shall be waived if the Cardholder makes full payment of the total current statement balance on or before the Proposed Payment date.
+If the Cardholder does not pay or pays only a part of the statement amount (including the case of the negotiation about the minimum payment amount), the Bank shall continue to charge interest on all cash transactions from the transaction date to the date the Cardholder pays all payables and this interest amount shall be stated in the next statement period.
+Disputed transactions: Interest and penalty fees charged on unpaid disputed transactions will be calculated as above regulations.
+The Bank will reimburse the interest and penalty fees to the Cardholder for transactions with right claims, disputes.
+Unpaid minimum payment fee: On the proposed payment date, if the Cardholder does not pay or pays the amount less than the minimum payment amount as regulated by the Bank, the Cardholder shall be liable to pay Unpaid Minimum Payment Fee as stipulated by the Bank.
+Over limit fee: The Cardholder shall bear the over limit fee levied on excessive limit balance if the Cardholder spends over the granted limit.
+Table of fees and interest: Detail fees, charges and interest applicable to Cardholder are specified in the Table of fees, charges and interest for Vietcombank International Credit Card of the Bank, being published on the Vietcombank official website (http://portal.vietcombank.com.vn).
+The Table of fees, charges and interest is subject to change by the Bank from time to time and shall be notified the Cardholder via email/SMS and published on the Vietcombank official website at least 07 days before the effective date.
+Besides, The Cardholder can refer the current Table of fees, charges and interest at the Bank's official website or at any Branch/Transaction Office or by contacting Hotline 24/7.
+CLAUSE 7: THE PRIMARY AND SUPPLEMENTARY CARD
+(Not applied for Vietcombank Vietnam Airlines American Express Card)
+The Primary Cardholder is entitled to request the Bank to issue the maximum number of 03 Supplementary Cards.
+The Primary Cardholder and Supplementary Cardholder(s) use the same Card account with granted credit limit by the Bank to the Primary Cardholder.
+Transactions of the primary Card and supplementary Cards will be shown on one statement and sent to the primary Cardholder for payment.
+The Primary Cardholder is responsible for the usage of the Card and all transactions made by primary Card and supplementary Card(s) and for making payment for the total current balance to the Bank as stipulated.
+In case the Primary Cardholder does not make payment or make insufficient and late payment for such balance, not contradicting with Point g Term 1 Clause 3 of this Agreement, the Bank is entitled to request the Supplementary Cardholder(s) to take responsible for all payables.
+The Primary Cardholder may request the Bank to terminate the use of supplementary Cardholder(s) by sending a written request to the Bank without Supplementary Cardholder’s approval.
+If the Primary Cardholder officially terminates the use of the Card, the use of supplementary Cardholder(s) shall likewise be terminated.
+The Primary Cardholder and Supplementary Cardholder(s) shall be jointly and severally liable for exercising this Agreement.
+The unenforceability or exemption of the liability of the Primary Cardholder (if any) according to terms and conditions of Agreement shall not discharge the liability of the Supplementary Cardholder(s) and/or authorized individuals for Card usage and vice versa, excluding the case of the Bank’s approval.
+In the event that the Cardholder (including the Primary Cardholder and the Supplementary Cardholder(s)) is dead, missing or loses civil capacity, all the terms and conditions must be implemented as stipulated by this Agreement and the Laws.
+CLAUSE 8: REPLACEMENT, RE-ISSUANCE AND CARD USAGE TERMINATION
+In case of the lost or stolen Card, or if the Cardholder wishes to replace the Card, the Cardholder may request the Bank to replace a new Card and pay fees for the replacement.
+In case the Cardholder unilaterally terminates the Card usage, the primary Cardholder must give the Bank a written notice of termination and take responsibility for returning the Card(s) (including primary Card and supplementary cards) to the Bank.
+The unilateral termination of Card usage upon
+Cardholder’s request in accordance with provisions in the Agreement for International Credit Card Issuance and Usage does not exclude the responsibility of the Cardholder in paying all Card balance and all disputes and claims (if any).
+The Bank is not responsible for any arising (if any) related to the Cardholder's unilateral notice of termination of Card usage except from the bank's fault.
+In the event of Card usage termination as requested by the Bank or the Cardholder or Card usage expiry; or any change of Cardholders referring to Card issuance conditions but the Cardholder does not make procedures for continuing the usage, the entire remaining balance on the account shall be due, and the Cardholder is responsible for paying all arising Card transactions, fees and interests until that time.
+Upon the termination of Card usage, the Cardholder shall return the Card to the Bank and shall stop using the Card for cash withdrawal, purchasing transactions even for the transactions via Internet, telephone and mail.
+In case of returning card by Post, Card must be cut in half with carved chip and panel and sent to the Bank.
+If terminated Card is not returned to the Bank, the Cardholder must be liable for the lost or stolen card notification fees in accordance with the fee schedule published by the Bank on the Official Website of the Bank from time to time.
+If the Cardholder terminated Card usage but still continues using the Card to make transaction, the Cardholder is still liable for paying such transactions.
+The Bank is entitled to revoke or lock the Card in any of the following cases:
+After the payment due date, the Cardholder could not pay/pay enough the minimum payment amount;
+The Cardholder has spent over the credit limit without the Bank’s permission;
+The Cardholder has breached the regulations on the Card usage of the Bank or the Laws, the SBV, the International Card Scheme in Card usage;
+Suspected cases relating to the fraud, counterfeit and risk management;
+As required by authorized agencies;
+The Bank is entitled to revoke the Card to be suspected relating to the fraud or risk at any time by sending a written notice of this revocation to the Cardholder or through Acquirer or Merchant.
+In this case, the Bank is excused from responsibility for any damage to the
+Cardholder’s reputation caused by the revocation of the Card;
+The Cardholder is in temporarily custody in accordance with the Laws for investigation purpose;
+The Bank realizes that the documents and information provided by the Cardholder are not true, inaccurate;
+The Cardholder breaches payment responsibility (including principal, interest, fees and other arising fees) to the Bank and/or any other credit institutes.
+Other events as regarded by the Bank may impact the Cardholder’s capacity for making full and timely payment.
+CLAUSE 9: FORCE MAJEURE
+Force Majeure means an event(s) of an extraordinary nature, which was not caused by the Parties and that could not be reasonably foreseen and avoided even the Parties have applied all necessary methods within their capability
+Subject to the above conditions, Force Majeure as defined in this Agreement especially includes without being limited to earthquake, flood, drought, fire, explosion, diseases, disasters, calamity, war, terrorism, strike, bankruptcy, etc.
+or any events that are unpredictable and under no obligation to know in advance resulting in the inability to continue the Agreement or serious impacts on the validity of the Agreement.
+If either Party is affected by Force Majeure, within seven (07) days, it shall notify the other Party in writing and within thirty (30) days, it shall send reports in writing to the other Party of the reasons for the event, its impact on the obligations performance as stipulated in the Agreement together with certificates from local Authorities for the Force Majeure.
+As soon as the Force Majeure ends, the Parties promptly and diligently make every effort and take all appropriate measures and actions within its powers in good faith to overcome, eliminate or minimize the adverse effects of the Force Majeure (if any) and continue all such efforts and take all such measures and actions to enable it to perform or continue to perform its obligations under this Agreement.
+In case the force majeure lasts for more than one (01) month, the Parties shall examine and find reasonable methods for terms and conditions of the Agreement.
+In case that the Parties could not negotiate the resolution, both Parties agree that the dispute shall be handled at competent Vietnam
+People’s Court according to the provisions of law.
+CLAUSE 10: NOTICE
+All notices of Vietcombank to Cardholder will be sent by Vietcombank to Cardholder in writing according to the address or last information registered by Cardholder in the Vietcombank Credit Card Issue and Use Agreement, or published on Vietcombank's official website, or announced on Digibank of Cardholder, or announced on mass media, or listed at the Branches/Transaction offices of Vietcombank.
+All notices and information will be effective:
+Within five (05) days from the date of sending (calculated according to the postmark of the sender) if sent by mail; or
+On the sending date if sending by fax, telex, email, or text message registered by the Cardholder with Vietcombank; or
+On the date of receipt if being notified viadirect phone, sent directly; or
+On the date of announcement on Vietcombank's official website or on the mass media or on the date of its listing in Vietcombank offices.
+Cardholder can contact Vietcombank via Hotline 24/7 for support on products or services provided by Vietcombank.
+Cardholder is responsible for compensating for all damages arising (if any) to Vietcombank for related damages if the content in the electronic notice is, by any means, accessed by anyone other than Cardholder.
+Cardholder agrees to receive advertising notices on all Vietcombank's products, services and programs by email, text message or other channels, unless Cardholder has a response to Vietcombank about not receiving advertising notices under this Agreement and agreeing to participate in Vietcombank promotions.
+In case Cardholder has a response on the declining to receive advertising information, it will not affect Cardholder's rights and obligations in continuing to perform this Agreement.
+Cardholder is responsible for notifying Vietcombank in writing as soon as there is any change to the information registered with Vietcombank.
+CLAUSE 11: DECLARATION
+11.1 The Cardholder(s) confirm that all information stated herein is true and complete in all respects and be solely responsible for all given above information.
+11.2 The Cardholder(s) confirm that the Bank has informed about the Table of fees, charges and interest for Vietcombank International Credit Card at the time of Card Issuance.
+The Cardholder(s) agree that The Table of fees, charges and interest for Vietcombank International Credit Card is subject to change by The Bank from time to time and shall be notified the Cardholder via email/SMS and published on the Vietcombank’s official website (http://portal.vietcombank.com.vn).
+11.3 The Cardholder(s) agree to receive the Bank’s advertising for all products, services, programs through email, SMS or other methods unless the Cardholder has given feedback to the Bank about the failure to continue receiving advertising information under this Agreement and agree to participate in the Bank’s promotional programs.
+If the Cardholder responds to the refusal to receive advertising information, the Cardholder's right to continue to perform this Agreement will not be affected.
+11.4 The Cardholder(s) agree to The Bank to use and provide Cardholders’ credit information at The Bank for the organizations providing credit information products or Governmental authorities according to regulations of the Laws.
+11.5 Cardholder agrees and commits to comply with the regulations of the privilege service provider/insurance provider when using the services provided by that provider and the Bank is totally absolved of Disputes and complaints arise (if any).
+11.6 Cardholder agrees to International Card Scheme/Airport lounge service provider to charge his/her account for own lounge use and his/her companion(s).
+Cardholder understands that fees and other provisions relating to the airport lounge use regulated by the Bank and/or Airport lounge service provider.
+The Bank and/or Airport lounge service provider reserve all rights to change the terms and conditions of the service from time to time.
+CLAUSE 12: AMENDMENT
+The Cardholder and the Bank hereby agree to amend and supplement the Vietcombank international credit card issuance and usage contract as follows:
+The Bank is entitled to make any change or amendment on the Agreement for Vietcombank International Credit Card Issuance and Usage at any time ensure content comply with the provisions of law and protect the rights and legitimate interests of the parties through the Bank notifying the Cardholder via Email/SMS and publish on the official website of the Bank at least 07 days before the effective date of the amended and supplemented contract, unless such amendments and additions must be made immediately in accordance with provisions of laws and / or at the request of a competent authority.
+If the Cardholder continues to use the card after the effective date of the amended and supplemented Contract, it is understood that the Cardholder approves all such amendments and supplements and the Bank does not need to have any further Cardholder's agreement.
+CLAUSE 13: TRADEMARKS AND ASSIGNMENT
+(Only applied for Amex branded cards)
+13.1 American Express is a registered trademark of American Express.
+This Card is issued by Vietcombank pursuant to a license from American Express.
+13.2 In accordance with the provisions of American Express International Card Organization, in case the Bank is no longer a bank issuing American Express card in Vietnam market, to ensure that the Cardholders can continue using services and not be affected by this change of issuing bank, the Bank may transfer all or any part of the rights and obligations of the bank related to the issuance and payment of cards to American Express.
+This transfer shall be notified by the bank to the cardholder via email/SMS and published on the official website of the bank at least 7 days before the effective date of the transfer.
+The Cardholder shall be deemed to consent to this transfer if the Cardholder continues to use the card and not to perform the card termination.
+In case the Cardholder disagrees, the Cardholder needs an official notice in writing to the Bank.
+CLAUSE 14: GOVERNING LAW, DISPUTE RESOLUTION
+The “Agreement for Vietcombank International Credit Card Issuance and Usage” is governed by the Law of the Socialist Republic of Vietnam and current regulations on the Vietcombank International Credit Card issuance, usage and payment of the Bank, the SBV and the International Card Scheme.
+The contents not regulated in this Agreement shall be applied as stipulated by the Laws, the Bank, the SBV and the International Card Scheme.
+In the event of any arising dispute relating to the implementation of the Agreement, the parties shall firstly resolve the dispute through negotiation.
+In case no resolution is reached by such negotiation, the parties shall bring the dispute to the Vietnamese authorized Court where the Branch of the Bank– one Party of the Agreement - is located to resolve.
+CLAUSE 15: EXECUTION
+The “Vietcombank International Credit Card Application Form” together with any amendment and attached documents (if any) are integral parts of the Agreement for Vietcombank International Credit Card Issuance and Usage.
+The Agreement is effective from the signing date to the Card termination or when the Cardholder has fulfilled all financial liabilities to the Bank as mentioned in the Agreement, depending which time comes later.
+The Agreement for International Credit Card Issuance and Usage shall be made in Vietnamese language.
+In case of foreign party participation, the Agreement shall be made in Vietnamese and English.
+In case of any discrepancy between Vietnamese and English version, the Vietnamese version shall prevail.
+If a part or full of any Clause of this Agreement is invalid or might not be exercised as stipulated by the Laws, it shall have no influence on the validity, the effectiveness and the performance of residual Clauses of the Agreement.
+None or late execution the rights and obligations of the Bank according to this Agreement shall not be considered as fully or partly disclaim the rights and obligations of the Bank unless the Bank notifies in writing of its disclaimer.
+The Cardholder and the Bank confirm that they have read, acknowledged and agreed to be complied with terms and conditions in the Agreement for Vietcombank International Credit Card Issuance and Usage, other regulations of the Bank, the SBV, International Card Scheme and the prevailing Laws of Vietnam..

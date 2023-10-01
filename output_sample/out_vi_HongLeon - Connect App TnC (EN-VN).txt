@@ -1,0 +1,338 @@
+Điều khoản và Điều kiện Terms and Conditions -----
+Điều khoản và Điều kiện Dịch vụ Ngân hàng Điện tử HLB Connect (dành cho cá nhân) của Ngân hàng TNHH MTV Hong Leong Việt Nam
+Việc sử dụng và truy cập vào Dịch Vụ Ngân Hàng Điện Tử HLB Connect của Quý Khách phải tuân theo các Điều khoản và Điều kiện sau đây 
+Các Điều khoản và Điều kiện này áp dụng cho tất cả các kênh truy cập HLB Connect từ ngân hàng trực tuyến, và các thiết bị điện tử di động có hệ điều hành bao gồm nhưng không giới hạn iOS, Android hay bất kỳ hệ điều hành điện tử nào mà Ngân hàng TNHH MTV Hong Leong Việt Nam liên kết Ứng Dụng HLB Connect trong từng thời kỳ 
+Định nghĩa và Giải thích Definitions and Interpretation
+Trong bản Điều khoản và Điều kiện này, các định nghĩa sau được áp dụng trừ khi ngữ cảnh yêu cầu khác 
+“Khách Hàng” hoặc “Quý Khách” nghĩa là khách hàng cá nhân đăng ký Dịch vụ Ngân Hàng Điện Tử HLB Connect 
+“Dịch vụ Ngân hàng Điện tử HLB Connect” hay “HLB Connect” nghĩa là dịch vụ ngân hàng điện tử do HLBVN cung cấp thông qua Ngân hàng Trực Tuyến HLB Connect hay Ứng Dụng HLB Connect hoặc bất kỳ phương tiện điện tử khác do HLBVN quy định theo từng thời kỳ và phù hợp với các Điều khoản và Điều kiện Dịch vụ Ngân hàng Điện tử HLB Connect 
+“Ngân hàng Trực Tuyến HLB Connect” nghĩa là dịch vụ ngân hàng điện tử do HLBVN cung cấp, cho phép Quý Khách thực hiện các giao dịch ngân hàng trực tuyến trên thiết bị điện tử thông qua website www vn của HLBVN 
+“Ứng Dụng HLB Connect” nghĩa là ứng dụng ngân hàng di động do HLBVN cung cấp cho Quý Khách thực hiện các giao dịch ngân hàng trên thiết bị di động thông minh của mình (loại có hỗ trợ cài đặt Ứng Dụng HLB Connect) thông qua Ứng dụng HLB Connect 
+“HLBVN” nghĩa là Ngân Hàng Trách Nhiệm Hữu Hạn Một Thành Viên Hong Leong Việt Nam và bao gồm tất cả các bên kế thừa và nhận chuyển nhượng các quyền và nghĩa vụ của HLBVN 
+“Tài Khoản Ngân Hàng” là tất cả các tài khoản ngân hàng (bao gồm nhưng không giới hạn tài khoản thanh toán, tài khoản tiền gửi và tài khoản vay) của Khách Hàng mở tại HLBVN, được phép liên kết với Dịch Vụ Ngân hàng Điện Tử HLB Connect bất cứ lúc nào và trong từng thời kỳ  Tài Khoản Ngân Hàng sẽ tham chiếu đến một hoặc nhiều tài khoản tùy vào ngữ cảnh yêu cầu 
+“Tài Khoản Thẻ Ngân Hàng Trực Tuyến” là tài khoản An Lợi Thẻ ghi nợ Visa Hong Leong được Khách Hàng mở hoàn toàn theo quy trình trực tuyến trên HLB Connect. Tài Khoản Ngân Hàng Trực Tuyến còn được gọi là Lite Account. Tài Khoản Thẻ Ngân Hàng Trực Tuyến chỉ được thực hiện một số giao dịch trực tuyến và có giới hạn giao dịch riêng trừ trường hợp pháp luật có quy định khác. 
+“Tài Khoản HLB Connect” là tài khoản đăng nhập HLB Connect do HLBVN cấp cho Quý Khách để đăng nhập HLB Connect  Bao gồm Tên đăng nhập và mật khẩu 
+“Tên Đăng Nhập” là tên đăng nhập HLB Connect, được lựa chọn hoặc tạo ra bởi Quý Khách bao gồm các ký tự chữ và số trong quá trình Đăng Ký hoặc Thiết Lập Lại Tài Khoản HLB Connect 
+“Mật Khẩu” là mật khẩu truy cập HLB Connect, bao gồm các ký tự chữ và số được tạo ra bởi Quý Khách theo quy tắc do HLBVN quy định khi Đăng Ký hoặc khi Thiết Lập Lại Tài Khoản HLB Connect 
+“Mã Kích Hoạt” là chuỗi gồm các ký tự chữ và số được HLBVN cấp khi Quý Khách thực hiện mở Tài Khoản Ngân Hàng tại chi nhánh, phòng giao dịch của HLBVN, là yêu cầu cần thiết để Đăng ký hoặc Thiết lập lại HLB Connect trong trường hợp Quý Khách lựa chọn phương thức dùng số Tài Khoản Ngân Hàng để Đăng Ký hoặc Thiết Lập Lại Tài Khoản HLB Connect 
+ “Mã SmartOTP” – là một mã xác nhận giao dịch được gửi qua điện thoại di động đối với Mã OTP hoặc gửi qua thiết bị đăng ký đối với Mã SmartOTP để cung cấp lớp bảo vệ thứ hai cho các Giao dịch trực tuyến, ngoài Tên đăng nhập và Mật Khẩu. Quý Khách phải nhập Mã OTP hoặc Mã SmartOTP trong thời hạn quy định để thực hiện Giao Dịch Trực Tuyến. 
+"Đăng Ký" là việc Khách Hàng đăng ký sử dụng Ngân hàng Trực Tuyến HLB Connect và hoặc Ứng Dụng HLB Connect của HLBVN. 
+“Thiết Lập Lại Tài Khoản HLB Connect” nghĩa là sự thay đổi Thông Tin Bảo Mật của Quý Khách để truy cập HLB Connect khi Quý Khách có nhu cầu thay đổi hoặc quên Thông Tin Bảo Mật hoặc khi Quý Khách muốn kích hoạt lại Tài khoản HLB Connect đã chuyển sang trạng thái không hoạt động sau ba (3) tháng không đăng nhập 
+“Thông Tin Bảo Mật” nghĩa là các thông tin được sử dụng để nhận dạng Quý Khách khi Quý Khách truy cập và sử dụng HLB Connect bao gồm Tên Đăng Nhập, Mật Khẩu, Mã OTP, Mã Kích Hoạt, Mã Xác Thực Sinh Trắc Học và bất kỳThông Tin Bảo Mật nào khác mà HLBVN có thể ban hành trong từng thời kỳ 
+“Giao Dịch Trực Tuyến” nghĩa là các giao dịch thực hiện từ Tài Khoản Ngân Hàngthông qua HLB Connect 
+“Mã CAPTCHA” (Completely Automated Public Turing test to tell Computers and Humans Apart) là một phép thử hoàn toàn tự động được dùng trong máy tính để phân biệt máytính với con người, đâylà một phần của bảo mật trực tuyến để đăng kýHLBConnect 
+“Xác Thực Sinh Trắc Học” là dịch vụ mà 
+a)	chỉ khả dụng cho khách hàng sử dụng điện thoại thông minh hoặc thiết bị điện tử tương tự khác (“Thiết Bị Di Động”) có một trong hai tính năng sau 
+(i)	Nhận diện vân tay 
+(ii) Nhận diện khuôn mặt 
+b)	cho phép Quý Khách truy cập HLB Connect bằng cách sử dụng 
+(i)	Thông tin dấu vân tay của Quý Khách đã lưu trên Thiết Bị Di Động của Quý Khách (“Vân Tay”)  hoặc 
+(ii) Thông tin Nhận dạng khuôn mặt của Quý Khách đã được lưu trữ trên Thiết Bị Di Động của Quý Khách (“Khuôn Mặt”)
+là một tùy chọn đăng nhập đơn giản, và Vân Tay hay Khuôn Mặt của Quý Khách (“Nhận Diện Sinh Trắc Học”, tùy theo từng trường hợp, cùng với Xác thực (như được định nghĩa tại Điều 5 2 (a) Điều Kiện và Điều Khoản này) sẽ tạo thành một trong các Mã Bảo Mật để xác thực Quý Khách nhằm hỗ trợ Quý Khách thực hiện giao dịch thông qua HLB Connect 
+“Chỉ Thị” nghĩa là bất kỳ chỉ thị được Khách Hàng đưa ra cho HLBVN thông qua HLB Connect hoặc thông qua bất kỳ Kênh Truyền thông được Chấp thuận bằng cách sử dụng Thông Tin Bảo Mật 
+“Chuyển Khoản Nhanh” là dịch vụ chuyển tiền liên ngân hàng thực hiện trên HLB Connect được HLBVN cung cấp phối hợp với Công ty cổ phần Thanh toán Quốc gia Việt Nam (Napas) cho phép thực hiện ngay lập tức giao dịch chuyển tiền từ tài khoản thanh toán của Quý Khách tại HLBVN sang tài khoản tại ngân hàng khác trong hệ thống Napas thông qua số Thẻ ATM Ghi nợ hoặc số tài khoản. 
+“Chính Sách Bảo Mật" có nghĩa là các chính sách và nguyên tắc liên quan đến việc thu thập, sử dụng và lưu trữ thông tin cá nhân của các cá nhân và các tổ chức hiện tại và tiềm năng giao dịch với HLBVN, có thể được sửa đổi trong từng thời kỳ và được lưu trữ trên trang web của HLBVN và hoặc theo hình thức mà HLBVN cho là thích hợp. 
+"Kênh Truyền Thông Được Chấp thuận" nghĩa là các kênh truyền tải thông tin (bao gồm nhưng không giới hạn điện thoại, thư điện tử hoặc bất kỳ phương tiện điện tử nào có thể được HLBVN chấp thuận trong từng thời kỳ và đòi hỏi xác thực bằng các thông tin bảo mật cần thiết quy định cho kênh truyền tải thông tin tương ứng mà Quý Khách có thể sử dụng để gửi Chỉ Thị đến HLBVN 
+“Trung Tâm Dịch Vụ Khách Hàng” là trung tâm thực hiện các dịch vụ chăm sóc, hướng dẫn và giải đáp các thắc mắc của khách hàng của HLBVN qua tổng đài điện thoại số 1900 633 068, hoạt động 24 giờ ngày và 7 ngày tuần. 
+"Tổ Chức Liên Kết" nghĩa là bất kỳ tổ chức, công ty, tập đoàn hay tổ chức có thể cung cấp sản phẩm, dịch vụ, nội dung hoặc thông tin về HLB Connect cho HLBVN trong từng thời kỳ 
+“Nhà Cung Cấp Dịch Vụ Mạng Di Động” hay “Nhà Mạng Di Động” nghĩa là bất kỳ nhà cung cấp dịch vụ mạng viễn thông đã đăng ký cung cấp dịch vụ điện thoại di động 
+“Nhà Cung Cấp Dịch Vụ Mạng” hay “Nhà Mạng” nghĩa là bất kỳ nhà cung cấp dịch vụ Internet hoặc nhà cung cấp dịch vụ trực tuyến thương mại có cung cấp kết nối Internet 
+"Ngày Làm Việc" nghĩa là một ngày mà HLBVN mở cửa giao dịch tại Việt Nam, trừ những ngày nghỉ của HLBVN, của Nhà nước và ngày nghỉ lễ khác trong từng trường hợp. Thời gian giao dịch củaHLBVNtrongtừngthời kỳđượcthôngbáo trên trang web và hoặc niêm yết tại chi nhánh phòng giao dịch của HLBVN. 
+“Hướng Dẫn Sử Dụng” là (các) bản hướng dẫn thao tác được HLBVN lập ra nhằm hỗ trợ người dùng sử dụng HLB Connect 
+“Câu Hỏi Thường Gặp” (FAQ) nghĩa là các câu hỏi thường gặp liên quan đến quá trình đăng ký và thực hiện các giao dịch ngân hàng thông qua Hong Leong Connect  FAQ có sẵn trên trang web của HLB Connect tại www vn và Ứng Dụng HLB Connect 
+“Điều Khoản và Điều Kiện” nghĩa là các điều khoản và điều kiện này của Dịch vụ Ngân hàng Điện Tử HLB Connect trừ khi ngữ cảnh yêu cầu khác, bao gồm bất kỳ sửa đổi, bổ sung, thay đổi hoặc xóa bỏ được thực hiện trong từng thời kỳ và sẽ tham chiếu đến các điều khoản và điều kiện áp dụng tại thời điểm đó 
+Các từ ngữ có nghĩa số ít sẽ bao gồm cả số nhiều và ngược lại  Trong trường hợp có hai người trở lên bao gồm trong thuật ngữ “Quý Khách” hoặc “Khách Hàng”, những chỉ thị, thỏa thuận, cam kết, nghĩa vụ thể hiện được phát hành hoặc do hoặc được thực hiện bởi một người, sẽ được coi là đã được ban hành hoặc được thực hiện và ràng buộc tất cả những người với trách nhiệm liên đới và riêng biệt 
+kiện và Đăng ký HLB Connect Eligibility and Registration for HLB Connect
+Quý Khách đang là khách hàng hiện tại của HLBVN và có một Tài Khoản Ngân Hàng đang hoạt động hoặc là khách hàng mới đăng ký Thẻ Visa Ghi nợ Hong Leong 
+HLBVN có toàn quyền quyết định việc chấp nhận hoặc từ chối đăng kýcủa QuýKhách mà không cần phải nêu lý do và hoặc không cần phải đáp ứng bất kỳ yêu cầu thông tin nào. 
+Khách Hàng có thể tùy chỉnh việc truy vấn các Tài Khoản Ngân Hàng trên HLB Connect mà Quý Khách là chủ tài khoản và hoặc đồng chủ tài khoản, tuy nhiên nếu Tài Khoản Ngân Hàng là tài khoản chung, thì không được thực hiện bất kỳ giao dịch nào đối với Tài Khoản Ngân Hàng. 
+bị máy tính thiết bị điện tử cá nhân và kết nối mạng Internet Điện thoại di động Computer Terminals 
+Quý Khách hoàn toàn chịu trách nhiệm 
+(a)	Đảm bảo rằng các thiết bị máy tính và hoặc các thiết bị điện tử cá nhân và phần mềm, phần cứng liên quan đáp ứng được các thông số kỹ thuật và các cấu hình cần thiết được quy định bởi HLBVN trong từng thời kỳ; và 
+(b)	Đối với việc cài đặt, bảo trì và bảo mật của thiết bị máy tính và hoặc các thiết bị điện tử cá nhân của Quý Khách, phần cứng và phần mềm liên quan (bao gồm cả phần mềm trình duyệt Internet) và việc kết nối Internet dữ liệu được sử dụng để truy cập HLB Connect, và HLBVN khôngchịu trách nhiệm về bất kỳtổn thất, thiệt hại hoặc chi phí nào mà QuýKhách hoặc bất kỳ bên thứ ba phải chịu do bất kỳ sự chậm trễ, thất bại, gián đoạn, trục trặc hoặc xâm nhập nào đối với những nội dung liệt kê nêu trên. 
+Việc truy cập của Quý Khách vào trang web của HLBVN và HLB Connect thông qua Nhà Cung Cấp Dịch Vụ Mạng sẽ phải chịu sự chi phối của các điều khoản và điều kiện của Nhà Cung Cấp Dịch Vụ Mạng 
+Mã OTP hoặc SmartOTP sẽ được cung cấp đến Quý Khách theo yêu cầu của Quý Khách thông qua Nhà Mạng Di Động hoặc Nhà Mạng tương ứng và sẽ phụ thuộc vào các điều khoản và điều kiện của các Nhà Mạng Di Động Nhà Mạng. HLBVN không chịu trách nhiệm về bất kỳ tổn thất hoặc chi phí nào phát sinh đối với Quý Khách hoặc bất kỳ bên thứ ba nào do bất cứ sự chậm trễ, thất bại, gián đoạn, trục trặc hoặc xâm nhập nào liên quan đến việc cung cấp Mã OTP SmartOTP nêu trên. 
+(a)	Đối với khách hàng hiện tại của HLBVN, Quý Khách truy cập vào trang web www vn, hoặc tải Ứng Dụng HLB Connect về để tiến hành đăng ký HLB Connect bằng số Tài khoản Ngân Hàng như sau: 
+Bước 1: Quý Khách chọn một Tài khoản Ngân Hàng, nhập số Tài Khoản Ngân Hàng, Mã kích hoạt, số CMND Hộ chiếu, Mã CAPTCHA (nếu có) và Mã OTP để xác thực thông tin; 
+Bước 2: Tạo Tên đăng nhập và Mật Khẩu Step 2: Create your Username and Password 
+Bước 3: Đọc và chấp thuận các Điều khoản và Điều kiện này 
+Bước 4: Quý Khách có thể lựa chọn đăng nhập bằng Xác Thực Sinh Trắc Học, nếu có  Nếu không, bấm bỏ qua bước này để tiếp tục hoàn tất đăng ký 
+Trường hợp đăng kýthành công thông qua trang web www.hongleongconnect.com.vn, Quý Khách sẽ nhận được thông báo về các hạn mức giao dịch trực tuyến hàng ngày hàng tháng trên màn hình xác nhận của HLB Connect. 
+(b)	Đối với các khách hàng mới, việc Đăng ký HLB Connect được thực hiện đồng thời với quá trình đăng ký mở tài khoản và thẻ Visa Ghi nợ Hong Leong thông qua HLB Connect theo các bước như sau 
+Thứ tự	Mô tả trình tự No 
+Khách chọn “Bắt đầu ngay” và chọn “Mở tài khoản ngay”, điền địa chỉ email và nhập mã OTP được gửi đến địa chỉ email của Quý khách 
+lời các câu hỏi về CMND CCCD, FATCA, tình trạng cư trú tại Việt Nam và thỏa thuận pháp lý theo yêu cầu rồi nhấn “Tiếp tục”. 
+hai mặt CMND CCCD và tự chụp ảnh chân dung theo yêu cầu, sau đó kiểm tra các thông tin cá nhân của Quý khách được khởi tạo từ hình chụp CMND, điền giới tính, tình trạng hôn nhân và nhấn “Tiếp tục”. 
+các thông tin về các địa chỉ cư trú, chọn địa chỉ nhận thẻ và nhấn “Tiếp tục” 
+nghề nghiệp, chức danh, lĩnh vực, Thu nhập hàng năm và Mã số thuế rồi nhấn “Tiếp tục” 
+ký tài khoản HLB Connect bằng cách tạo Tên đăng nhập, Mật Khẩu theo quyđịnh, số điện thoại di động đăng kýtài khoản HLB Connect và tạo tagname rồi nhấn “Tiếp tục” 
+khách sẽ nhận được màn hình tóm tắt các thông tin đăng ký để điều chỉnh hoặc nhấn gửi ngay nếu thông tin đã hoàn chỉnh 
+Đọc và chấp thuận bản Điều khoản và Điều kiện về Tài khoản, Thẻ Visa Ghi nợ Hong Leong và Điều khoản và Điều kiện này, sau đó tải Bản Đề nghị mở
+tài khoản để lưu trữ 
+Mã OTP được gửi qua số điện thoại di động của Quý khách để đăng ký 
+Lite Account để sử dụng ngay tài khoản với hạn mức giao dịch theo quy định của HLBVN trong từng thời kỳ hoặc Full Account (tài khoản ngân hàng với đầy đủ chức năng) để được sử dụng Tài Khoản Ngân Hàng không giới hạn 
+Sau khi hoàn tất việc mở tài khoản cũng như Thẻ ghi nợ, Quý Khách có thể đăng nhập vào tài khoản HLB Connect của Quý Khách bằng cách sử dụng Tên đăng nhập và Mật Khẩu hoặc Xác Thực Sinh Trắc Học đã thiết lập 
+Khách có thể tải và cài đặt Ứng Dụng HLB Connect trên tối đa năm (5) Thiết Bị Di Động, và sử dụng Thông Tin Bảo Mật tương tự để đăng nhập và truy cập HLB Connect 
+Khách có thể gỡ bỏ Ứng Dụng HLB Connect trên bất kỳ Thiết Bị Di Động nào của Quý Khách theo các cách sau đây 
+(a)	Tự gỡ bỏ – Quý Khách đăng nhập vào Ứng Dụng HLB Connect để gỡ bỏ Ứng Dụng HLB Connect khỏi Thiết Bị Di Động bất kỳ theo sự lựa chọn của Quý Khách 
+(b)	Liên hệ Trung Tâm Dịch Vụ Khách Hàng để yêu cầu gỡ bỏ Ứng Dụng HLB Connect trên bất kỳ Thiết Bị Di Động nào của Quý Khách 
+(c)	Gửi thư – Quý Khách đăng nhập vào HLB Connect và gửi thư cho HLBVN yêu cầu gỡ bỏ Ứng Dụng HLB Connect trên bất kỳ Thiết Bị Di Động nào của Quý Khách 
+khoản HLB Connect sẽ chuyển sang trạng thái không hoạt động nếu Quý Khách không đăng nhập và hoặc sử dụng trong khoảng thời gian ba (3) tháng liên tục. Nhằm đảm bảo an toàn, trường hợp Tên đăng nhập và hoặc Mật khẩu bị nhập sai ba (3) lần, hoặc Mã OTP Mã SmartOTP bị nhập sai chín (9) lần, Tài khoản HLB Connect sẽ bị tạm khóa. 
+lập lại HLB Connect 
+(a)	Quên hoặc thay đổi Tên đăng nhập hoặc Mật Khẩu Forgot or changed Username or Password
+Quý Khách được yêu cầu thiết lập lại hoặc thay đổi Tên đăng nhập hoặc Mật Khẩu của Quý Khách bằng các cách tương tự như khi Đăng ký tại khoản 5 
+(b)	Tài khoản HLB Connect bị tạm khóa không hoạt động 
+Quý Khách cần kích hoạt Tài khoản HLB Connect đang ở trạng thái Tạm khóa không hoạt động bằng cách liên hệ với Trung Tâm Dịch Vụ Khách Hàng hoặc đến bất kỳ Chi nhánh Phòng giao dịch nào của HLBVN để cập nhật trạng thái tài khoản, sau đó QuýKhách có thể thiết lập lại Tài khoản HLB Connect bằng các cách tương tự như khi Đăng ký tại khoản 5.1 (a). 
+Khách đồng ý rằng HLBVN sử dụng Thông Tin Bảo Mật của Quý Khách để định danh Quý Khách, và xác nhận rằng Quý Khách phải giữ tất cả các Thông Tin Bảo Mật của Quý Khách an toàn và bảo mật, và thực hiện các biện pháp quản lý hợp lý để ngăn chặn việc truy cập và hoặc sử dụng trái phép các Thông Tin Bảo Mật này. 
+có quyền vô hiệu hóa Thông Tin Bảo Mật của Quý Khách mà không bắt buộc phải cung cấp bất kỳ thông báo trước hoặc giải thích và từ chối việc thay đổi Thông Tin Bảo Mật mà không cần đưa ra bất kỳ lý do gì 
+khi Quý Khách đã đăng nhập vào Tài khoản HLB Connect, Quý Khách không được rời khỏi thiết bị đang sử dụng để truy cập HLB Connect vào bất kỳ thời điểm nào hoặc cho người khác sử dụng thiết bị này cho đến khi Quý Khách đã hoàn tất việc đăng xuất  Quý Khách có trách nhiệm đảm bảo rằng Quý Khách đã hoàn tất việc đăng xuất vào cuối mỗi phiên giao dịch 
+Thực Sinh Trắc Học Connect Biometric Authentication
+Sử dụng dịch vụ Xác Thực Sinh Trắc Học Use of Biometric Authentication function
+(a)	 Để sử dụng dịch vụ Xác Thực Sinh Trắc Học, Quý Khách cam kết và xác nhận rằng 
+(i)	Quý Khách là người dùng hợp lệ của Tài Khoản HLB Connect 
+(ii)	Quý Khách đã cài đặt thành công Ứng Dụng HLB Connect trên Thiết Bị Di Động của Quý Khách 
+(iii) Quý Khách đã đăng ký thành công Tài Khoản HLB Connect trên Thiết Bị Di Động của Quý Khách 
+(iv) Quý Khách đã đăng ký thành công Nhận Diện Sinh Trắc Học của Quý Khách trên Thiết Bị Di Động của Quý Khách để đăng nhập Tài Khoản HLB Connect  và 
+(v)	Kích hoạt các mục sau 
+(A) Dành cho thiết bị iOS: Chạm vào ID hoặc Face ID để mở khóa Thiết Bị Di Động của Quý Khách 
+(B) Dành cho thiết bị Android: Kích hoạt bảo mật vân tay 
+(vi) Nhận Diện Sinh Trắc Học lưu trên Thiết Bị Di Động mà Quý Khách sử dụng để truy cập HLB Connect chính là dấu hiệu nhận diện của chính Quý Khách và Quý Khách đồng ý sử dụng thông tin này như là thông tin xác thực chính thức của Quý Khách khi truy cập HLB Connect 
+(b)	Để kích hoạt dịch vụ Xác Thực Sinh Trắc Học của HLB Connect, trước tiên Quý Khách phải đăng nhập vào Ứng Dụng HLB Connect, truy cập danh mục “Bảo mật” và chọn “Quản lý bảo mật nhận dạng” và mở “Xác thực bảo mật nhận dạng” 
+(c)	Để hủy dịch vụ Xác Thực Sinh Trắc Học, Quý Khách đăng nhập vào Tài Khoản HLB Connect trên Ứng Dụng HLB Connect, truy cập danh mục “Bảo mật” và chọn “Quản lýbảo mật nhận dạng” và tắt “Xác thực bảo mật nhận dạng” 
+Bằng cách sử dụng dịch vụ Xác Thực Sinh Trắc Học, Quý Khách thừa nhận và đồng ý với các điều khoản cụ thể sau đây 
+(a)	Các Thiết Bị Di Động của Quý Khách dùng Ứng Dụng HLB Connect có tính năng xác thực sinh trắc học có thể đăng nhập vào Tài Khoản HLB Connect chỉ bằng nhận dạng Khuôn Mặt hoặc Vân Tay của Quý Khách khi Quý Khách đồng ý kích hoạt dịch vụ Xác Thực Sinh Trắc Học trên HLB Connect, và HLBVN sẽ dựa vào Nhận Diện Sinh Trắc Học (Khuôn Mặt hoặc Vân Tay) trên Thiết Bị Di Động để xác thực 
+(b)	Để tránh nghi ngờ, tất cả dữ liệu Vân Tay hoặc Khuôn Mặt được lưu trữ trong Thiết Bị Di Động có liên quan khi Quý Khách thiết lập kích hoạt Xác Thực Sinh Trắc Học (Vân Tay hoặc Khuôn Mặt) trên Thiết Bị Di Động và không lưu trữ dữ liệu Vân Tay hoặc Khuôn Mặt trên máy chủ HLBVN  Đối với dịch vụ Xác Thực Sinh Trắc Học, việc xác minh Vân Tay hoặc Khuôn Mặt được thực hiện bởi chính Thiết Bị Di Động  Khi Thiết Bị Di Động được nhận dạng bằng Vân Tay hay Khuôn Mặt, việc xác thực thành công hay không thành công sẽ được Thiết Bị Di Động chuyển đến giao diện Xác Thực Sinh Trắc Học của HLB Connect để cho phép hay không cho phép Quý Khách tiến hành giao dịch liên quan trên HLB Connect 
+(c)	Quý Khách sẽ không đăng ký bất kỳ dấu vân tay khuôn mặt của bên thứ ba nào cho nhận dạng Vân Tay Khuôn Mặt của Quý Khách, vì như vậy sẽ cho phép (các) bên thứ ba có quyền truy cập vào Tài Khoản HLB Connect của Quý Khách và thực hiện tất cả các chức năng dịch vụ có sẵn trong HLB Connect, bao gồm dịch vụ Xác Thực Sinh Trắc Học. 
+(d)	Nếu Quý Khách có bất kỳ dấu vân tay nào của bên thứ ba hoặc nhận diện khuôn mặt của bên thứ ba nào được lưu trên Thiết Bị Di Động của Quý Khách, Quý Khách được yêu cầu và phải đảm bảo rằng dấu vân tayvà hoặc khuôn mặt của bên thứ ba đó đã bị xóa khỏi Thiết Bị Di Động của Quý Khách trước khi kích hoạt dịch vụ Xác Thực Sinh Trắc Học. 
+(e)	Vân Tay hoặc Khuôn Mặt của Quý Khách phải được bảo vệ cùng mức bảo mật như Thông Tin Bảo Mật khác của Quý Khách để ngăn chặn mọi truy cập trái phép vào Tài Khoản HLB Connect của Quý Khách như được quy định cụ thể tại Điều 11 của Điều khoản và Điều kiện này 
+(f)	Các Chỉ Thị do Quý Khách cung cấp để sử dụng dịch vụ Xác Thực Sinh Trắc Học sẽ bao gồm các Chỉ Thị như được nêu trong Điều 7 của Điều khoản và Điều kiện này 
+(g)	Quý Khách sẽ hủy dịch vụ Xác Thực Sinh Trắc Học theo quy định tại Điều 5 1 (c) trong trường hợp Quý Khách thay đổi hoặc loại bỏ Thiết Bị Di Động 
+(h)	Quý Khách có thể sử dụng dịch vụ Xác Thực Sinh Trắc Học trên tối đa năm (5) Thiết Bị Di Động đã đăng ký Ứng Dụng HLB Connect nhưng yêu cầu phải thực hiện quy trình đăng ký dịch vụ Xác Thực Sinh Trắc Học trên mỗi Thiết Bị Di Động 
+(i)	Quý Khách thừa nhận rằng HLBVN không có nghĩa vụ xác minh rằng đó là Vân Tay hoặc Khuôn Mặt của Quý Khách được chứng thực trên Thiết Bị Di Động và đồng ý rằng trong phạm vi được phép theo luật hiện hành, HLBVN sẽ không chịu trách nhiệm với Quý Khách về mọi tổn thất, trách nhiệm pháp lý, chi phí, thiệt hại, khiếu nại dưới bất kỳ hình thức nào dù trực tiếp, gián tiếp đối với bất kỳ vấn đề nào liên quan đến 
+(i)	việc HLBVN cung cấp hoặc việc Quý Khách sử dụng dịch vụ Xác Thực Sinh Trắc Học 
+(ii)	việc truy cập vào và thực hiện giao dịch trái phép trên Tài Khoản HLB Connect thông qua dịch vụ Xác Thực Sinh Trắc Học và hoặc sử dụng Thiết Bị Di Động của Quý Khách; và 
+(iii) mọi vi phạm hoặc không tuân thủ bất kỳ Điều khoản và Điều kiện nào hoặc bất kỳ thủ tục liên quan nào do HLBVN đặt ra 
+(j)	Quý Khách thừa nhận rằng trong trường hợp Quý Khách bị mất Thiết Bị Di Động, Quý Khách phải hủy dịch vụ Xác Thực Sinh Trắc Học ngay lập tức bằng cách liên hệ với Trung Tâm Dịch Vụ Khách Hàng để thông báo về việc mất Thiết Bị Di Động của Quý Khách và yêu cầu hủy đăng ký Xác Thực Sinh Trắc Học đối với Thiết Bị Di Động bị mất  Nếu Quý Khách đã đăng ký nhiều hơn một (1) Thiết Bị Di Động cho dịch vụ Xác Thực Sinh Trắc Học, Quý Khách có thể tự thực hiện việc hủy dịch vụ Xác Thực Sinh Trắc Học cho Thiết Bị Di Động bị mất bằng cách sử dụng Thiết Bị Di Động khác của Quý Khách 
+(k)	HLBVN có quyền hủy dịch vụ Xác Thực Sinh Trắc Học nếu dịch vụ đó không được sử dụng trong ba (3) tháng kể từ ngày đăng ký hoặc đăng nhập cuối cùng của Quý Khách hoặc bất kỳ khoảng thời gian nào khác có thể được xác định bởi HLBVN mà không cần thông báo trước về việc hủy này  Để có thể sử dụng lại dịch vụ Xác Thực Sinh Trắc Học, Quý Khách thực hiện lại quy trình kích hoạt dịch vụ Xác Thực Sinh Trắc Học theo Điều 5 1 (b) nêu trên 
+(l)	HLBVN có thể theo quyết định của mình và bất cứ lúc nào, tạm dừng, hạn chế hoặc chấm dứt quyền truy cập của Quý Khách vào dịch vụ Xác Thực Sinh Trắc Học mà không bắt buộc phải cung cấp lý do cho việc tạm dừng, hạn chế hoặc chấm dứt đó 
+Kích hoạt và quản lý tính năng SmartOTP Setting SmartOTP
+Kích hoạt tính năng SmartOTP Set up SmartOTP
+Bước 1: Để kích hoạt sử dụng tiện ích SmartOTP của HLB Connect, trước tiên QuýKhách phải đăng nhập vào Ứng Dụng HLB Connect, truy cập danh mục “Bảo mật” và chọn “SmartOTP” và mở “Kích hoạt SmartOTP” 
+Hệ thống sẽ yêu cầu quý khách nhập mã OTP để xác nhận yêu cầu kích hoạt SmartOTP  Mã OTP được gửi qua tin nhắn SMS tới số điện thoại Quý khách đã đăng ký tại HLBVN 
+Bước 2: thiết lập mã PIN SmartOTP Step 2: set up SmartOTP PIN 
+Bước 3: nhập mã OTP Step 3: Confirm OTP code 
+Bạn đã đăng ký PIN cho SmartOTP thành công  Thiết bị hiện dùng sẽ trở thành thiết bị nhận mã SmartOTP 
+Nhận Mã SmartOTP Receive SmartOTP
+Sau khi kích hoạt SmartOTP thành công, tất cả các giao dịch liên quan đến tài khoản ngân hàng sẽ được thực hiện cùng với Mã SmartOTP được gửi đến thiết bị nhận mã SmartOTP 
+Đổi mã PIN SmartOTP Change SmartOTP PIN
+Bước 1: Để đổi mã PIN SmartOTP, trước tiên Quý Khách phải đăng nhập vào Ứng Dụng HLB Connect, truy cập danh mục “Bảo mật” và chọn “SmartOTP” và “Đổi mã PIN SmartOTP” 
+Bước 2: xác nhận OTP  Mã OTP này được gửi qua tin nhắn đến số điện thoại được đăng ký với HLBVN để xác nhận yêu cầu đổi mã PIN SmartOTP 
+Bước 3: Nhập mã PIN SmartOTP mới và xác nhận mã PIN SmartOTP 
+Đổi mã PIN SmartOTP được hoàn tất 
+Hủy đăng ký tính năng SmartOTP Un-enroll the SmartOTP Device
+Bước 1: Để thay hủy đăng ký tính năng SmartOTP, trước tiên Quý Khách phải đăng nhập vào Ứng Dụng HLB Connect, truy cập danh mục “Bảo mật” chọn “SmartOTP” và chọn “Hủy đăng ký SmartOTP” 
+Bước 2: xác nhậnOTP  Mã OTP này được gửi qua tin nhắn đến số điện thoại được đăng ký với HLBVN để xác nhận yêu cầu đổi Thiết bị di động quản trị SmartOTP 
+Hủy đăng ký SmartOTP thành công 
+Tắt tính năng SmartOTP Un-active SmartOTP
+Bước 1  Để tắt tính năng tiện ích SmartOTP, trước tiên Quý Khách phải đăng nhập vào Ứng Dụng HLB Connect, truy cập danh mục “Bảo mật” chọn “SmartOTP” 
+Bước 2  Tắt tính năng “Kích hoạt SmartOTP” Step 2 
+Bước 3: Xác nhận để hoàn tất tắt tính năng SmartOTP 
+Quản lý rủi ro khi Thiết Bị Di Động SmartOTP gặp sự cố hư hỏng, mất mát Risk management for the SmartOTP device in situation of damage, losing 
+Trong trường hợp Thiết Bị Di Động quản trị SmartOTP của Quý khách gặp sự cố hư hỏng hoặc bị mất  Quý khách có thể liên hệ Trung tâm Dịch vụ Khách hàng của HLBVN để được hỗ trợ 
+Các dịch vụ trên HLB Connect Online Banking và Mobile Banking HLB Connect Online and Mobile Banking Services
+Những Dịch vụ mới Dịch vụ bổ sung – Trường hợp HLBVN cung cấp dịch vụ mới hoặc bổ sung thêm dịch vụ, sự chấp nhận của Quý Khách sẽ theo cách thức do HLBVN quy định và việc sử dụng các dịch vụ mới hoặc bổ sung đó sẽ được đề cập đến trong các Điều khoản và Điều kiện này và các điều khoản và điều kiện bổ sung (nếu có) do HLBVN ban hành trong từng thời kỳ. New 
+Nội quy và quy định quản lý Tài khoản Ngân Hàng của Quý Khách – Các Điều khoản và Điều kiện này sẽ được đọc cùng với các Điều khoản và điều kiện về Tài khoản  Nếu có bất kỳ mâu thuẫn nào giữa các Điều khoản và điều kiện về Tài khoản và các Điều khoản và Điều kiện trong văn bản này về dịch vụ liên quan đến HLB Connect, các Điều khoản và Điều kiện này sẽ được áp dụng 
+Các dịch vụ trên Ngân hàng Trực tuyến HLB Connect (thực hiện trên trang web) bao gồm nhưng không giới hạn 
+(a)	 Tổng quan Overview
+	Tra cứu thông tin Tài khoản, số dư và lịch sử giao dịch Obtain Account details, balances and transactions history
+(b)	 Thanh toán và chuyển khoản Pay & Transact
+	Chuyển khoản nội bộ trong HLBVN Internal transfer in HLBVN
+-	Chuyển khoản giữa các tài khoản Vãng lai An Lợi của Quý Khách Transfer funds between your own Current 
+-	Chuyển khoản đến tài khoản Vãng lai  An Lợi của người khác tại HLBVN Transfer funds to other Current 
+	Chuyển khoản đến người thụ hưởng tại ngân hàng khác Transfer to beneficiaries at other banks
+-	Số tài khoản tại ngân hàng khác Account number of other banks
+-	Số thẻ ATM  số thẻ ghi nợ ATM 
+	Tiền gửi có kỳ hạn
+-	Gửi tiền gửi tiền tiết kiệm có kỳ hạn FD 
+-	Rút tiền gửi tiền tiết kiệm có kỳ hạn FD 
+	Dịch vụ thanh toán hóa đơn và nạp tiền Bill Payment and Top Up Services
+-	Thanh toán hóa đơn Pay Bill
+-	Nạp tiền Top Up
+-	Quản lý dịch vụ thường dung Manage Favourite Services
+	Giao dịch trực tuyến Online Transactions
+-	Xem lịch sử giao dịch trực tuyến (thành công và thất bại) View History (successful and failed online transaction details)
+-	Quản lý (kiểm tra và hủy bỏ) thanh toán định kỳ Manage Standing Instructions (SI) (check and cancel)
+(c)	 Các dịch vụ khác Other Services
+	Cài đặt Settings
+-	Thiết lập các Tài khoản nội bộ của Quý Khách để cho phép xem trực tuyến hoặc cho phép thanh toán và chuyển tiền
+-	Thay đổi Hạn Mức Giao Dịch Trực Tuyến Change Online transaction limit
+-	Cập nhật Thông tin liên lạc Updating Contact information
+-	Thay đổi Loại tiền tệ mặc định để quy đổi Change Equivalent Currency
+-	Thay đổi Mật Khẩu Change Password
+-	Thay đổi Ngôn ngữ Change Language
+Các dịch vụ trên Ứng Dụng HLB Connect bao gồm nhưng không giới hạn 
+(a)	 Tổng quan Overview
+	Tra cứu thông tin Tài khoản, số dư và lịch sử giao dịch Obtain Account details, balances and transactions history
+(b)	 Chuyển tiền Transfer fund
+	Chuyển khoản nội bộ giữa các Tài Khoản Ngân Hàng mở tại HLBVN Internal transfer between Banking Account with HLBVN
+-	Chuyển khoản giữa các tài khoản Vãng lai An Lợi của Quý Khách Transfer funds between your Current 
+-	Chuyển khoản đến tài khoản Vãng lai  An Lợi của người khác tại HLBVN Transfer funds to other Current 
+	Chuyển khoản đến người thụ hưởng tại ngân hàng khác Transfer to beneficiaries at other banks
+-	Số tài khoản tại ngân hàng khác Account number at another bank
+-	Số thẻ ATM  số thẻ ghi nợ ATM 
+	Dịch vụ Thanh toán hóa đơn và nạp tiền
+-	Thanh toán hóa đơn Bill Payment
+-	Nạp tiền Top Up
+(c)	 Tiền gửi có kỳ hạn Tiền gửi tiết kiệm Fixed Deposit (FD) 
+	Gửi Tiền gửi tiết kiệm có kỳ hạn FD 
+	Rút Tiền gửi tiết kiệm có kỳ hạn FD 
+(d)	 Lịch sử giao dịch Transaction History
+	Xem lịch sử giao dịch trực tuyến View transaction history details
+(e)	 Cài đặt Settings
+	Quản lý đăng nhập sinh trắc học
+	Quản lý các thiết bị liên kết Mange Mobile Device
+	Khuyến mãi Promotions
+	Những câu hỏi thường gặp FAQ
+	Giữ liên lạc với chúng tôi Get in touch with us!
+Gửi và rút Tiền gửi Tiết Kiệm có Kỳ Hạn trực tuyến Placement and withdrawal FD 
+(a)	Việc gửi và rút tiền gửi tiền tiết kiệm có kỳ hạn trên HLB Connect được thực hiện thông qua Tài Khoản Ngân Hàng là tài khoản thanh toán của QuýKhách mở tại HLBVN và không áp dụng cho tài khoản thanh toán chung. 
+(b)	Quý Khách thực hiện việc gửi tiền gửi tiền tiết kiệm có kỳhạn trên HLB Connect bằng cách điền đầy đủ các thông tin và theo quy trình được thiết lập trên HLB Connect gồm: chọn Tài Khoản thanh toán ghi nợ, nhập số tiền gửi, kỳ hạn, chỉ thị đáo hạn và ghi chú (nếu có). 
+Đề nghị gửi tiền sẽ được gửi đến HLBVN và được coi là hợp lệ sau khi Quý Khách nhận được Mã OTP gửi đến số điện thoại của Quý Khách đã đăng ký với HLBVN hoặc mã SmartOTP gửi qua Thiết Bị Di Động đã đăng ký SmartOTP của Quý Khách. Khi nhập Mã OTP hoặc mã SmartOTP, giao dịch gửi tiền gửi tiền tiết kiệm có kỳ hạn được xem là đã thực hiện, nếu không có bất kỳ thông báo không thành công nào từ HLB Connect. 
+(c)	Biên nhận tiền gửi tiền tiết kiệm có kỳ hạn là xác nhận giao dịch, có giá trị như là hợp đồng tiền gửi đối với tiền gửi có kỳ hạn hoặc là sổ tiết kiệm đối với tiền gửi tiết kiệm có kỳ hạn. Quý Khách có thể tra cứu thông tin tiền gửi tiết kiệm tiền gửi có kỳ hạn trực tiếp thông qua Tài Khoản HLBConnect của QuýKhách hoặc liên hệ với TrungTâm Dịch Vụ Khách Hàng. The receipt of FD 
+(d)	Tài Khoản thanh toán ghi nợ để gửi tiền gửi tiền tiết kiệm có kỳ hạn sẽ đồng thời là Tài Khoản thanh toán để nhận tiền gửi tiền tiết kiệm có kỳ hạn đã gửi và tiền lãi phát sinh khi đáo hạn. Quý Khách có thể thực hiện việc rút tiền gửi tiền tiết kiệm có kỳ hạn trước ngày đến hạn theo quy trình đã thiết lập trên HLB Connect. 
+(e)	Trường hợp rút trước hạn tiền gửi tiền tiết kiệm có kỳ hạn (một phần hoặc toàn bộ), thì khoản tiền gửi rút trước hạn sẽ áp dụng mức lãi suất tối đa bằng mức lãi suất tiền gửi không kỳ hạn thấp nhất của HLBVN theo đối tượng khách hàng và hoặc theo loại đồng tiền tương ứng tại thời điểm rút trước hạn hoặc mức lãi suất khác do HLBVN quy định phù hợp với pháp luật hiện hành. Phần tiền gửi tiền tiết kiệm có kỳ hạn còn lại sau khi rút trước hạn (nếu có) sẽ được cập nhật trên Tài khoản HLB Connect của Quý khách và áp dụng mức lãi suất đang áp dụng cho đến hết kỳ hạn gửi tiền. 
+(f)	Lãi suất khi gửi tiền hoặc tái tục sẽ là lãi suất tươngứng với từng kỳhạn gửi tiền do HLBVN áp dụng trong từng thời kỳ và thiết lập tự động trên HLB Connect  Lãi suất khi rút trước hạn sẽ là lãi suất không kỳ hạn thấp nhất của HLBVN đối với loại đồng tiền tương ứng vào thời điểm rút trước hạn hoặc mức lãi suất khác do HLBVN quy định phù hợp với pháp luật hiện hành 
+(g)	Tiền lãi được tính trên cơ sở một năm 365 ngày và số ngày thực tế, theo công thức như sau 
+Tiền lãi = ∑ (Số dư thực tế x số ngày duy trì số dư thực tế x Lãi suất) 
+(h)	Đối với Khách Hàng là cá nhân nước ngoài, kỳhạn tiền gửi chỉ giới hạn trong thời hạn được phép cư trú còn lại tại Việt Nam đã cập nhật và ghi nhận trên hệ thống của HLBVN 
+(i)	Nếu Tài Khoản thanh toán của Quý Khách mở tại HLBVN không hoạt động không tồn tại tại thời điểm chấm dứt gửi tiền trong bất kỳ trường hợp nào, HLBVN sẽ có quyền xử lý số dư tiền gửi này theo quy định của HLBVN phù hợp với pháp luật Việt Nam. 
+Đối với các giao dịch hoặc các dịch vụ yêu cầu Mã OTP 
+(a)	Khi Quý Khách yêu cầu một Mã OTP hoặc mã SmartOTP để thực hiện bất kỳ dịch vụ nào trên HLB Connect, Mã OTP sẽ được gửi qua tin nhắn SMS đến số điện thoại di động mà Quý Khách đã đăng ký với HLBVN hoặc mã SmartOTP sẽ được gửi qua tài khoản Hong Leong Connect App đã đăng ký nhận SmartOTP của Quý Khách. Thời gian gửi Mã OTP SmartOTP phụ thuộc vào dịch vụ của Nhà Mạng Di Động Nhà Mạng tương ứng mà Quý Khách sử dụng. Khi Quý Khách nhập Mã OTP SmartOTP đã nhận được để thực hiện dịch vụ yêu cầu, Quý Khách được xem là đã hiểu rõ và đồng ý với tất cả các điều khoản và điều kiện áp dụng cho dịch vụ đó. 
+(b)	Nếu Quý Khách yêu cầu nhiều hơn một Mã OTP SmartOTP yêu cầu trước đó sẽ không còn hợp lệ và yêu cầu mới nhất sẽ là Mã OTP SmartOTP hợp lệ để được sử dụng cho HLB Connect. 
+Thông tin tài khoản hiển thị trên HLB Connect 
+(a)	HLBVN sẽ nỗ lực để đảm bảo rằng tất cả các thông tin liên quan đến Tài Khoản Ngân Hàng của Quý Khách được hiển thị trên HLB Connect là chính xác nhất  Tuy nhiên, Quý Khách hiểu rằng HLBVN không đảm bảo tính chính xác tuyệt đối của những thông tin này  Nếu Quý Khách có lý do để tin rằng những thông tin trên HLB Connect là không chính xác, Quý Khách vui lòng thông báo cho HLBVN để chúng tôi tra soát và giải quyết trong vòng bảy (7) Ngày Làm Việc 
+(b)	Quý Khách thừa nhận rằng thông tin Tài Khoản Ngân Hàng của Quý Khách hiển thị trên HLB Connect có thể chưa được cập nhật mới nhất do có khả năng các giao dịch vẫn chưa được xử lý đầy đủ, chưa được xác nhận hoặc uỷ quyền của HLBVN hoặc bên thứ ba (tùy từng trường hợp)  Theo đó, HLBVN có nghĩa vụ trả lời những truy vấn của Quý Khách trên bất kỳ tài khoản nào của Quý Khách có liên quan đến HLB Connect 
+(c)	Trong trường hợp không thống nhất giữa các thông tin Tài Khoản Ngân Hàng hiển thị trên HLB Connect và hệ thống chính của HLBVN (hệ thống ngân hàng chủ), các thông tin Tài Khoản Ngân Hàng theo báo cáo của hệ thống chính và được thẩm định tại các chi nhánh của HLBVN sẽ được ưu tiên áp dụng 
+Chuyển khoản tới ngân hàng khác tại Việt Nam 
+(a)	HLBVN có thể gửi các thông báo liên quan đến điện chuyển tiền hoặc các phương thức chuyển tiền điện tử khác thông qua hình thức điện báo, telex, telephone, fax hoặc bằng điện tử tùytheo quyết định của HLBVN, dưới dạng chữ, mã hiệu hay mật mã hay dưới hình thức khác mà HLBVN cho là thích hợp 
+(b)	Chỉ Thị chuyển tiền sẽ không thể thay đổi và không thể hủy ngang sau khi đã được chuyển cho HLBVN trừ khi được HLBVN cho phép khác đi  Yêu cầu chuyển tiền nhận được sau thời điểm hết giờ giao dịch do HLBVN quy định đối với từng dịch vụ tương ứng sẽ được thực hiện vào Ngày Làm Việc tiếp theo, nội dungnàykhông áp dụng đối với Chuyển Khoản Nhanh 
+(c)	Việc hoàn trả bất kỳ số tiền đã chuyển nào sẽ chỉ được thực hiện sau khi HLBVN nhận được xác nhận về việc huỷ thành công chỉ thị chuyển tiền và văn bản xác nhận nội dung bồi hoàn của Khách Hàng theo mẫu của HLBVN  Tiền hoàn trả sẽ được thanh toán bằng đồng tiền tương ứng với đồng tiền chuyển theo Chỉ Thị sau khi trừ đi các khoản phí, chi phí, tiền lãi và phí tổn, nếu có 
+(d)	Tất cả các chi phí và phí tổn phát sinh liên quan đến việc sửa đổi, hủy bỏ, chấm dứt và hoặc hoàn trả tiền sẽ hoàn toàn do Khách Hàng gánh chịu. 
+(e)	Bất kể các quy định nêu trong đây, HLBVN có toàn quyền từ chối bất kỳ yêu cầu chuyển tiền mà không phải đưa ra lý do hay phải trả lời cho bất kỳ câu hỏi nào 
+(f)	Quý Khách sẽ đảm bảo rằng tất cả các thông tin được cung cấp trên Chỉ Thị chuyển tiền là đúng và chính xác  Để thủ tục tiến hành được nhanh chóng, việc ghi có vào tài khoản của người nhận tiền sẽ được căn cứ vào SỐ TÀI KHOẢN được ghi trên Chỉ Thị mà không phải từ các nguồn thông tin khác, trừ khi được ghi rõ khác đi 
+(g)	HLBVN sẽ không phải chịu trách nhiệm trước Quý Khách hoặc bất kỳ bên thứ ba nào cho bất kỳ thiệt hại, tổn thất về lợi nhuận hoặc thu nhập, tín nhiệm hoặc bất kỳ loại thiệt hại hay tổn thất trực tiếp hay gián tiếp nào phát sinh vì bất kỳ lý do gì hoặc dưới bất kỳ hình thức nào khác và cho dù HLBVN đã được thông báo về việc đó hay không về bất kỳ vấn đề nào dưới đây 
+-	bất kỳ sự hiểu nhầm hoặc sai sót nào (bao gồm việc sai (các) tên hoặc số (các) tài khoản hoặc số tiền) trong bất kỳ thông tin nào cung cấp cho HLBVN 
+-	trong trường hợp việc gửi các thông báo bị chậm trễ, bị hỏng hoặc bị gián đoạn khác đi do các nguyên nhân nằm ngoài tầm kiểm soát của HLBVN bao gồm nhưng không giới hạn bởi cháy, động đất, lở đất, lũ lụt, bệnh dịch, các thảm họa tự nhiên, nổi loạn, xáo trộn dân sự, tranh chấp công nghiệp, hành động của kẻ thù địch, cấm vận, chiến tranh, thiên tai hoặc bất kỳ việc hỏng hóc hay ngừng trệ trong hệ thống thông tin liên lạc, điện, nước, cung cấp nhiên liệu hoặc bất kỳ nhân tố nào có tính chất bất khả kháng hoặc vượt quá tầm kiểm soát của HLBVN 
+Nhưng trong trường hợp HLBVN buộc phải chịu trách nhiệm theo quy định pháp luật, thì trong mọi trường hợp trách nhiệm của HLBVN sẽ không vượt quá số tiền phí mà Khách Hàng phải trả cho yêu cầu chuyển tiền có liên quan mà từ đó làm phát sinh yêu cầu đòi bồi thường 
+(h)	Quý Khách cam kết bồi thường cho HLBVN toàn bộ và đầy đủ đối với tất cả các khiếu nại, yêu cầu, khiếu kiện, tổn thất và phí tổn (bao gồm các chi phí pháp lý giữa luật sư và thân chủ của mình) và tất cả các nghĩa vụ pháp lý khác dưới bất kỳ hình thức nào mà HLBVN phải gánh chịu phát sinh từ việc cungcấp các Dịch vụ hoặc chấp nhận bất kỳyêu cầu chuyển tiền nào do Quý Khách yêu cầu theo quy định trong đây  Trách nhiệm của Quý Khách sẽ là trách nhiệm liên tục và sẽ duy trì đầy đủ hiệu lực cho tới khi trách nhiệm của HLBVN, nếu có, được thanh toán đầy đủ 
+(i)	Quý Khách được yêu cầu phải biết về bất kỳ chế tài nào được áp đặt bởi các quốc gia tổ chức nơi các Khách Hàng muốn gửi tiền tới hoặc nhận tiền từ đó. Nếu bất kỳ khoản tiền tài liệu giao dịch nào bị chậm trễ ngăn cản giữ lại liên quan tới (các) chế tài nói trên, HLBVN sẽ không phải chịu trách nhiệm đối với sự chậm trễ ngăn cản giữ lại đó. 
+Tính sẵn có của Dịch vụ Availability of Services
+(a)	Quý Khách có thể sử dụng HLB Connect hai mươi bốn (24) giờ một ngày và bảy (7) ngày một tuần trừ khi HLBVN có thông báo khác cho Quý Khách hoặc vì lý do nào ngoài sự kiểm soát của HLBVN  HLBVN không đảm bảo rằng HLB Connect có thể sử dụng được tại mọi thời điểm, nhưng HLBVN cam kết tổng thời gian dừng hệ thống trong năm không quá bảy (7) ngày và thời gian phục hồi hệ thống sau khi gặp sự cố không quá bốn (4) tiếng 
+(b)	Trong trường hợp HLB Connect không hoạt động, Quý Khách có thể thực hiện giao dịch tại bất kỳ Chi nhánh Phòng giao dịch nào của HLBVN hoặc sử dụng các kênh giao dịch ngân hàng khác thay thế sẵn có cho Quý Khách. 
+(c)	HLBVN có quyền khóa Tài Khoản HLB Connect của Quý Khách nếu Quý Khách không sử dụng các dịch vụ trong ba (3) tháng hoặc bất kỳ khoảng thời gian khác do HLBVN quy định và không cần thông báo trước việc khóa tài khoản đó 
+(d)	Độ tin cậy của thông tin – Thông tin bao gồm nhưng không giới hạn lãi suất, tỷ giá hối đoái, thông tin sản phẩm hoặc trích dẫn được cung cấp bởi HLB Connect cho các mục đích  Tỷ giá thực tế hoặc tỷ giá được áp dụng cho một giao dịch cụ thể được xác định tại thời điểm giao dịch đó được thực hiện 
+thị Instructions
+Tất cả các giao dịch thực hiện thông qua Thông Tin Bảo Mật, sẽ được coi là Chỉ Thị và ủy quyền của Quý Khách cho HLBVN và HLBVN được dựa vào ủy quyền đó để thay mặt Quý Khách xử lý Chỉ Thị một cách phù hợp mà không cần xác thực Chỉ Thị và người gửi Chỉ Thị đó, theo đó HLBVN sẽ không chịu trách nhiệm cho bất kỳ sự lạm dụng hoặc sử dụng trái phép các thông điệp hoặc Chỉ Thị gửi cho HLBVN  HLBVN có toàn quyền xử lý Chỉ Thị như là được đưa ra bởi Quý Khách và HLBVN sẽ có thể thực thi các bước theo nội dung của những chỉ thị đó và không chịu trách nhiệm về bất kỳ tổn thất, thiệt hại và chi phí đối với Quý Khách hoặc bất cứ ai khác cho việc tuân thủ Chỉ Thị như vậy 
+Sau khi được ban hành hoặc truyền đi, các Chỉ Thị này sẽ không thể thay đổi và sẽ là bằng chứng để xác nhận là Chỉ Thị là từ Quý Khách 
+Quý Khách phải đảm bảo rằng Chỉ Thị được thực hiện đầy đủ, chính xác và đúng 
+HLBVN được quyền ghi nợ Tài Khoản Ngân Hàng của Quý Khách ngay lập tức khi hoàn thành bất kỳ giao dịch nào của Quý Khách được chỉ thị thông qua HLB Connect sử dụng Thông Tin Bảo Mật của Quý Khách 
+Quý Khách có thể ban hành Chỉ Thị để hủy bỏ, thu hồi, thay đổi, sửa đổi Chỉ Thị trước đó của Quý Khách và HLBVN, theo toàn quyền quyết định của mình, chỉ có thể thực hiện theo Chỉ Thị tiếp theo với điều kiện là Chỉ Thị trước đó chưa được thực hiện 
+HLBVN bảo lưu quyền không thực hiện đúng Chỉ Thị của Quý Khách nếu các chỉ thị đó không phù hợp với chính sách hay quy tắc và quy định hiện hành của HLBVN tại thời điểm đó 
+trữ thông tin giao dịch Transaction Records
+Bất kỳ Chỉ Thị được truyền tải hoặc nhận được bởi HLBVN ngoài thời gian xử lý giao dịch của bất kỳ Ngày Làm Việc nào sẽ được xem xét và giải quyết vào Ngày Làm Việc tiếp theo  Thời gian xử lý giao dịch có thể được thay đổi dựa theo quyết định của HLBVN mà không cần báo trước cho Quý Khách 
+Các giao dịch chưa được xác nhận hoặc xử lý bởi HLBVN sẽ không thể hiện trong số dư Tài Khoản Ngân Hàng có liên quan của Quý Khách trên HLB Connect và không ghi nhận trong sao kê Tài Khoản Ngân Hàng có liên quan 
+Quý Khách có thể kiểm tra trực tuyến lịch sử các giao dịch của Tài Khoản Ngân Hàng đã thực hiện trên HLB Connect trong từng giai đoạn theo quy định của HLBVN, và có thể tải xuống bản sao kê lịch sử giao dịch này  Bản sao kê Tài Khoản Ngân Hàng sẽ mang tính ràng buộc và là bằng chứng cuối cùng của việc các giao dịch này được thực hiện bởi Quý Khách 
+hạn về giao dịch Limits on Transactions
+HLBVN được quyền quyết định và áp đặt bất kỳ giới hạn nào với số lượng, tần suất và sử dụng bất kỳ dịch vụ nào trên HLB Connect và hoặc Thông Tin Bảo Mật (“Hạn Mức Giao Dịch Trực Tuyến”). Hạn Mức Giao Dịch Trực Tuyến có thể có sự khác nhau giữa các giao dịch trong hoặc ngoài nước, loại giao dịch (Chuyển Tiền Nhanh và Chuyển Tiền Thường), trạng thái khách hàng (là khách hàng ưu tiên, khách hàng mở Tài Khoản Ngân Hàng thông thường hoặc Tài Khoản Lite Account1). Hạn Mức Giao Dịch Trực Tuyến được HLBVN thông báo trên trang web và hoặc trên HLB Connect theo từng thời kỳ. 
+Khách Hàng có thể điều chỉnh các hạn mức này bằng cách gửi thông báo bằng văn bản cho HLBVN và hoặc thông qua HLB Connect (nếu áp dụng) và hoặc thực hiện quy trình nâng cấp trạng thái khách hàng tại chi nhánh phòng giao dịch của HLBVN (cụ thể từ khách hàng mở Tài Khoản Thẻ Ngân Hàng Trực Tuyến sang khách hàng mở Tài Khoản Ngân Hàng thông thường hoặc sang khách hàng ưu tiên). Việc điều chỉnh các hạn mức này sẽ tùy thuộc vào sự chấp thuận của HLBVN theo chính sách áp dụng trong từng thời kỳ. 
+Như quy trình tại Điều 5 1 Điều khoản & Điều kiện này 2 As process in Article 5 
+dịch vụ và các loại phí khác Service Fees and other charges
+HLBVN sẽ có quyền áp các mức phí dịch vụ và các phí khác đối với các dịch vụ được Khách Hàng sử dụng  HLBVN có toàn quyền thay đổi các mức phí dịch vụ và phí khác tại bất kỳ thời điểm nào và trong từng thời kỳ bằng các thông báo tại trụ sở HLBVN hoặc trên các phương tiện thông tin đại chúng hoặc trên trang web của HLBVN hoặc trên các phương tiện khác 
+Bất kể việc áp dụng phí dịch vụ và phí khác của HLB Connect, các giao dịch thực hiện thông qua Tài Khoản Ngân Hàng vẫn sẽ bị tính phí giao dịch thông thường  HLBVN bảo lưu quyền tuyệt đối thay đổi các khoản phí như phí dịch vụ và các khoản phí khác bất kỳ lúc nào phù hợp với quy định của pháp luật trong từng thời kỳ với thông báo trước cho Quý Khách 
+Đối với mục đích thu các khoản phí vậy, Quý Khách theo đây ủy quyền cho phép HLBVN ghi nợ Tài Khoản Ngân Hàng các khoản phí chi phí và bất kỳ khoản phí, lệ phí và thuế mà Chính phủ thu đối với việc sử dụng HLB Connect 
+hạn trách nhiệm Your Responsibilities
+Thông Tin Bảo Mật Security Codes
+Quý Khách phải áp dụng mọi biện pháp phòng ngừa để đảm bảo và ngăn chặn việc sử dụng trái phép và gian lận HLB Connect hoặc bất kỳ phần nào theo đó và Thông Tin Bảo Mật bao gồm nhưng không giới hạn như sau 
+(a)	Thông Tin Bảo Mật, trong đó bao gồm Tên đăng nhập, Mật Khẩu, Mã PIN ATM, Mã kích hoạt và Mã OTP SmartOTP, phải được lưu giữ bí mật, không thể truy cập bởi bất kỳ người nào và không được ghi lại dưới bất kỳ hình thức nào, mà có thể được giải mã bởi bất cứ ai hoặc bị giữ lại hoặc tiết lộ hoặc tiếp xúc với bất kỳ người nào (bao gồm cả các nhân viên của HLBVN) trong bất kỳ hoàn cảnh nào hoặc vào bất cứ lúc nào. Bất kỳ thông báo nào gửi đến cho Quý Khách có chứa các Thông Tin Bảo Mật, phải được tiêu huỷ ngay sau khi Quý Khách đã nhận được và đọc chúng. Bất kỳ e-mail hoặc tin nhắn SMS nào yêu cầu cung cấp Thông Tin Bảo Mật của Quý Khách phải được báo cáo cho HLBVN ngay lập tức; 
+(b)	Quý Khách đảm bảo rằng thiết bị Quý Khách đang sử dụng sẽ không cho phép ghi lại các hoạt động của Quý Khách và chống phần mềm gián điệp và tường lửa cần thiết đã được cài đặt 
+(c)	Quý Khách đảm bảo rằng Quý Khách luôn luôn đăng nhập vào địa chỉ trình duyệt Internet chính xác của HLB Connect Online Banking 
+(d)	Quý Khách không sử dụng HLB Connect tại các quán cà phê Internet hoặc bất kỳ nơi công cộng cung cấp dịch vụ Internet và Quý Khách phải đăng xuất HLB Connect khi rời khỏi máy tính của Quý Khách 
+(e)	QuýKhách phải ngaylập tức gỡ bỏ dịch vụ Ứng Dụng HLB Connect trên điện thoại di động mà Quý Khách bị mất 
+(f)	Quý Khách phải thay đổi Mật Khẩu của Quý Khách khi được yêu cầu theo định kỳ 
+(g)	Không được chuyển nhượng: Thông Tin Bảo Mật chỉ được cấp cho Quý Khách sử dụng và Quý Khách không được chuyển nhượng, cầm cố, hoặc sử dụng nó như là vật đảm bảo trong bất kỳ hình thức nào hay cùng sử dụng với những người khác 
+(h)	Việc tiết lộ các Thông Tin Bảo Mật: Nếu Thông Tin Bảo Mật bị tiết lộ hoặc nghi ngờ tiết lộ với bất kỳ người nào, Quý Khách phải ngay lập tức thay đổi Thông Tin Bảo Mật, để có thể bảo vệ lợi ích của riêng Quý Khách 
+Quý Khách phải chịu hoàn toàn trách nhiệm về các tổn thất hoặc thiệt hại phát sinh, nếu có trong trường hợp Quý Khách không tuân thủ những yêu cầu hoặc khuyến cáo nêu trên, HLBVN sẽ không chịu trách nhiệm hoặc liên quan đến bất kỳ tổn thất hoặc thiệt hại nào đã phát sinh trong trong các tình huống không tuân thủ như vậy của Khách Hàng 
+Câu Hỏi Thường Gặp (FAQ) và Hướng Dẫn Sử Dụng Frequently Asked Questions (FAQ) and User Guide
+(a)	QuýKhách được yêu cầu đọc và hiểu Câu Hỏi ThườngGặp trước khi sử dụngHLB Connect và không thực hiện bất kỳ hướng dẫn hoặc sử dụng HLB Connect với sự hiện diện của bất kỳ người nào khác 
+(b)	Quý Khách đã đọc, hiểu và đồng ý chịu sự ràng buộc và sẽ tuân thủ theo Hướng Dẫn Sử Dụng HLB Connect và những chỉ dẫn khác Hướng Dẫn Sử Dụng HLB Connect được HLBVN cung cấp trong từng thời kỳ 
+Số dư trong Tài Khoản Ngân Hàng Balances in Accounts
+(a)	Quý Khách thường xuyên kiểm tra và giám sát cẩn thận các Tài Khoản Ngân Hàng và số dư cũng như kiểm tra số dư trước khi gửi bất kỳ Chỉ Thị nào đến HLBVN 
+(b)	Quý Khách thông báo cho HLBVN ngay lập tức nếu có bất kỳ sự thiếu chính xác hoặc bất thường trong bất kỳ Tài Khoản Ngân Hàng nào 
+Đảm bảo số dư Tài Khoản Ngân Hàng Availability of balance in Banking Account
+(a)	Quý Khách phải đảm bảo rằng có đủ số dư Tài Khoản Ngân Hàng để thực hiện bất cứ giao dịch nào mà Quý Khách yêu cầu, trừ khi Quý Khách đã thông báo và thu xếp trước với HLBVN 
+(b)	HLBVN sẽ không có nghĩa vụ thực hiện bất kỳ Chỉ Thị nào cho đến khi và trừ khi Tài Khoản Ngân Hàng có liên quan có đủ tiền 
+Đồng chủ Tài khoản 
+Phụ thuộc vào các điều kiện ký kết đối với tài khoản chung, một trong những chủ tài khoản có thể ban hành chỉ thị và ủy quyền cho phép HLBVN thực hiện bất kỳ các giao dịch trên một tài khoản chung  Tất cả các giao dịch phát sinh từ việc sử dụng các Thông Tin Bảo Mật, để vận hành một tài khoản chung được chỉ định sẽ ràng buộc trên tất cả các chủ tài khoản, những người có trách nhiệm liên đới và riêng biệt về tất cả các giao dịch 
+Nếu QuýKhách nhận được dữ liệu hoặc thông tin thông qua HLB Connect mà thông tin đó không dành cho Quý Khách, Quý Khách thông báo cho HLBVN ngay lập tức qua điện thoại hoặc e-mail và xóa nội dung đó 
+Quy định này sẽ duy trì hiệu lực bất kể việc chấm dứt Tài Khoản HLB Connect 
+nhiệm của các bên Liabilities of the Parties
+Thông qua việc sử dụng HLB Connect, Quý Khách xác nhận và đồng ý 
+(a)	Bất kể yêu cầu chỉ thị điện tử nào được thực hiện thông qua việc sử dụng HLB Connect đều có giá trị pháp lý đầy đủ và ràng buộc trách nhiệm giữa Quý Khách và HLBVN. 
+(b)	Chấp nhận những rủi ro có liên quan đến việc thực hiện giao dịch qua Internet và Thiết Bị Di Động, và
+(c)	HLBVN và các Tổ chức Liên kết không thực hiện bất kỳ tuyên bố hoặc bảo đảm nào, dù trực tiếp hay hàm ý đối với HLB Connect, bao gồm nhưng không giới hạn khả năng thương mại và cho một mục đích cụ thể  Không có thông tin bằng lời nói hoặc bằng văn bản hoặc lời khuyên nào của HLBVN, các Tổ chức Liên kết và nhân viên hoặc đại lý sẽ tạo ra hoặc tăng cường phạm vi của bảo đảm này 
+Quý Khách phải chịu trách nhiệm và nghĩa vụ mà không có bất kỳ giới hạn nào đối với những điều sau đây 
+(a)	Bất kỳ tổn thất hoặc thiệt hại do tất cả các giao dịch trái phép thực hiện thông qua việc sử dụng Thông Tin Bảo Mật cho đến khi HLBVN nhận được thông báo bằng văn bản từ Quý Khách 
+(b)	Bất kỳ tổn thất hoặc thiệt hại phải chịu và tất cả các rủi ro phát sinh, trong trường hợp Quý Khách không chấm dứt HLB Connect theo các thủ tục liên quan được đặt ra bởi HLBVN cho việc sử dụng HLB Connect 
+(c)	Bất kỳ tổn thất hoặc thiệt hại của HLBVN do Quý Khách vi phạm hoặc không tuân thủ bất kỳ các Điều khoản và Điều kiện này hoặc bất kỳ các thủ tục liên quan do HLBVN quy định 
+(a)	Không ảnh hưởng đến bất kỳ các quy định khác ở đây, HLBVN không chịu trách nhiệm với Quý Khách hoặc bất kỳ bên thứ ba cho bất kỳ tổn thất (dù trực tiếp hay gián tiếp) của lợi nhuận, kinh doanh hoặc uy tín đối với bất kỳ thiệt hại hay hậu quả gián tiếp hay trực tiếp dù bất cứ điều gì hay bằng bất kỳ cách nào, ngay cả nếu HLBVN đã được thông báo về khả năng mất mát hoặc hư hỏng hoặc khiếu nại bởi bên thứ ba đó 
+(b)	Tùy thuộc vào các quy định trong tài liệu này, trách nhiệm duynhất và toàn bộ của HLBVN đối với Quý Khách trong hợp đồng, ngoài hợp đồng (kể cả sơ suất hoặc vi phạm nghĩa vụ theo luật định) hoặc phát sinh vì lý do hoặc liên quan đến các Điều khoản và Điều kiện này hoặc dù bất kỳ cách nào cũng không được vượt quá giá trị các giao dịch liên quan mà đã phát sinh khiếu nại hoặc các thiệt hại trực tiếp, tùy vào mức nào thấp hơn 
+(c)	Mỗi quy định tại khoản 12 3 này được hiểu như một giới hạn riêng biệt áp dụng và tồn tại ngay cả khi vì lý do một hoặc các quy định khác không áp dụng hoặc trở nên bất hợp lý trong bất kỳ tình huống nào và sẽ vẫn có hiệu lực ràng buộc bất chấp việc đóng Tài khoản Ngân Hàng hoặc HLB Connect 
+Không giới hạn tổng quát của khoản 12 3, HLBVN không chịu trách nhiệm hoặc có nghĩa vụ đối với bất kỳ tổn thất, thiệt hại hay khó khăn tài chính phát sinh hoặc phải gánh chịu bởi Quý Khách hoặc bất kỳ bên thứ ba vì lý do hoặc phát sinh từ: 
+(a)	Do sai sót của Quý Khách trong việc cung cấp Chỉ Thị chính xác, đầy đủ và kịp thời cho HLBVN hoặc không tuân thủ  hoặc 
+(b)	Không có khả năng để thực hiện bất cứ giao dịch nào do những hạn mức được thiết lập bởi HLBVN trong từng thời kỳ  hoặc 
+(c)	Bất kỳ lỗi, thay đổi, hủy bỏ các Chỉ Thị, dữ liệu hoặc thông tin đến hoặc từ HLBVN thông qua HLB Connect, trên mạng Internet và Thiết Bị Di Động  hoặc 
+(d)	Bất kỳ sự xâm nhập hoặc bị tấn công bởi bất kỳ người hoặc đối với bất kỳ phần cứng, phần mềm hayhệ thống được sử dụng liên quan tới HLB Connect haytrên mạng Internet và Thiết Bị Di Động, bao gồm nhưng không giới hạn các virus, Trojan Horses, phần mềm độc hại và hoặc macros hoặc các thành phần gây hại khác hoặc các thiết bị vô hiệu hóa có thể đình chỉ, làm gián đoạn hoặc vô hiệu hóa HLB Connect hoặc bất kỳ phần nào theo đó; hoặc 
+(e)	Bất kỳ hạn chế hoặc nghiêm cấm sử dụng HLB Connect bởi bất kỳ luật hoặc quy định của bất kỳ nước nào nơi Quý Khách truy cập vào HLB Connect  hoặc 
+(f)	Trong trường hợp bất khả kháng mà HLBVN không thể thực hiện bất kỳ hoạt động hoặc cung cấp bất kỳ Dịch vụ vì bất cứ lý do ngoài tầm kiểm soát của HLBVN bao gồm nhưng không giới hạn với cháy nổ, động đất, lở đất, lũ lụt, dịch bệnh, thảm họa tự nhiên hoặc thiên tai, tai nạn, bạo loạn, rối loạn dân sự, tranh chấp công nghiệp, hành động của chính quyền nước thù địch, cấm vận, chiến tranh, hoặc bất kỳ thất bại, chậm trễ hoặc gián đoạn viễn thông, điện, cung cấp nhiên liệu hoặc dịch vụ được cung cấp bởi các Nhà Cung Cấp Dịch Vụ Mạng, Nhà Cung Cấp Dịch Vụ Mạng Di Động hoặc các Tổ chức Liên kết hoặc bất kỳ nhân tố nào ngoài tầm kiểm soát của HLBVN 
+thường Indemnity
+Quý Khách cam kết bồi thường cho HLBVN đầy đủ và hoàn toàn và chống lại mọi khiếu nại, yêu cầu, hành động, thủ tục tố tụng, mất mát và chi phí (bao gồm cả chi phí pháp lý như giữa luật sư riêng và khách hàng) và tất cả các trách nhiệm khác của bất kỳ bản chất nào hoặc mô tả nào có thể phát sinh hoặc phải gánh chịu bởi HLBVN liên quan đến hoặc bằng bất cứ phương thức nào phát sinh từ việc cung cấp HLB Connect hoặc việc chấp nhận bất cứ Chỉ Thị được đưa ra bởi Quý Khách hoặc do Quý Khách vi phạm bất kỳ các Điều khoản và Điều kiện này. Quý Khách vẫn phải tiếp tục thực hiện đầy đủ các trách nhiệm nghĩa vụ của Quý Khách tại HLBVN bất kể việc chấm dứt sử dụng HLB Connect. 
+chỉ hoặc chấm dứt HLB Connect Suspension or Termination of HLB Connect
+HLBVN có thể quyết định tại bất kỳ thời điểm nào việc đình chỉ hoặc chấm dứt quyền truy cập của Quý Khách vào Tài Khoản HLB Connect hoặc bất kỳ phần nào của các Dịch vụ mà không phải cung cấp bất kỳ lý do nào 
+HLBVNsẽ chấm dứt quyền truycập vào Tài Khoản HLBConnect của QuýKhách khi QuýKhách ngừng duy trì Tài Khoản Ngân Hàng đã đăng ký HLB Connect hoặc nếu Tài Khoản Ngân Hàng đó bị đình chỉ, hạn chế hoặc bị cấm bởi HLBVN hoặc bất kỳ bên thứ ba với bất kỳ lý do gì 
+Nếu Quý Khách có ý định chấm dứt Tài Khoản HLB Connect, Quý Khách sẽ thực hiện chấm dứt những dịch vụ này bằng cách (i) nộp yêu cầu theo mẫu của HLBVN tại chi nhánh hay phòng giao dịch của HLBVN; hoặc (ii) liên lạc với Trung Tâm Dịch Vụ Khách Hàng để được hỗ trợ  Tài Khoản HLB Connect của Quý Khách sau đó sẽ được hủy trong vòng ba (03) Ngày Làm Việc kể từ khi HLBVN thực nhận được yêu cầu chấm dứt của Quý Khách 
+riêng biệt và miễn trừ Severability and Waiver
+Nếu bất kỳ điều khoản nào được xác định là bất hợp pháp, không hợp lệ, bị nghiêm cấm hoặc không thể thực hiện theo luật pháp, điều khoản đó sẽ bị vô hiệu trong mức độ của sự bất hợp pháp, sự không hợp lệ, sự nghiêm cấm hoặc sự không thể thực hiện đó mà không làm hủy bỏ hiệu lực bằng bất kỳ phương thức nào đến các điều khoản còn lại trong Điều khoản và Điều kiện này 
+Sự chấp thuận bất kỳ Chỉ Thị hay xử lý bất kỳ các Chỉ Thị đã ban hành trước thời gian theo quy định của HLBVN hoặc bất kỳsự khước từ của HLBVN đối với bất kỳcác quyền nào của HLBVN hoặc bất kỳ sự chấp thuận nào dành cho Quý Khách sẽ không có hiệu lực như sự chấp thuận đồng ý với việc sửa đổi bất kỳ phần nào của các Điều khoản và Điều kiện này hoặc như để ngăn chặn HLBVN thực thi bất kỳ quyền nào của mình theo các Điều khoản và Điều kiện này hoặc các quy tắc và quy định hoặc các điều khoản và điều kiện cho các Tài khoản 
+Bất kỳ thông báo yêu cầu liên quan đến HLB Connect do HLBVN gửi đến Quý Khách có thể được gửi theo bất kỳ cách thức sau đây được xác định bởi HLBVN, theo toàn quyền quyết định của HLBVN 
+(a)	Bằng thư điện tử đến địa chỉ e-mail của Quý Khách được đăng ký sau cùng trong dữ liệu của HLB Connect và thông báo sẽ được coi là đã được nhận sau hai mươi bốn (24) giờ, kể từ lúc gửi đi  hoặc 
+(b)	Bằng dịch vụ tin nhắn SMS thông qua các Nhà Mạng Di Động đến số điện thoại di động của Quý Khách được đăng ký sau cùng trong dữ liệu HLB Connect và thông báo sẽ phụ thuộc vào các điều khoản và điều kiện của các Nhà Mạng Di Động và trạng thái kết nối điện thoại di động của Quý Khách, và sẽ được coi là đã nhận trong vòng hai mươi bốn (24) giờ, kể từ lúc gửi đi  hoặc 
+(c)	Qua đường bưu điện thông thường hoặc gửi đảm bảo hoặc chuyển phát nhanh gửi đến hoặc để tại địa chỉ cuối cùng của Quý Khách đăng ký với HLBVN và Quý Khách sẽ được coi là đã nhận được Quý Khách trong vòng năm (5) Ngày Làm Việc từ ngày gửi nếu được gửi qua đường bưu điện thông thường hoặc gửi đảm bảo và trong vòng hai (2) Ngày Làm Việc gửi nếu gửi bằng chuyển phát nhanh  hoặc 
+(d)	Bằng cách hiển thị các thông báo tại các cơ sở chi nhánh của HLBVN hoặc trang web của HLBVN và thông báo như vậy sẽ được coi là có hiệu lực ngay khi hiển thị thông báo 
+(e)	Bằng cách quảng cáo, thông báo chung trên một tờ báo lớn của quốc gia và thông báo sẽ được coi là có hiệu lực kể từ ngàythông báo hoặc ngày ghi trong thông báo, tùytừng trường hợp 
+Bất kỳ thông báo (không bao gồm Chỉ Thị) theo đây của Quý Khách được gửi đến HLBVN có thể được gửi qua bất kỳ cách thức sau đây 
+(a)	 Thông qua HLB Connect đến HLBVN  hoặc Through HLB Connect to HLBVN 
+(b)	Thông qua bất kỳ Kênh Truyền Thông Được Chấp thuận đến Trung Tâm Dịch Vụ Khách Hàng  hoặc 
+(c)	Qua đường bưu điện thông thường hoặc gửi đảm bảo hoặc chuyển phát nhanh gửi đến hoặc đặt tại Chi nhánh của HLBVN nơi Tài Khoản Ngân Hàng đang được duy trì 
+Những thông báo trên sẽ được chuyển đến HLBVN vào ngày HLBVN thực nhận thông báo 
+Quý Khách phải thông báo ngay cho HLBVN khi có bất kỳ sự thay đổi thông tin cá nhân, số điện thoại hoặc số điện thoại di động hoặc địa chỉ thư điện tử, thư từ và hoặc địa chỉ cư trú của Quý Khách bằng văn bản hoặc thông qua một Kênh Truyền Thông Được Chấp thuận. 
+thập và Sử dụng thông tin Consent to Process Personal Information
+Quý Khách theo đây tuyên bố và đảm bảo rằng Quý Khách được sự đồng ý của tất cả những người có tên trong đơn yêu cầu mở Tài khoản và đăng ký sử dụng Dịch vụ của Quý Khách hoặc những tài liệu được nộp cho HLBVN để hỗ trợ cho đơn yêu cầu mở Tài khoản đó và hoặc đại diện uỷ quyền của họ, hoặc những người khác theo quy định của HLBVN ("Đối tượng dữ liệu liên quan"), cho HLBVN thu thập, nắm giữ và sử dụng thông tin cá nhân của các Đối tượng dữ liệu có liên quan theo như quy định trong Chính sách bảo mật của HLBVN và có thể được sửa đổi trong từng thời kỳ. 
+Quý Khách theo đây đồng ý và chấp thuận cho HLBVN nắm giữ, thu thập và sử dụng tất cả các dữ liệu cá nhân mà Quý Khách cung cấp cho HLBVN hoặc HLBVN có được từ các nguồn khác, cũng như dữ liệu cá nhân phát sinh là kết quả từ việc cung cấp các Dịch vụ cho Quý Khách liên quan đến Tài Khoản Ngân Hàng của Quý Khách và hoặc tài khoản của bên thứ ba theo như quy định trong Chính sách bảo mật của HLBVN và có thể được sửa đổi trong từng thời kỳ. 
+lộ thông tin Disclosure
+Ngoài những tiết lộ được phép, Quý Khách ủyquyền và cho phép không hủy ngang cho HLBVN, cán bộ và nhân viên của HLBVN tiết lộ và cung cấp tất cả các thông tin liên quan đến Dịch vụ, Tài khoản của Quý Khách và Tài khoản của bên thứ ba, cả hiện tại và tương lai, và bất kỳ các vấn đề, thông tin khác liên quan đến Quý Khách hoặc hoạt động và kinh doanh của Quý Khách và đến phạm vi mà theo toàn quyền quyết định của mình HLBVN cho là thích hợp và cần thiết, cho 
+(a)	Các tổ chức tài chính khác cấp hoặc có ý định cấp bất kỳ khoản tín dụng nào cho Quý Khách, Trung Tâm Thông Tin Tín Dụng (CIC) hoặc bất kỳ văn phòng tín dụng trung ương khác do Ngân hàng Nhà nước Việt Nam thiết lập, bất kỳ cơ quan nhà nước có thẩm quyền khác có thể được luật pháp cho phép để thu thập thông tin hoặc cơ quan có thẩm quyền cơ quan chức năng được thành lập bởi Ngân hàng Nhà nước Việt Nam; 
+(b)	Bất kỳ tổ chức hiện tại hoặc tương lai mà có thể liên kết hoặc có liên quan với HLBVN, bao gồm nhưng không giới hạn tới các chi nhánh, đại diện và văn phòng chi nhánh và các đại diện của HLBVN 
+(c)	Các Bên bảo đảm của Quý Khách hoặc bất kỳ bên nào có ý định cung cấp bảo đảm cho bất kỳ các khoản tín dụng nào của Quý Khách tại HLBVN 
+(d)	Kiểm toán viên của HLBVN, bên tư vấn và hoặc đại lý khác có liên quan đến việc thu hồi các khoản tiền đến hạn và phải trả; và 
+(e)	Các công ty mẹ, các Tổ chức Liên kết, các cố vấn chuyên nghiệp, bên cung cấp dịch vụ, các bên được HLBVN chỉ định, công ty tín thác, đại lý quản lý tài sản, công ty lưu ký chứng khoán, công ty đăng ký chứng khoán, công ty bảo hiểm, đại lý, nhà thầu hoặc bên thứ ba cung cấp dịch vụ có liên quan đến việc cung cấp các sản phẩm và dịch vụ cho HLBVN và các công ty có liên quan và liên kết của HLBVN 
+Quý Khách theo đây đồng ý rằng những việc tiết lộ thông tin trên đây sẽ không làm phát sinh bất kỳ trách nhiệm nào của HLBVN đối với Quý Khách  Quý Khách hoàn toàn đồng ý với việc cung cấp thông tin nói trên và khẳng định không cần hoặc yêu cầu thêm bất cứ sự chấp thuận tiếp theo nào của Quý Khách liên quan đến việc cung cấp thông tin nói trên 
+Quý Khách đồng ý rằng HLBVN có quyền chia sẻ thông tin cá nhân của Quý Khách trong phạm vi nội bộ HLBVN và hoặc Tập đoàn Hong Leong, công ty mẹ của HLBVN, các chi nhánh, công ty trực thuộc, công ty có liên quan khác (trong hoặc ngoài lãnh thổ Việt Nam) cho các hoạt động tiếp thị và khuyến mãi. Quý Khách cho phép Ngân hàng trong từng thời điểm liên hệ với Quý Khách qua đường bưu điện, điện thoại, email, SMS về thông báo về các sản phẩm và dịch vụ cho hoạt động trên (“Thông tin Tiếp thị”). Nếu Quý Khách muốn từ chối nhận Thông tin Tiếp thị, Quý Khách có thể đến bất kỳ chi nhánh nào của Ngân hàng hoặc gọi đến Tổng đài của Ngân hàng theo số 1900633068 hoặc thực hiện các cách thức khác được pháp luật cho phép để đưa ra chỉ thị yêu cầu không nhận Thông tin Tiếp thị. 
+cấu trúc của HLBVN Reconstruction of HLBVN
+Nghĩa vụ và trách nhiệm của Quý Khách sẽ tiếp tục có hiệu lực và ràng buộc đối với tất cả các mục đích nào dù cho có bất kỳ thay đổi như hợp nhất, xây dựng lại hoặc những hình thức khác có thể được thực hiện trong cấu trúc của HLBVN hoặc bởi bất kỳ công ty nào mà theo đó công việc kinh doanh của HLBVN có thể tiếp tục trong thời gian đó và sẵn có để công ty thực hiện công việc kinh doanh trong thời gian đó và Quý Khách đồng ý rằng không có bất kỳ thay đổi nào như vậy sẽ ảnh hưởng đến nghĩa vụ và trách nhiệm được tạo lập theo đây – trong phạm vi này có liên quan đến bất kỳ giao dịch nào cho dù là ở quá khứ, hiện tại hoặc tương lai 
+mắc và giải quyết tranh chấp Enquiries and Dispute Resolution
+Trường hợp có bất kỳ thắc mắc, khiếu nại hay yêu cầu hỗ trợ, Quý Khách vui lòng liên hệ chi nhánh phòng giao dịch gần nhất hoặc Trung Tâm Dịch Vụ Khách Hàng 
+đổi các Điều khoản và Điều kiện Variation of these Terms and Conditions
+HLBVN có toàn quyền quyết định thay đổi, chỉnh sửa và hoặc bổ sung các Điều khoản và Điều kiện này tại bất kỳ thời điểm nào bằng cách thông báo tới Khách Hàng theo bất kỳ cách thức nào được nêu tại Điều 16 của Điều Khoản và Điều Kiện này. Quý Khách đồng ý chấp thuận chịu ràng buộc đối với những thay đổi, chỉnh sửa và hoặc bổ sung đó được thực hiện bởi HLBVN trong từng thời kỳ. 
+Điều chỉnh Governing Law
+Các Điều khoản và Điều kiện này sẽ được điều chỉnh và hiểu theo quy định của pháp luật Việt Nam  Quý Khách theo đây đồng ý với phán quyết của tòa án Việt Nam hoặc các tòa án có thẩm quyền khác mà HLBVN theo toàn quyền quyết định có thể lựa chọn để yêu cầu giải quyết tranh chấp theo quy định của pháp luật 
+- Hết .

@@ -1,5 +1,5 @@
 ENGLISH TERMS
-12-month expected credit losses
+expected credit losses
 accounting policies
 accounting profit
 acquiree
@@ -125,137 +125,138 @@ firm purchase commitment
 first IFRS financial statements
 first IFRS reporting period
 IFRS
-Đơn vị lần đầu áp dụng
-Khoản thanh toán cố định
-Giao dịch dự kiến
-Ngoại tệ
-Giao dịch ngoại tệ
-Hoạt động nước ngoài
-Khoản cho vay có thể miễn trả
-Dự phòng dòng tiền hoàn thành hợp đồng
-Đồng tiền chức năng
-Gây quỹ (phúc lợi hưu trí)
-Báo cáo tài chính cho mục đích chung
-Lợi thế thương mại
-Chính phủ
-Hỗ trợ của chính phủ
-Trợ cấp của chính phủ
-Đơn vị liên quan đến chính phủ
-Ngày cam kết quyền
-Trợ cấp liên quan đến tài sản
-Trợ cấp liên quan đến thu nhập
-Giá trị ghi sổ gộp của tài sản tài chính
-Đầu tư gộp trong hợp đồng thuê tài sản
-Tập đoàn
-Nhóm tài sản sinh học
-Nhóm hợp đồng bảo hiểm
-Thu hoạch
-Hiệu quả phòng ngừa rủi ro
-Tỉ số phòng ngừa rủi ro
-Khoản mục  được phòng ngừa rủi ro
-Công cụ phòng ngừa rủi ro
-Nắm giữ để kinh doanh/cho mục đích thương mại
-Sử dụng tối đa và tốt nhất
-Gần như chắc chắn
-Siêu lạm phát
-Có thể xác định được
-Lãi hoặc lỗ do suy giảm giá trị
-Lỗ do suy giảm  giá trị
-Không thể thực hiện
-Ngày bắt đầu của giao dịch thuê
-Thu nhập
-Phương pháp thu nhập
-Thu nhập từ một đơn vị được cấu trúc
-Chi phí trực tiếp ban đầu
-Đầu vào
-Dòng tiềnliên quan đến khai thác hợp đồng bảo hiểm mới
-Hợp đồng bảo hiểm
-Hợp đồng bảo hiểm có đặc tính chia sẻ trực tiếp
-Hợp đồng bảo hiểm không có đặc tính chia sẻ trực tiếp
-Rủi ro bảo hiểm
-sự kiện được bảo hiểm
-Tài sản vô hình
-Lợi ích trong đơn vị khác
-Lãi suất ngầm định trong hợp đồng thuê tài sản
-Rủi ro lãi suất
-Báo cáo tài chính giữa niên độ
-Kỳ báo cáo giữa niên độ
-Chuẩn mực báo cáo tài chính quốc tế (IFRS)
-Giá trị nội tại
-Hàng tồn kho
-Hoạt động đầu tư
-Cấu phần đầu tư
-Hợp đồng đầu tư có đặc tính chia sẻ tùy thuộc
-Đơn vị quản lý quỹ đầu tư
-Bất động sản đầu tư
-Thỏa thuận chung
-Chung quyền kiểm soát
-hoạt động  chung
-Bên tham gia hoạt động chung
-Công ty liên doanh
-Bên góp vốn liên doanh
-Nhân sự quản lý chủ chốt
-Thuê tài sản
-Ưu đãi cho thuê
-Sửa đổi hợp đồng thuê tài sản
-Các khoản thanh toán tiền thuê
-Thời hạn thuê
-Nghĩa vụ pháp lý
-Bên thuê
-Lãi suất biên đi vay của bên thuê
-Bên cho thuê
-Đầu vào cấp độ 1
-Đầu vào cấp độ 2
-Đầu vào cấp độ 3
-Nợ phải trả
-Dự phòng cho các bồi thường đã xảy ra
-Dự phòng cho thời gian bảo hiểmcòn lại
-Tổn thất tín dụng dự kiến trong suốt thời hạn
-Rủi ro thanh khoản
-Các khoản vay phải trả
-Dự phòng tổn thất
-Phương pháp thị trường
-Điều kiện thị trường
-Đầu vào được thị trường chứng thực
-Các bên tham gia thị trường
-Rủi ro thị trường
-Trọng yếu
-Xác định giá trị
-Ngày xác định giá trị
-Lợi ích cổ đông thiểu số
-Lãi hoặc lỗ điều chỉnh
-Tài sản tiền tệ
-Các khoản mục tiền tệ
-Các khoản mục tiền tệ
-Thị trường thuận lợi nhất
-Quỹ phúc lợi có sự tham gia của nhiều bên sử dụng lao động
-Đơn vị tương hỗ
-Giá trị tài sản thuần sẵn có cho các khoản phúc lợi
-Nợ phải trả (tài sản) phúc lợi thuần được xác định
-Lãi thuần từ nợ phải trả (tài sản) phúc lợi thuần được xác định
-Đầu tư thuần vào hoạt động nước ngoài
-Đầu tư thuần trong hợp đồng thuê tàisản
-Giá trị thuần có thể thực hiện được
-Sự kiện không cần điều chỉnh phát sinh sau kỳ báo cáo
-Lợi ích cổ đông không kiểm soát
-Tài sản dài hạn
-Rủi ro không thực hiện được nghĩa vụ
-Bản thuyết minh báo cáo tài chính
-Sự kiện có tính chất bắt buộc
-Đầu vào quan sát được
-Hợp đồng có rủi ro lớn
-Số dư đầu kỳ trình bày theo IFRS
-Hoạt động kinh doanh
-Thuê hoạt động
-Khoản thanh toán quyền chọn thuê tài sản
-Bộ phận kinh doanh
-Quyền chọn, chứng quyền và những hợp đồng  tương tự
-Giao dịch tự nguyện có tổ chức
-Cổ đông thường
-Cổ phiếu phổ thông
-Thu nhập toàn diện khác
-Các khoản phúc lợi dài hạn khác cho người lao động
-Rủi ro khác về giá
+first-time adopter
+fixed payments
+forecast transaction
+foreign currency
+foreign currency transaction
+foreign operation
+forgivable loans
+fulfilment cash flows
+functional currency
+funding (of retirement benefits)
+general purpose financial statements
+goodwill
+government
+government assistance
+government grants
+government-related entity
+grant date
+grants related to assets
+grants related to Income
+gross carrying amount of a financial asset
+gross investment in the lease
+group
+group of biological assets
+group of insurance contracts
+harvest
+hedge effectiveness
+hedge ratio
+hedged item
+hedging instrument
+held for trading
+highest and best use
+highly probable
+hyperinflation
+identifiable
+impairment gain or loss
+impairment loss
+impracticable
+inception date of the lease (inception date)
+income
+income approach
+income from a structured entity
+initial direct costs
+inputs
+insurance acquisition cash flows
+insurance contract
+insurance contract with direct participation features
+insurance contract without direct participation features
+insurance risk
+insured event
+intangible asset
+interest in another entity
+interest rate implicit in the lease
+interest rate risk
+interim financial report
+interim period
+international Financial Reporting Standards (IFRSs)
+intrinsic value
+inventories
+investing activities
+investment component
+investment contract with discretionary participation features
+investment entity
+investment property
+joint arrangement
+joint control
+joint operation
+joint operator
+joint venture
+joint venturer
+key management personnel
+lease
+lease incentives
+lease modification
+lease payments
+lease term
+legal obligation
+lessee
+lessee’s incremental borrowing rate
+lessor
+level 1 inputs
+level 2 inputs
+level 3 inputs
+liability
+liability for incurred claims
+liability for remaining coverage
+lifetime expected credit losses
+liquidity risk
+loans payable
+loss allowance
+market approach
+market condition
+market-corroborated inputs
+market participant
+market risk
+material
+measurement
+measurement date
+minority interest
+modification gain or loss
+monetary assets
+monetary items
+monetary items
+most advantageous market
+multi-employer (benefit) plans
+mutual entity
+net assets available for benefits
+net defined benefit liability (asset)
+net interest on the net defined benefit liability (asset)
+net investment in a foreign operation
+net investment in the lease
+net realisable value
+non-adjusting events after the reporting period
+non-controlling interest
+non-current asset
+non-performance risk
+notes
+obligating event
+observable inputs
+onerous contract
+opening IFRS statement of financial position
+operating activities
+operating lease
+optional lease payments
+operating segment
+options, warrants and their equivalents
+orderly transaction
+ordinary equity holders
+ordinary share
+other comprehensive income
+other long-term employee benefits
+other price risk
+owner-occupied
 property
 owners
 owners
@@ -276,25 +277,26 @@ potential ordinary share
 power
 presentation currency
 present value of a
-Giá trị hiện tại của nghĩa vụ phúc lợi xác định
-Các nguyên tắc  kế toán được thừa nhận chung trước đó
-Thị trường chính yếu
-Sai sót của các kỳ trước
-Nhiều khả năng xảy ra
-Lãi hoặc lỗ
-Bất động sản, nhà xưởng và thiết bị
-Áp dụng phi hồi tố
-Quyền tự vệ
-Dự phòng phải trả
-Tài sản tài chính được khởi tạo hoặc được mua bị tổn thất tín dụng
-Quyền chọn bán (cổ phiếu phổ thông)
-Công cụ tài chính có quyền hoàn trả
-Tài sản đủ điều kiện vốn hóa lãi vay
-Hợp đồng bảo hiểm đủ điều kiện
-Các hoạt động bị kiểm soát giá
-Quy định kiểm soát giá
-Cơ quan quản lý giá
-Giá trị có thể thực hiện được
+defined benefit obligation
+previous GAAP
+principal market
+prior period errors
+probable
+profit or loss
+property, plant and equipment
+prospective application
+protective rights
+provision
+purchased or originated credit-impaired financial asset
+put options (on ordinary shares)
+puttable instrument
+qualifying asset
+qualifying insurance policy
+rate-regulated activities
+rate regulation
+rate regulator
+realisable value
+reclassification
 adjustments
 reclassification date
 recoverable amount
@@ -334,20 +336,19 @@ short-term lease
 significant influence
 spot exchange rate
 stand-alone selling price (of a good or service)
-(của hàng hóa, dịch vụ)
-Đơn vị được cấu trúc
-Cho thuê lại
-Công ty con
-Cơ sở tính thuế  của tài sản hoặc nợ phải trả
-Chi phí thuế thu nhập doanh nghiệp (thu nhập thuế thu nhập doanh nghiệp)
-Thu nhập chịu thuế (lỗ tính thuế)
-Chênh lệch tạm thời  chịu thuế
-Chênh lệch tạm thời
-Phúc lợi khi chấm dứt hợp đồng
-Tổng thu nhập toàn diện
-Chi phí giao dịch
-Chi phí giao dịch (công cụ tài chính)
-Giá giao dịch
+structured entity
+sublease
+subsidiary
+tax base of an asset or liability
+tax expense (tax income)
+taxable profit (tax loss)
+taxable temporary differences
+temporary differences
+termination benefits
+total comprehensive income
+transaction costs
+transaction costs (financial instruments)
+transaction price (for a contract with a customer)
 transport costs
 underlying asset
 underlying items

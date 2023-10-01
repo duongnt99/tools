@@ -1,0 +1,367 @@
+ENGLISH TERMS
+expected credit losses
+accounting policies
+accounting profit
+acquiree
+acquirer
+acquisition date
+active market
+actuarial gains and losses
+actuarial present value of promised retirement benefits
+agricultural activity
+agricultural produce
+amortisation (depreciation)
+amortised cost of a financial asset or financial liability
+antidilution
+asset
+asset ceiling
+assets held by a long-term employee benefit fund
+associate
+bearer plant
+biological asset
+biological transformation
+borrowing costs
+business
+business combination
+carrying amount
+carrying amount
+cash
+cash equivalents
+cash flows
+cash-generating unit
+cash-settled share-based payment transaction
+change in accounting estimate
+close members of the family of a person
+closing rate
+commencement date of the lease(commencement date)
+compensation
+component of an entity
+consolidated financial statements
+constructive obligation
+contingent asset
+contingent consideration
+contingent liability
+contingent share agreement
+contingently issuable ordinary shares
+contract
+contract asset
+contract liability
+contractual service margin
+control of an investee
+corporate assets
+cost
+cost approach
+costs of disposal
+costs to sell
+coverage period
+credit-adjusted effective interest rate
+credit-impaired financial asset
+credit loss
+credit risk
+credit risk rating grades
+currency risk
+current asset
+current service cost
+current tax
+customer
+date of transition to IFRSs
+decision maker
+deductible temporary differences
+deemed cost
+defered tax assets
+defered tax liabilities
+deficit or surplus (of defined benefit liability (asset))
+defined benefit plans
+defined benefit plans
+defined contribution plans
+defined contribution plans
+depreciable amount
+depreciation (amortisation)
+derecognition
+derivative
+development
+dilution
+discontinued operation
+disposal group
+dividends
+economic life
+effective date of the modification
+effective interest method
+effective interest rate
+employee benefits
+employees and others providing similar services
+entity-specific value
+entry price
+equity instrument
+equity instrument granted
+equity interests
+equity method
+equity-settled share-based payment transaction
+events after the reporting period
+exchange difference
+exchange rate
+exit price
+expected cash flows
+expected credit losses
+experience adjustment
+experience adjustments
+exploration and evaluation assets
+exploration and evaluation expenditures
+exploration for and evaluation of mineral resources
+fair value
+fair value
+fair value
+fair value less costs to sell
+finance lease
+financial asset
+financial guarantee contract
+financial instrument
+financial liability
+financial liability at fair value through profit or loss
+financial risk
+financing activities
+firm commitment
+firm purchase commitment
+first IFRS financial statements
+first IFRS reporting period
+IFRS
+first-time adopter
+fixed payments
+forecast transaction
+foreign currency
+foreign currency transaction
+foreign operation
+forgivable loans
+fulfilment cash flows
+functional currency
+funding (of retirement benefits)
+general purpose financial statements
+goodwill
+government
+government assistance
+government grants
+government-related entity
+grant date
+grants related to assets
+grants related to Income
+gross carrying amount of a financial asset
+gross investment in the lease
+group
+group of biological assets
+group of insurance contracts
+harvest
+hedge effectiveness
+hedge ratio
+hedged item
+hedging instrument
+held for trading
+highest and best use
+highly probable
+hyperinflation
+identifiable
+impairment gain or loss
+impairment loss
+impracticable
+inception date of the lease (inception date)
+income
+income approach
+income from a structured entity
+initial direct costs
+inputs
+insurance acquisition cash flows
+insurance contract
+insurance contract with direct participation features
+insurance contract without direct participation features
+insurance risk
+insured event
+intangible asset
+interest in another entity
+interest rate implicit in the lease
+interest rate risk
+interim financial report
+interim period
+international Financial Reporting Standards (IFRSs)
+intrinsic value
+inventories
+investing activities
+investment component
+investment contract with discretionary participation features
+investment entity
+investment property
+joint arrangement
+joint control
+joint operation
+joint operator
+joint venture
+joint venturer
+key management personnel
+lease
+lease incentives
+lease modification
+lease payments
+lease term
+legal obligation
+lessee
+lessee’s incremental borrowing rate
+lessor
+level 1 inputs
+level 2 inputs
+level 3 inputs
+liability
+liability for incurred claims
+liability for remaining coverage
+lifetime expected credit losses
+liquidity risk
+loans payable
+loss allowance
+market approach
+market condition
+market-corroborated inputs
+market participant
+market risk
+material
+measurement
+measurement date
+minority interest
+modification gain or loss
+monetary assets
+monetary items
+monetary items
+most advantageous market
+multi-employer (benefit) plans
+mutual entity
+net assets available for benefits
+net defined benefit liability (asset)
+net interest on the net defined benefit liability (asset)
+net investment in a foreign operation
+net investment in the lease
+net realisable value
+non-adjusting events after the reporting period
+non-controlling interest
+non-current asset
+non-performance risk
+notes
+obligating event
+observable inputs
+onerous contract
+opening IFRS statement of financial position
+operating activities
+operating lease
+optional lease payments
+operating segment
+options, warrants and their equivalents
+orderly transaction
+ordinary equity holders
+ordinary share
+other comprehensive income
+other long-term employee benefits
+other price risk
+owner-occupied
+property
+owners
+owners
+parent
+participants
+party to a joint arrangement
+past due
+past service cost
+performance condition
+performance obligation
+period of use
+plan assets (of an employee benefit plan)
+policyholder
+post-employment benefits
+post-employment benefit plans
+portfolio of insurance contracts
+potential ordinary share
+power
+presentation currency
+present value of a
+defined benefit obligation
+previous GAAP
+principal market
+prior period errors
+probable
+profit or loss
+property, plant and equipment
+prospective application
+protective rights
+provision
+purchased or originated credit-impaired financial asset
+put options (on ordinary shares)
+puttable instrument
+qualifying asset
+qualifying insurance policy
+rate-regulated activities
+rate regulation
+rate regulator
+realisable value
+reclassification
+adjustments
+reclassification date
+recoverable amount
+regular way purchase or sale
+regulatory deferral account balance
+reinsurance contract
+related party
+related party transaction
+relevant activities
+reload feature
+reload option
+remeasurement of the net defined benefit liability (asset)
+removal rights
+reportable segment
+research
+residual value guarantee
+residual value (of an asset)
+restructuring
+retirement benefit plans
+retrospective application
+retrospective restatement
+return on plan assets (of an employee benefit plan)
+revenue
+right-of-use asset
+risk adjustment for non-financial risk
+risk premium
+separate financial statements
+separate vehicle
+service condition
+service cost
+settlement (of employee benefit obligations)
+share-based payment arrangement
+share-based payment transaction
+share option
+short-term employee benefits
+short-term lease
+significant influence
+spot exchange rate
+stand-alone selling price (of a good or service)
+structured entity
+sublease
+subsidiary
+tax base of an asset or liability
+tax expense (tax income)
+taxable profit (tax loss)
+taxable temporary differences
+temporary differences
+termination benefits
+total comprehensive income
+transaction costs
+transaction costs (financial instruments)
+transaction price (for a contract with a customer)
+transport costs
+underlying asset
+underlying items
+unearned finance income
+unguaranteed residual value
+unit of account
+unobservable inputs
+useful life
+value in use
+value in use
+variable lease payments
+vest
+vested benefits
+vesting conditions
+vesting period
+weighted average number of ordinary shares outstanding during the period.

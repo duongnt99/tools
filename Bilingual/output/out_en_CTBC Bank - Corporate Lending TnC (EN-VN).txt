@@ -1,0 +1,291 @@
+CTBC BANK CO , LTD  
+For Credit Line Extension Applicable to Corporate Borrowers
+Branch	Ho Chi Minh City Branch
+Customer’s name
+Date for signing
+CTBC BANK CO , LTD  
+GENERAL TERMS AND CONDITIONS
+FOR CREDIT LINE EXTENSION APPLICABLE TO CORPORATE BORROWERS
+Trang 
+                                                                                    10 Inconsistency and interpretation:                                                                                     10 
+                                                                                           11 Conditions Precedent:                                                                                                    11 
+                                                                                                            11 Advance:                                                                                                                        11 
+IV)      Lãi                                                                                                                                  11 Interest:                                                                                                                          11 
+                                                                         13 Repayment and Prepayment:                                                                                          13 
+                                                                                                            16 Evidence of Debt:                                                                                                          16 
+                                                                                                16 Representation and Warranties:                                                                                    16 
+                                                                                                                    18 Undertaking:                                                                                                               18 
+                                                                                                                        25 Default                                                                                                                           25 
+                                                                                                                         29 Default Interest                                                                                                              29 
+                                                                                                         29 Indemnity, Set-off                                                                                                           29 
+                                                                                                     30 Tax, Fees and Expenses                                                                                                 30 
+                                                                               31 Assignments and Transfers:                                                                                        31 
+                                                                                                         31 Disclosure of Information:                                                                                        31 
+                                      32 Delays and Waivers; Cumulative Rights                                                                       32 
+                                                                                                     32 Partial Invalidity:                                                                                                      32 
+                                                                                                                 33 Notices                                                                                                                      33 
+                                                                                                               33 Language                                                                                                                 33 
+                                                                                                                   33 Authorization                                                                                                              33 
+                                                                                    33 Survival; Binding Effect                                                                                                33 
+                                                                                           34 Disclaimer                                                                                                                  34 
+                                                                                             34 Change in Management                                                                                             34 
+                                                          34 Governing Law and Jurisdiction                                                                            34 
+Interpretation  
+“Account Mortgage”, if any, means the mortgage executed or to be executed by the Borrower and the Bank in which the Borrower gives a first priority mortgage over its accounts opened with the Bank in favor of the Bank for securing the due payment, performance and discharge of the Borrower’s obligations to the Bank  
+"Advance" means an advance made or to be made by the Bank under the Agreement  
+"Advance Tenor" means the tenor determined by the Bank in the Facility Letter, in which the relevant Advance shall be repaid by the Borrower to the Bank  
+“Agreement” means these General Terms and Conditions, each Facility Letter, each Application for Utilization of Credit Line and any agreement contract in relation to the Facility signed by the legal representative or the duly authorised persons for the respective parties; 
+“Application for Utilization of Credit Line” means an application for utilization of credit line in form and substance as required by or satisfactory to the Bank and signed on behalf of the Borrower by the legal representative or a duly authorized signatory of the Borrower and shall be received by the Bank in a certain period of time, provided by the Bank, before the date on which any Advance is to be made  
+“Approval Date” means the date on which the Facility is approved by an appropriate authority of the Bank  
+“Assets Attached to Land Mortgage”(if any) means the mortgage executed or to be executed by the Borrower and the Bank in which the Borrower gives a first priority, to the greatest extent permitted by the laws, mortgage over its immovable property (except for land use right) and or assets attached to land in favour of the Bank for securing the due payment, performance and discharge of the Borrower’s obligations to the Bank; 
+"Availability Period" means the period commencing on the date of this Facility Letter and ending on the earlier of the date specified in the respective Facility Letter or the date on which the Facility is fully drawdown, canceled or terminated under the provisions of that Facility Letter  
+“Bank Guarantee” (if any) means the guarantees issued by the Bank to a beneficiary in such form and substance as the Bank deems appropriate, at the request of the Borrower, including but not limited to bid bond, performance bond and other documents by which the Bank guarantees the Borrower’s obligations to the beneficiary  
+"Business Day" means a day (other than a Saturday, Sunday or public holidays) on which banks are generally open for business in New York, Taipei, Singapore, Ho Chi Minh City or any location where subsidiaries or overseas branches of CTBC Bank Co , Ltd operate; 
+“Cash Margin” (if any) means any credit balance on the demand account of the Borrower with the Bank to be provided by the Borrower to the Bank as collateral from time to time  
+“Chattel” , if any, means the mortgage excuted or to be excuted by the Borrower and the Bank in which the Borrower gives a first priority mortgage over its chattel(s) in favor of the Bank for securing the due payment, performance and discharge of the Borrower’s obligations to the Bank  
+"Corporate Guarantee" (if any) means the guarantee executed or to be executed by corporate(s) indicated in the Facility Letter in favor of the Bank  
+"Credit Guarantee Fund" (if any) means the guarantee executed or to be executed by the Overseas Chinese Credit Guarantee Fund (Taiwan) in favor of the Bank to secure the Faciliy granted by the Bank  
+“Event of Default” means any of the events specified in Article IX hereof and any event which may become (with the passage of time, the giving of notice, the making of any determination, or any combination thereof) any of those events  
+"Facility" means credit facilities granted to the Borrower in the Facility Letter signed by the Borrower and the Bank  
+“Finance Documents” means the Agreement, the Security as may be amended, revised or supplemented from time to time and any other document which is from time to time entered into by the Bank and the Borrower  
+“Financial Transactions”(if any) means spot foreign exchange transactions, forward foreign exchange transactions, swap foreign exchange transactions, option foreign exchange transactions or other financial transactions to be executed by the Bank and the Borrower  
+hoặc Bảo Lãnh Công Ty; “Guarantee”, if any, means Personal Guarantee and or Corporate Guarantee; 
+or corporate issuing the Guarantee; 
+"Indebtedness" shall be construed so as to include any current or future indebtedness, obligations and liabilities actual or contingent, of any kind of the Borrower to the Bank, now or hereafter existing, whether for principal, interest, fees, default interest, penalties, costs, expenses, reimbursements or otherwise arising out of negotiable instruments, drafts, loan, guarantees, advances, letters of credit, overdrafts, banker’s acceptances, foreign exchange transactions or other credit facilities extended or to be extended by the Bank  
+This includes indebtedness, obligation and liabilities arising from the Borrower’s direct transactions with the Bank and from the Bank’s transactions with third parties which are guaranteed or otherwise secured by the Borrower  
+"Interest Period" means, save as otherwise provided under the Agreement, the period determined in accordance with Article IV 3 hereof; 
+”Interest Rate” means the rate of interest applicable on each Advance for each Interest Period which shall be calculated per annum as determined by the Bank equal to (i) the aggregate of LIBOR for that Interest Period and the Margin; or (ii) the aggregate of funding cost to the Bank and the Margin; or (iii) the interest rate determined by the Bank and agreed by the Borrower  
+"Interest Review Period" means, save as otherwise provided under the Agreement, the period determined in accordance with Article IV 4 hereof; 
+“Land Use Right Mortgage” (if any) means mortgage executed or to be executed by the Borrower and the Bank in which the Borrower gives a first priority mortgage, to the greatest extent permitted by the laws, over its land use rights in favour of the Bank for securing the due payment, performance and discharge of the Borrower’s obligations to the Bank  
+"LIBOR" means, in relation to any Advance and any Interest Period relating thereto, the rate per annum determined by the Bank to be equal to the arithmetic mean rounded upwards, if not already such a multiple, to 5 decimals places where the sixth digit is five or more of the offered quotations which appear on the "ICE LIBOR Fixing" page of the Thomson Reuters Monitor Screen (or if such page or service shall cease to be available, such other page or other service (as the case may be) for the purpose of displaying London Interbank Offered Rates for U S dollar of leading reference banks) at or about 9 00 am (Vietnam time) on the Interest Rate Determination Date for such Interest Period; 
+“Margin” means a percentage per annum as specified in the Facility Letter to provide a return to the Bank  
+“Mortgage”, if any, means Chattel Mortgage and or Assets Attached to Land Mortgage and or Land Use Right Mortage and or Chattel Mortgage and or Account Mortgage and or Receivable Mortgage and or Stock Mortgage and or Vehicle Mortgage; 
+ “Obligor” means the Borrower, the Guarantors, if any, or its successors  
+ "Outstanding Amount" means at any time the sum of  
+the principal outstanding  
+all amounts for which the Bank is liable under the Bank Guarantee(s) which have been issued under the Finance Documents and have not expired yet  and 
+all interest, fees and other amounts payable pursuant to the Finance Documents by the Borrower which have not been paid at such time  
+“Personal Guarantee” (if any) means the guarantee(s) executed or to be executed by individuals indicated in the Facility Letter in favor of the Bank  
+“Property” means the Borrower’s land use right, factory, machinery, equipment and all other assets  
+"Interest Determination Date" means, in relation to any Interest Period for which an interest rate is to be determined, the first day of such an Interest Period  
+“Receivable Mortgage”, if any, means the mortgage executed or to be executed by the Borrower and the Bank in which the Borrower gives a first priority mortgage over its receivables in favor of the Bank for securing the due payment, performance and discharge of the Borrower’s obligations to the Bank  
+“Security”, if any, means Mortgage and or Guarantee and or Cash Margin and or Credit Guarantee Fund and or any other security interests executed from time to time to secure the Borrower’s obligations under the Finance Documents; 
+“Shareholder Subordination Agreement” (if any) refers to an agreement executed or to be executed by the Borrower, the Bank and the shareholder(s) of the Borrower under which the indebtedness due or owing to such shareholder(s) by the Borrower is subordinated to the Indebtedness incurred by the Borrower under the Finance Documents  
+“Stock Mortgage” , if any, means the mortgage excuted or to be excuted by the Borrower and the Bank in which the Borrower gives a first priority mortgage over its receivables in favor of the Bank for securing the due payment, performance and discharge of the Borrower’s obligations to the Bank  
+"Termination Date" means the last day of the tenor of the Facility  
+“Vehicle Mortgage” , if any, means the mortgage excuted or to be excuted by the Borrower and the Bank in which the Borrower gives a first priority mortgage over its vehicle(s) in favor of the Bank for securing the due payment, performance and discharge of the Borrower’s obligations to the Bank  
+"VNIBOR" means, in relation to any Advance and any Interest Period relating thereto, the rate per annum determined by the Bank to be equal to the arithmetic mean rounded upwards, if not already such a multiple, to two (2) decimals places where the third digit is five or more of the offered quotations which appear on the " VNIBOR fixing" page of the Thomson Reuters Monitor Screen (or if such page or service shall cease to be available, such other page or other service (as the case may be) at or about 11 00 am (Vietnam time) on the Interest Rate Determination Date for such Interest Period  
+ Inconsistency and interpretation  
+If there is any inconsistency between provisions in the Agreement, the inconsistency will be resolved in the order of the Facility Letter, other contracts agreements and these General Terms and Conditions. 
+Words importing the singular include the plural and vice versa  
+A reference to a person includes a reference to an individual, a company or legal entity  
+A reference to a document includes an amendment or supplement or replacement of that document  
+A reference to a Facility includes any of the Facilities that the Bank grants to the Borrower  
+A reference to a party to any document includes that party’s successors and permitted transferees  
+A reference to any law includes any substitution, amendment or replacement of that law  
+The Bank shall not be obliged to make any Advance to the Borrower unless, subject to the terms and conditions of the Finance Documents, the Bank shall have received all required documents under Clause E (Conditions Precedent) of the Facility Letter in form and substance satisfactory to the Bank  
+Any Advance shall be made on any Business Day during the Availability Period, provided that  
+the aggregate principal amount of all Advances shall not exceed the aggregate principal amount of the Facility available for drawing under the Agreement  
+The Application for Utilization of Credit Line once given shall be irrevocable and the Borrower shall be bound to make drawdown in accordance therewith, except otherwise provided in the Agreement  
+If for any reason, the drawdown of an Advance is not made by the Borrower in accordance with the Application for Utilization of Credit Line, the Borrower shall on demand pay to the Bank the amount, if any, which is necessary to compensate the Bank for any loss or expense incurred in liquidating or redeploying funds arranged for the purpose of the proposed Advance  
+Cancellation: Any part of the Facility not utilised until the end of the Availability Period shall be canceled  
+IV) Lãi Interest  
+ Rate  
+The rate of interest is determined by the Bank in each Application for Utilization of Credit Line  
+Notwithstanding the above, the Bank may adjust the applicable interest rate from time to time and such change in the interest rate shall be applicable from the date the Bank notifies the Borrower of such change  
+The Borrower hereby agrees to the change in the interest rate as notified by the Bank  
+ Calculation  
+Interest shall accrue on a daily basis and shall be calculated on the basis of the actual number of days elapsed and a year of three hundred and sixty five (365) days  
+ Interest Period  
+the Interest Period applicable to each Advance, as the case may be, shall be one (1) or three (3), or six (6) month(s) or another period as specified in the Application for Utilization of Credit Line  
+Each Interest Period (except for the first Interest Period in relation to each Advance which shall start on the relevant date of utilization) shall commence on the last day (including) of the preceding Interest Period and end on (but excluding) the last day of the very Interest Period or the Termination Date  
+ Interest Review Period  
+the Interest Review Period applicable to each Advance, as the case may be, shall be one (1) or three (3), or six (6) month(s) or another period as specified in the Application for Utilization of Credit Line  
+Each Interest Review Period is not compulsorily the same as Interest Period mentioned in Article IV 3 above and shall commence on the last day (including) of the first Interest Period (in relation to the first Interest Review Period) or of the preceding Interest Review Period and end on (but excluding) the last day of the very Interest Review Period or the Termination Date  
+ Interest Payment  
+Unless otherwise provided in the Facility Letter, Accrued interest shall be payable on the first calendar day of the very successive Interest Period at the account of the Bank or any account(s) to be designated by the Bank from time to time  
+ Repayment and Prepayment  
+The United States Dollars or other currencies shall be the currency of account and of the repayment for each and every sum at any time due from the Borrower under the Agreement correspondingly to the original currency in which the Advance was made  
+The Outstanding Amount shall be repaid when due (whether at stated maturity or by acceleration on demand of and to the order of the Bank)  
+All repayments made shall first apply to the accrued interest, commission, costs, charges, fees, and expenses, if any, and then to the principal  
+In any case, the repayment date will not exceed the tenor of the Facility notwithstanding otherwise indicated in the Application for Utilization of Credit Line, unless the Facility is renewed by the Bank  
+If the repayment date falls on a day which is not a Business Day, the actual repayment date shall be the next Business Day  
+The repayment of all principal amounts shall be effected through the Bank’s account or any other account(s) to be appointed by the Bank from time to time  
+Conversion of Currencies  
+If the Bank converts any currency to another currency including without limitation a conversion made in accordance with the following paragraph, the Borrower shall be solely responsible for all costs, losses and expenses related thereto including without limitation, losses arising from exchange rate fluctuations  
+To the greatest extent permitted by the laws, the Bank may in its sole discretion (but shall not be obligated to) convert any Indebtedness then outstanding in such currency as the Bank may at its sole discretion determine for purpose of funding, enforcement or otherwise  
+ Demand Facilities  
+The Borrower acknowledges and agrees that notwithstanding any other provision of	the Agreement at any time, and from time to time, if the Bank determines such to be necessary or appropriate, the Bank may declare any Indebtedness (whether then due or not) to be immediately due and payable (whereupon the same shall become so payable together with accrued interest thereon and any other sums then owed by the Borrower under the Finance Documents) and or require a deposit of an amount equal to any contingent liabilities. 
+Further the Borrower acknowledges and agrees that the Bank’s execution of the Agreement does not constitute an obligation on the Bank to enter into any banking arrangement with the Borrower or to extend any credit facility  
+The actual entering of any banking arrangement or the extension of any credit facility shall be at the discretion of the Bank  
+The Borrower may prepay all or any part of the Facility on any interest payment date during or after the end of the Availability Period in accordance with the provisions of the Facility Letter, provided that  
+The Borrower shall have given to the Bank a prior irrevocable written notice of the Borrower’s intention to prepay specifying the amount and the date of prepayment in accordance with the Facility Letter  and 
+Accrued interest and all other sums then due and payable under the Finance Documents shall have been paid  and 
+To the greatest extent permitted by the laws, the Borrower agrees to make payment of prepayment fees for each repayment amount in accordance with the Facility Letter  and 
+If for any reason prepayment is made without any notice or is not made in accordance with the notice of prepayment, the Borrower shall on demand pay to the Bank a penalty in the amount equal to 1% of the default sum  
+Cash Call, if any: 
+ Without prejudice to any other rights of the Bank under the Finance Documents or under any other agreement, or upon the occurrence of an Event of Default  
+the Bank may (but shall not be obliged to) prepay prior to maturity all or any portion or any then outstanding contingent liability of the Bank under letters of credit, acceptances, guarantees or otherwise issued on behalf of third parties and guaranteed or otherwise secured by the Borrower (“Contingent Liabilities”)  
+The Borrower then shall immediately reimburse to the Bank the sum so prepaid, on demand, together with the Default Interest thereon calculating from the date of such prepayment by the Bank to the date of reimbursement by the Borrower at the rate as determined in the below Article X; and or 
+the Bank may, upon notice to the Borrower, require the deposit with the Bank by the Borrower of a sum equal to the amount of the Contingent Liabilities  
+The Bank may (but shall not be obliged to) use such deposit to pay any sums required to pay on maturity, or repay, all or any part of the Contingent Liabilities or any Indebtedness  
+If any additional sums are required by the Bank to make such payment or prepayment and interest thereon as provided above, the Borrower shall deposit such additional sum with the Bank upon the written request of the Bank; and or 
+the Bank may, by notice to the Borrower, immediately declare the Facility and indebtedness with respect thereto immediately due and payable  
+Foreign exchange, if any: The Borrower shall pay or repay any sum due in the currency specified and shall be solely responsible to obtain all required foreign exchange or other approvals required for the making of such payment repayment in the specified currency. 
+The Borrower’s failure to obtain any such approval shall not relieve it of its obligations to make payment in the specified currency  
+In the event the Borrower places Vietnamese Dong or United States Dollars with the Bank for purposes of acquiring foreign exchange with which to make payment under the Agreement, such placement shall not constitute payment repayment unless and until the sum so deposited is converted to the relevant currency. 
+The Borrower shall bear all risk of currency fluctuation between the time of placement and time of conversion  
+All calculations of applicable currency exchange rates shall be as determined by the Bank  
+The Bank shall maintain on its books in accordance with its usual practice a set of accounts recording the amounts from time to time owing by the Borrower in accordance with the Finance Documents  
+In any legal proceedings and otherwise for the purposes of the Finance Documents, the entries made in such accounts shall, in the absence of manifest error, be conclusive and binding on the Borrower as to the existence and amounts of the obligations of the Borrower recorded therein  
+VII)	 Cam Đoan và Bảo Đảm Representation and Warranties  
+The Borrower represents and warrants that  
+it is a company duly organized and validly existing and in good standing under the laws of Vietnam with power to own its assets, carry on its business and operations as it is now being conducted  
+the Borrower has full power, authority and legal right to enter into and engage in the transactions contemplated by the Finance Documents, and has taken or obtained all necessary corporate and other actions and consents to authorize the execution and performance of the Finance Documents  
+ the Finance Documents to which the Borrower is a party when executed and delivered will constitute legal, valid and binding obligations of the Borrower enforceable against it in accordance with their terms  
+all authorizations from any State authority or other authority which are required or which it would be prudent to obtain, or from the owners of any beneficial interest in or creditors of the Borrower for or in connection with the execution, validity and performance the Finance Documents have been obtained and are in full force and effect  
+no litigation, arbitration or administrative proceedings or claim is currently taking place or pending or threatening against the Borrower or its assets or revenues or any of its subsidiaries  
+the Borrower is not in default or in breach under any law, regulation, judgment, order, authorization, agreement or obligation applicable to it or its assets or revenues  
+the Borrower’s obligations under the Agreement are direct, unconditional and at all times to the extent the payment obligations under the Finance Documents are not secured by the
+security properties, the claims of the Bank against the Borrower under the Finance Documents rank at least pari passu with the claims of all its other unsecured creditors save those whose claims are preferred by any bankruptcy, liquidation or other similar laws of general application  
+the copy of financial statements of the Borrower certified by the legal representive or authorized signatory of the Borrower given to the Bank were prepared in accordance with the generally accounting principles accepted and applied, and give a true and fair view of its financial condition at the date as of which they were prepared and the results of its operations during the financial year then ended  
+The total invested capital of the Borrower, including the total mid-term and long-term outstanding balances with all debtors (inclusive of the Facility of the Bank) and its constributed	capital charter capital will remain duly and relevantwith the terms of	its investment license(s) investment certificate(s) or business, service or investment	plans approved in accordance with the laws of Vietnam; 
+the execution of the Finance Documents by the Borrower and execution of the rights and performance of obligations of the Borrower under the Finance Documents do not and will not  
+conflict with any agreement, mortgage, bond or other instrument or treaty to which the Borrower is a party and which is binding upon it or any of its Property  
+ conflict with its constitutive documents or any applicable rule and regulation  
+there is no material adverse change in the financial conditions or otherwise, operations, performance, properties or prospects of the Borrower since the date referred to in paragraph (8) above  
+VIII)	 Cam Kết Undertaking  
+Affirmative Undertakings  The Borrower undertakes that it shall  
+supply the Bank a copy, which is certified by the legal representative or his authorized signatory under the company seal of the Borrower, if any, of the quarterly financial statements no later than one (01) month from the end of each quarter, and of financial statements of the Borrower for a prior fiscal year no later than six (06) months after the fiscal year the audited  
+The Borrower shall from time to time provide the Bank with such other financial information in relation to the Borrower as the Bank may reasonably request  
+The Borrower undertakes that all the information of financial statements of the Borrower is true and correct  
+keep proper records and books of account in respect of its business and permit the Bank or any professional consultants appointed by the Bank at all reasonable times to inspect and examine the records and books of account of the Borrower, as it deems as necessary by the Bank  
+promptly give written notice to the Bank of any Event of Default or potential Event of Default and any litigation, arbitration or administrative proceedings relating to the Borrower  
+maintain its corporate existence and conduct its business in a proper and efficient manner and in compliance with all laws, regulations, authorizations, agreements and obligations applicable to it and, pay all taxes imposed on it when due  
+inform the Bank in writing of any amendment or supplement to the Borrower’s constitutional documents or other legal documents which may affect the Bank’s right within fifteen (15) days from the date of amendment, supplement or the date of approval by a competent state authority  
+ maintain insurance, in which the Bank will be the beneficiary, on and in relation to the secured assets, if any, with reputable insurance companies acceptable to the Bank against all risks  and advise of any alteration to any of the insurance policies or any default in the payment of any premium, and have to renew any of the insurance at least fourteen (14) days before it expires  and inform the Bank of any other act, omission or event of which they have knowledge which would or might render invalid or unenforceable any of the insurance policies in whole or in part  and shall forthwith upon effecting any insurance policy, give written notice thereof to the Bank stating the full particulars (including the dates and amounts) thereof, and on request produce the receipts for each sum paid by it in respect of such insurance policy  
+comply with the terms of the certificate of land use rights, if any, including without limitation the permitted uses set out therein  
+cause an evaluation report of the Property to be prepared at the request of the Bank or if deemed necessary by the Bank at the Borrower’s own cost and expenses  
+pay and discharge all taxes, assessments and governmental charges or levies imposed upon it, its income, profit or properties, prior to the date on which penalties attach thereto, and all lawful claims which, if unpaid, might become a lien, charge or encumbrance upon any of its properties, including without limitation, those in connection with the Security, if any  
+duly effect all registrations, transfer of possession, transfer of title and other procedures with respect to the Security, if any in accordance with the relevant laws and regulations, and the requirements of the Bank  
+All warehouse charges, registration fees, taxes, duties, maintenance fees and other expenses with respect to the Security shall be borne by the Borrower  maintain and keep its properties in good order and punctually pay all land premiums, rents, rates, assessments, taxes and all outgoings and all charges payable in respect of properties as soon as the same become due and will produce to the Bank on demand all receipts for such payments and in default of payment or production as aforesaid it shall be lawful (but not obligatory) for the Bank to apply all or any of such premiums, rents, rates, assessments, taxes and all outgoings and all charges payable in respect of the properties on behalf of the Borrower and thereupon the sums so paid by the Bank shall on demand be repaid to the Bank and until repayment shall be added to the principal moneys hereby secured and bear interest thereon  
+immediately upon the occurrence of the followings, give notice in writing to the Bank together with a detailed statement of the steps being taken with respect thereto  
+of any dispute, litigation or other proceedings involving the Borrower before any third party, court, arbitration panel or governmental agency which may impact the Borrower’s financial situation, operations and reputation  
+of any Event of Default or an event which with the passing of time and or the giving of notice would constitute an Event of Default; 
+of new medium- long term contracts of any kind  
+procure that all moneys received or receivable under any of the policies of the insurance aforesaid, if any, by whomsoever effected shall be exclusively utilized towards repayment of the Facility  
+in case where the Bank issues the Bank Guarantee at the Borrower’s request, the Borrower hereby undertakes and agrees  
+that the form, terms and conditions of each Bank Guarantee shall be subject to the Bank’s approval  
+ that the Borrower shall indemnify the Bank from and against all costs, damages, claims, expenses or losses (including legal fee if any) which the Bank may suffer, incur or sustain by arising out of the Bank Guarantee whether due to any payment made to a beneficiary or otherwise howsoever  
+that upon a claim being made by a beneficiary under a Bank Guarantee, the Bank shall be entitled to make payment on such claim without prior notice to the Borrower, without the Borrower’s consent or approval and without the authorization of the Borrower, and even if the Borrower is in a dispute with the beneficiary and does not agree with such payment  
+that the Bank shall be entitled to debit the Borrower’s account or accounts at the Bank with the amount of any payments the Bank may make under or in respect of the Bank Guarantee  
+that the Bank may, at any time, without affecting any security or any of its rights, under the Finance Documents or by applicable law or all or any of the obligations of the Borrower under the Finance Documents, offer or agree to or enter into any agreement for any extension or variation or amendment of the terms of the Bank Guarantee  
+that the obligations of the Borrower to the Bank in respect of any Bank Guarantee shall continue and remain in full force and effect until the Bank gives written notice to the Borrower to the effect that (i) the Bank has ceased to be in any way indebted under all the Bank Guarantee, (ii) the Bank is expressly released from any further obligation under or in connection with the Bank Guarantee  
+that the Borrower shall on the due date of the Bank Guarantee (i) procure that the Bank be fully released and discharged from all liabilities and obligations under or arising out of that Bank Guarantee; and or (ii) pay and or provide security sastisfactory to the Bank for payment of the liability of the Bank under that Bank Guarantee. 
+ Completion of Documents: to the extent that any negotiable instrument, Application for Utilization of Credit Line or other agreement or document is delivered to the Bank in incomplete form, the Borrower hereby irrevocably and unconditionally authorizes the Bank to complete all blanks therein by inserting such dates, amounts and other information as the Bank deems necessary or appropriate  
+authorizes the Bank or any of its agents or employees, for and on behalf of the Borrower or otherwise, to do all acts and things as the Bank deems necessary or appropriate to perfect, enforce and or preserve the Security, if any, including without limitation entering into the premises of the Borrower for purpose of posting guards, sequestering and or removing the secured property for safekeeping, the giving of notices and the making of registrations; 
+The Borrower shall from time to time provide, to the extent that it is commercially reasonable for the type of loans similar to the Advances, all documents and information on the request of the Bank for evidencing that the Finance Documents and the obligations of the Borrower in connection with the Advances are legal, valid and enforceable under the laws of Vietnam or for determining if an Event of Default has occurred  
+The Borrower shall from time to time provide, to the extent that it is commercially reasonable for the type of loans similar to that under the Agreement, all documents and information on the request of the Bank for satisfying any applicable regulation on anti-money laundering  
+Repetition of Representations
+no Event of Default or potential Event of Default has occurred and is continuing unremedied  
+The representations and warranties described in this Clause VIII 1 are deemed to be made by the Borrower by reference to the facts and circumstances existing on the date of signing the Agreement, on the date of each Application for Utilization of Credit Line and on the first day of each Interest Period  
+ Negative Undertakings  
+ The Borrower shall not, without the prior written consent of the Bank  
+during the term of the Finance Documents and so long as any sums payable to the Bank under the Finance Documents remains outstanding, create or permit to arise or to exist any mortgage, pledge or other encumbrance over its Properties which are mortgated pledged with the Bank, if any, or assume, guarantee, endorse or otherwise become directly or indirectly liable in connection with any obligation of any other person, firm or corporation except by endorsement of negotiable instruments for deposit or collection or similar transactions in the ordinary course of business; 
+change its capital structure and ownership  
+enter into any transaction other than at arm’s length on normal commercial terms  
+extend any loans other than formal trade credits extended to its customers  
+materially change the nature of its business, sell, transfer or otherwise assign, deal with or dispose of all or any part of its business or its assets or revenues (except for good consideration in the ordinary course of its business), whether by a single transaction or by a number of transactions whether related or not  
+amend, permit or agree to any amendment of its constitutive documents which may affect the execution and implementation of the Finance Documents  
+merge or consolidate with any other entity or participate in any other type of corporate reconstruction or take any step with a view to dissolution, liquidation or winding-up  
+ Nếu Event of Default  If 
+the Borrower fails to pay any sum when due or payable under the Finance Documents or any related documents, in the currency and in the manner specified in the Finance Documents  or 
+any Obligor fails duly and punctually to perform or comply with any of its respective obligations or undertakings under the Finance Documents to which it is a party  or 
+any representation and warranty, or undertaking made or deemed to be made by any Obligor in or in connection with the Finance Documents or in any notice, certificate, instrument or written statement contemplated by or made or delivered by it pursuant to or in connection with the Finance Documents is or proves to have been incorrect or misleading  or 
+any indebtedness of the Borrower is not paid when due  any indebtedness of the Borrower is declared to be or otherwise becomes due and payable prior to its specified maturity  or any creditor or creditors of the Borrower becomes entitled to declare that any indebtedness of the Borrower has become due and payable prior to its specified maturity  or any charge, pledge, mortgage, guarantee or other security now or hereinafter created by the Borrower becomes enforceable  or 
+ the Borrower stops, or suspends payments, or is unable to or admits its inability to making payment of its debts as they fall due or commences negotiations with any one or more of its creditors with a view to the general rescheduling of its indebtedness  
+the Borrower to its creditors generally or is unable or its debts as they fall due or seeks to enter into any composition or other arrangement with its creditors or is on the brink of the bankruptcy or is declared or becomes bankrupt or insolvent  or 
+at any time and for any reason it is or becomes unlawful for any Obligor to perform or comply with any or all of its obligations under the Finance Documents to which it is a party or any of the obligations of any Obligor under the Finance Documents to which it is a party is not or ceases to be legal, valid, binding or enforceable  or 
+any party initiate any proceedings against the Borrower against any of the undertakings or assets of the Borrower whatsoever or whatsoever both present and future  or 
+the Borrower ceases or threatens to cease to carry on its business or any substantial part thereof or changes or threatens to change the nature or scope of its business or the Borrower disposes of or threatens to dispose of or any governmental or other authority expropriates or threatens to expropriate all or any substantial part of its business or assets  or 
+the Borrower ceases to have the right to use the land on which its business operations are presently conducted  or 
+the government or any State agency of Vietnam freezes assets or condemns, nationalizes, seizes, takes custody or control over or otherwise expropriates all or a substantial part of the Property or stock of the Borrower or any other action that would prevent the Borrower from carrying on operations substantially in the manner as the Borrower would have otherwise directed  or 
+there is any amendment, abrogation, abandonment or revocation of any of its constitutonal documents which may affect the execution and implementation of the Finance Documents, approval or the transactions contemplated under or in any other documents in connection with the Finance Documents not approved by the Bank  or 
+Cross Default: any event of default or any other event which with the giving of notice or passing of time or both, would constitute an event of default by any Obligor under any term of any other agreement or instrument evidencing security or otherwise relating to Indebtedness has occurred and is continuing  or 
+ hoặc Security Default: should any of the Security and other related documents at any time for any reason cease to be in full force and effect, be declared to be null and void or should the validity or enforceability of any of the Security and other related documents be contested by any Obligor  or 
+a petition is presented or a proceeding is commenced or an order is made or a resolution is passed or any other step is taken by any person for the winding-up, insolvency, administration, reorganization, reconstruction, dissolution or bankruptcy of the Borrower or for the appointment of a liquidator, receiver, administrator,
+trustee or similar officer of the Borrower or of all or any part of its business or assets  or 
+the secured assets under the Security is destroyed or materially damaged  
+the secured assets under the Security which is assets attached to land is subject to any site clearance or compensation  
+the insurance policy(ies) relating to the secured assets under the Security	is terminated, cancelled or expired  
+the certificate(s) of land use rights and the ownership documents relating to the secured assets under the Security is terminated, cancelled or expire  
+any circumstances arise which give grounds in the opinion of the Bank for belief that a material adverse effect in the business or financial condition or prospects of the Borrower might occur or has occurred or that the ability of any Obligor to perform its respective obligations under the Finance Documents or any Security and related documents to which it is a party are or might be materially and adversely affected  
+ Consequence of Default  If an Event of Default has occurred, the Bank shall  
+declare the Outstanding Amount to be immediately due and payable to the Bank, whereupon they shall become due and payable together with accrued interest thereon and any other sums then owed by the Borrower under the Finance Documents without further demand, notice or other legal formality of any kind; and  or 
+declare the undisbursed portion of the Facility cancelled, whereupon the same shall be cancelled and the Bank shall have no further obligation to make the disbursement; and or 
+Upon the occurrence of any Event of Default, the Bank may, without limitation, enforce all and or any security interest created under the Security, present any evidence of debt it holds for payment, and take all other actions permitted by law or the Finance Documents. 
+All repayments made by the Borrower to refund the Outstanding Amount which has been classified as overdue, shall first apply to the principal, the accrued interest, commission, costs, charges, fees, and expenses, if any  
+The Bank may, at its own discretion, without any obligation, consider loan restructuring, conversion of overdue loans under forms and procedures provided by the Bank from time to time in accordance with applicable laws  
+If the Borrower fails to pay any sum payable under the Finance Documents when due, the Borrower shall  
+pay default interest on the sum in respect of principal outstanding from and including the due date to the date of actual payment (as well after as before judgment) at the rate per annum conclusively determined by one hundred and fifty percent (150%) above the applicable interest rate to such sum at the date of conversion of overdue loans  and 
+pay penalty to the sum being interest, fee and other amounts payable pursuant to the Finance Documents by the Borrower at the amount of ten percent (10%) of such default sum for the delayed payment period   
+The Borrower undertakes to fully indemnify the Bank against any costs, claim, loss, damage, expenses (including legal fees) and liability together with any tax thereon resulting from the occurrence of any Event of Default  
+If the Bank, for any reason, receives an amount in respect of the Borrower’s liability under the Agreeement or if that liability is converted into a claim, proof, judgement or order in a currency other than the original currency in which the Advance has been made, the Borrower shall indemnify the Bank any expenses, loss or liability arising out of or as a result of the conversion, including but not limited to, any exchange costs and taxes payable in connection with any such conversion  
+If the amount received by the Bank when converted into the original currency is less than the amount owed, the Borrower shall forthwith on demand pay to the Bank an amount in the original currency equal to the deficit  
+If any Event of Default has occurred the Bank shall have the rights, without notice to the Borrower or any other person, to set off and apply any credit balance on any account (whether subject to notice or not and whether mature or not and in whatever currency) of the Borrower with the Bank, if any, against the liabilities of the Borrower under the Finance Documents  
+For the purpose of the setoff, the Bank is hereby authorised to declare any termed deposit and any contingent or un-matured liability of the Borrower to become due and payable immediately and authorized to effect any necessary conversions at the Bank’s own rate of exchange then prevailing  
+All payments or reimbursements required to be made under the Finance Documents payable to the Bank shall be made free and clear of and without deduction for any and all taxes and other charges of any nature whatsoever imposed by any State authority  
+The Borrower agrees to reimburse the Bank on demand for any and all levies, stamp, and other duties, filing fees, registration fees and other charges with regard to any aspect of the transactions contemplated in the Finance Documents  
+The Borrower agrees to pay or reimburse the Bank on demand all charges, costs and expenses (including legal fees) incurred by the Bank in connection with the preparation, execution, administration, and enforcement of the Finance Documents and any instrument or contract in connection with the Finance Documents and in connection with any refinancing and restructuring of the Facility  
+The Borrower shall not be entitled to assign or transfer all or any of its rights, benefits and obligations under the Finance Documents  
+The Bank may at any time assign any of its rights and benefits under the Finance Documents  
+The Borrower shall from time to time, at the request of the Bank, take any action or execute in favor of the Bank any documents as the Bank may reasonably direct, in such form as the Bank may issue, for the perfection of any assignment contemplated in this clause at the Bank's own expense  
+XIV)	 Tiết lộ thông tin Disclosure of Information  
+, Ltd  
+
+The Borrower consents to the Bank, CTBC Bank Co , Ltd , Head Office (“Parent Bank”), CTBC Financial Holding Co , Ltd  
+(“Parent Company”), their subsidiaries, affiliates,
+branches and representative offices of its Parent Bank, its Parent Company to sharing and exchanging information relating to the Borrower, its subsidiaries, affiliates, branches and representative offices (if any) and their assets and transactions (the “Customer Information”) for transaction processing, and or internal use, and or making reports to competent regulators or any other purposes as required by the laws or in accordance with the laws.. 
+The Bank shall not disclose the Customer Information to a third party (except its auditors and advisors) unless otherwise required by law or relevant State authorities  
+ Cumulative Rights 
+No delay or omission by the Bank to exercise any right, power or remedy under any Finance Documents and other related documents shall impair any such right, power or remedy nor be construed as a waiver thereof  
+No waiver of any single breach or Event of Default under the Finance Documents and other related documents shall be deemed a waiver of any other breach or Event of Default  
+Any waiver, consent, approval under, or amendment to, the Finance Documents and other related documents must be in writing to be effective  
+The rights and remedies of the Bank under the Finance Documents shall be in addition to and not exclusive of any rights and remedies which the Bank has under the law and to the greatest extent permitted by law  
+If, at any time, any provision of the Agreement is or becomes illegal, invalid or unenforceable in any respect under the laws of any jurisdiction, neither the legality, validity or enforceability of the remaining provisions of the Agreement nor the legality, validity or enforceability of such provisions under the laws of any other jurisdiction shall in any way be affected or impaired thereby  
+If, at any time, there is  are any change(s) acceptable to the Bank on the terms and conditions of the Facility, the Bank and the Borrower shall sign amendment agreement(s) as the case requires. 
+All the amendment agreement(s) shall be an integral part to the Agreement  
+ 
+ 
+Any communication, demand or notice to the Borrower or any other party with respect to banking arrangements between the Bank and the Borrower, Finance Documents shall be deemed duly and properly made or given if made or given by telephone, telex or in writing delivered by hand or mailed by ordinary mail to the Borrower or such other party at the address as the Borrower or such other party may designate by notice to the Bank in writing  
+Any notice to the Bank shall be made in writing or by telex and delivered to the address of the Bank as set out above and said notice to the Bank shall be effective only upon the Bank’s actual receipt thereof  
+A communication given under the Finance Documents but received on a non-working day or after business hours in the place of receipt will only be deemed to be given on the next working day in that place  
+ 
+
+Finance Documents may be executed in: (i) both Vietnamese and English or (ii) just in Vietnamese  
+If they are executed in both languages, which language version that prevails over other version will be specified in that specific agreement contract. 
+ 
+No change in any authorized signatory of the Borrower shall be binding on the Bank unless and until the Bank receives written notice thereof given by the Borrower  
+ Binding Effect 
+ 
+ 
+The Agreement shall become effective upon execution by the Borrower and is a continuing agreement  
+All agreements, covenants, representations and warranties herein and in any certificates and other agreements or instruments required to be executed under the Agreement or referred to in the Agreement shall survive the execution and delivery of the Agreement and shall continue to be in effect until terminated by the parties  
+ 
+ 
+The Borrower hereby acknowledges and represents that it has such knowledge and experience in financial, business and relevant matters that it is capable of evaluating the merits and risks of entering into and implementing the Finance Documents and is aware that it may be required to bear, and is able to bear, the financial risk of entering into and implementing the Finance Documents  
+Therefore, the Bank shall have no liability or responsibility to the Borrower for the effectiveness, validity or enforceability of any Finance Document which has been signed between the Bank and the Borrower  
+ 
+Any change in the internal management of the Borrower or the identity of any persons or business entities whose liability for the Security or any part thereof may at any time stand as Security, or the fact that any person signing the Finance Documents for any party to the Finance Documents shall subsequently cease to be in the employee of that party or lose the right to represent that party in any manner, shall not affect the validity or binding force of the Finance Documents  
+ 
+ 
+ 
+The Agreement shall be governed by and construed in accordance with the laws of the Socialist Republic of Vietnam  
+Any dispute between the parties arising out of the Agreement
+shall be resolved through mutual consultation and amicable settlement In case the dispute cannot be resolved amicably, such dispute will be brought to a competent court of Vietnam  
+-----------------------------------
+On behalf of the Borrower
+---------------------------------
+VERIFIED BY  
+FULL NAME  DATE  PLACE 
+-.

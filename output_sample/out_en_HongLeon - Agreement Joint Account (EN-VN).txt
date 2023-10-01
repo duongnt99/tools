@@ -1,0 +1,34 @@
+Premature withdrawals of partial or whole JFD shall be allowed and the lowest interest applicable to demand deposits of HLBVN by respective currency at the time of premature withdrawal or other rate provided by HLBVN in accordance with the applicable laws will be applied  In case of partial premature withdrawal, the Customer shall send a withdrawal request in HLBVN’s form, balance of the JFD after every withdrawal shall be shown in a balance confirmation printed out from system of HLBVN confirming the withdrawal request has been accepted and proceeded by HLBVN  The withdrawal request and balance confirmation shall be an integral part of this Agreement  
+Joint placement of FCY is not allowed by individual and non-indvidual customers
+Roll-over and renew instruction are not applicable to foreign customers. 
+Must be remitted to joint payment account of the Customer 
+Interest rate for renewal deposit for new tenor will be the interest rate announced by HLBVN at the time of renew new deposit for the respective period. Interest rate of HLBVN shall be reviewed subject to funding position of HLBVN from time to time. 
+Interest accrues on a daily basis of a 365 day per year and the actual number of days elapsed using the following formula  
+Interest = ∑ (Actual balance x number of days maintaining actual balance x Interest rate) 365 
+If the interest payment date, maturity date or the date on which HLBVN receives any instruction from the Customer in respect of the JFD falls on a day which is not a working day, HLBVN shall process the instruction on the next working day  In this Agreement, a working day means a day on which HLBVN opens for normal business  
+The Customer shall ensure that all information provided herein is accurate and correct  For any straight through processing, the crediting to the payment account as maturity instruction shall be based on the ACCOUNT NUMBER written herein  In the case of maturity date, the above payment account is closed or blocked, then after receiving a notice of unsucesseful transfer as the maturity instruction of the Customer due to such closure or blockage, HLBVN will retain this amount and notify the Customer for new instructions  There is no interest on the JFD during the retaining  
+HLBVN shall not liable to the Customer or any third party for any damages, loss for for any misinterpretation or error or the account is closed, blocked or not existing on the date of performing the instruction  
+ This Agreement is unassignable or untransferable 
+ The JFD may be used as collateral at HLBVN only in accordance with regulations of HLBVN 
+In the event that this Agreement is crumpled, torn or lost, the Customer must immediately notify HLBVN in writing  If there is a need in issuing a copy for case of crumpled or torn Agreement, the Customer must submit a request form for a copy attached to the original crumpled or torn Agreement for HLBVN  In case of requesting the issuance of a copy when the Agreement is lost, the Customer submits a service request accompanied with a letter of indemnity in HLBVN’s form to commit indemnifying HLBVN for any dispute arising from the lost Agreement and the re-issuance of a copy at its request  HLBVN may apply fees or charges for reissuance request at HLBVN's fee tariff from time to time  
+In the event that HLBVN receives a notice of any customer on the dispute between the customers in connection to the JFD and or this Agreement, HLBVN shall block the JFD until the dispute is settled evidencing by a document confirming such settlement and requesting HLBVN for unblock signed by all customers (“Release Request”). If on the maturity date, the blockage of JFD has not been terminated, the JFD (including principal and interest) shall be renewed for the same tenor and the blockage shall be imposed on the renewed JFD. If it is unable to make the renewal for any reason, HLBVN will retain this amount until reeciving the Release Request, then transfer the JFD into the Customer’s payment account as instructed. There is no interest on the JFD during the retaining. 
+The Customer hereby confirmed that the General Terms & Conditions of Accounts is an integral part of this Agreement and the Customer has read and agreed to be bound by such Terms & Conditions  
+The Customer can track information of the JFD by: (i) accessing to the Customer's online bank account at HLBVN, or (ii) calling Call-Center of HLBVN at 028 7300 8100  
+Any notice given by HLBVN to the Customer in connection with the Agreement may be delivered by hand, sent by prepaid ordinary post, by email (electronic mail) or by facsimile to the facsimile number, or SMS to registered phone number as specified below or as written notice by the Customer from time to time  The Customer is obliged to update any change of its information to HLBVN  HLBVN shall rely on the last known particulars provided by the Customer in writing  
+Attention: 
+Mobilephone:	Email: 
+This Agreement shall only be effective after HLBVN has received (i) the JFD; and (ii) this Agreement duly signed and sealed by the Customer  In case the above conditions are fulfilled after 04 30 pm, then the effective date of this Agreement shall be the next working day  
+This Agreement shall be made in ___ (__) bilingual original copies in English and Vietnamese, each Party will keep one (1) original  In case of any discrepancies between English and Vietnamese, the Vietnamese version shall prevail  
+For and on behalf of HLBVN
+ For Bank Use Only 
+CHI NHÁNH Branch
+KHÁCH HÀNG Customer
+BRC CMND CCCD Birth Certificate 
+Representative
+CMND CCCD Passport 
+BRC CMND CCCD Passport 
+The Parties agree to sign this Appendix to supplement, amend the Joint Fixed Deposit Agreement No  [] dated [] with the following contents 
+for case of deposit via representative 
+for case of deposit via representative 
+Save and except for the amendment(s) set out in this Appendix, all other existing terms and conditions of the Agreement shall remain unchanged and continue to be in full force and effect  
+For and on behalf of HLBVN
