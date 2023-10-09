@@ -11,7 +11,7 @@ for file in data/*.docx; do
     # Check if the VN file exists
     if [ -f "$vn_file" ]; then # ĐẶT DẤU NGOẶC KÉP XUNG QUANH BIẾN vn_file
       # Use the pair of files as input for the python file
-      python3 en_vn.py "$file" "$vn_file" # ĐẶT DẤU NGOẶC KÉP XUNG QUANH CÁC BIẾN file VÀ vn_file
+      python en_vn.py "$file" "$vn_file" # ĐẶT DẤU NGOẶC KÉP XUNG QUANH CÁC BIẾN file VÀ vn_file
     fi
   fi
 done

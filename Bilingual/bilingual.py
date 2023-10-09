@@ -101,6 +101,16 @@ def checkStringStartNumber(string):
     else:
         return False
 
+def preprocess_abbreviations(text):
+  # Tạo một từ điển để ánh xạ những từ viết tắt và cách viết không có dấu chấm
+  abbreviations = {"a.m": "am", "p.m": "pm", "per cent.": "percent"}
+  # Duyệt qua những từ viết tắt trong từ điển
+  for abbr, repl in abbreviations.items():
+    # Thay thế những từ viết tắt bằng cách viết không có dấu chấm trong văn bản
+    text = text.replace(abbr, repl)
+  # Trả về văn bản đã được xử lý
+  return text
+
 if __name__ == '__main__':
     # docx_file_path = input("Input file name British Council(docx): ")#'bri.docx'
     # Lấy tên của file python
@@ -125,6 +135,9 @@ if __name__ == '__main__':
             textArr[i] = textArr[i].strip()
             main_text.append(textArr[i])
     
+    for elem in main_text:
+        elem = preprocess_abbreviations(elem)
+
     bucket_arr = []
     for i in range(0 , len(main_text)):
             sentence = sent_tokenize(main_text[i]) #Tách đoạn thành câu
@@ -158,24 +171,6 @@ if __name__ == '__main__':
     vietnamese_sentences = []
     
     
-    
-    # text = 'sử'
-    # print(text)
-    # print(check_language(text))
-    # english_sentences_part = ""
-    # vietnamese_sentences_part = ""
-    # tempArrUnknown = text.split(" ") # cut string if contains /
-    # for sentence in tempArrUnknown:
-    #     print(sentence)
-    #     print(check_language(sentence))
-    #     if (check_language(sentence)=="Vietnamese" or sentence=='Rút' or 'HÀNG HÓA' in sentence or 'GIÁ' in sentence) and ('VALIDITY' not in sentence):
-    #         vietnamese_sentences_part+=sentence+" " # merge string after check language
-    #     else:
-    #         english_sentences_part+=sentence+" "
-    # vietnamese_sentences.append(vietnamese_sentences_part)
-    # english_sentences.append(english_sentences_part)
-    # print(english_sentences)
-    # print(vietnamese_sentences)
 
     for i in range(0, len(correctArr)):
         english_sentences_part = ""
@@ -326,9 +321,9 @@ if __name__ == '__main__':
     
     vietnamese_text = "\n".join(vietnamese_sentences) + "."
     english_text = "\n".join(english_sentences) + "."
-    with open("./output/out_en_"+namefile+".txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/"+namefile+"_out_en.txt", "w", encoding="utf-8") as file_txt:
         file_txt.write(english_text) 
-    with open("./output/out_vi_"+namefile+".txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/"+namefile+"_out_vn.txt", "w", encoding="utf-8") as file_txt:
         file_txt.write(vietnamese_text) 
 
     print("Generate file from "+namefile+".docx success")

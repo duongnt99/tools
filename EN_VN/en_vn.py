@@ -98,6 +98,16 @@ def is_number(s):
     except ValueError:
         return False
 
+def preprocess_abbreviations(text):
+  # Tạo một từ điển để ánh xạ những từ viết tắt và cách viết không có dấu chấm
+  abbreviations = {"a.m": "am", "p.m": "pm", "per cent.": "percent"}
+  # Duyệt qua những từ viết tắt trong từ điển
+  for abbr, repl in abbreviations.items():
+    # Thay thế những từ viết tắt bằng cách viết không có dấu chấm trong văn bản
+    text = text.replace(abbr, repl)
+  # Trả về văn bản đã được xử lý
+  return text
+
 if __name__ == '__main__':
     # Xử lý tiếng việt
 
@@ -129,6 +139,9 @@ if __name__ == '__main__':
     for elem in main_text_vn:
         if "VỮNG VÀNG TRONG THỬ THÁCH" in elem:
             main_text_vn.remove(elem)
+    
+    for elem in main_text_vn:
+        elem = preprocess_abbreviations(elem)
 
     bucket_arr_vn = []
     for i in range(0 , len(main_text_vn)):
@@ -192,7 +205,9 @@ if __name__ == '__main__':
         if main_text_arr[i].startswith("www.LuatVietnam.vn"):
             main_text_arr[i] = main_text_arr[i].replace("www.LuatVietnam.vn", "")
             
-       
+    
+    for elem in main_text_arr:
+        elem = preprocess_abbreviations(elem)
           
     bucket_arr_en = []
     for i in range(0 , len(main_text_arr)):
@@ -278,11 +293,11 @@ if __name__ == '__main__':
     
     
 
-    with open("./output/out_en_"+namefile_en+".txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/"+namefile_en+"_out_en.txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(final_resul_en) + "."
         file_txt.write(string_text) 
     
-    with open("./output/out_vi_"+namefile_vi+".txt", "w", encoding="utf-8") as file_txt:
+    with open("./output/"+namefile_vi+"_out_vn.txt", "w", encoding="utf-8") as file_txt:
         string_text = "\n".join(final_resul_vn) + "."
         file_txt.write(string_text) 
     
