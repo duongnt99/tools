@@ -103,7 +103,7 @@ def checkStringStartNumber(string):
 
 def preprocess_abbreviations(text):
   # Tạo một từ điển để ánh xạ những từ viết tắt và cách viết không có dấu chấm
-  abbreviations = {"a.m": "am", "p.m": "pm", "per cent.": "percent"}
+  abbreviations = {"a.m.": "am", "p.m.": "pm", "per cent.": "percent", " co.": "co"}
   # Duyệt qua những từ viết tắt trong từ điển
   for abbr, repl in abbreviations.items():
     # Thay thế những từ viết tắt bằng cách viết không có dấu chấm trong văn bản
