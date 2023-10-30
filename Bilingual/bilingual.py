@@ -128,15 +128,17 @@ if __name__ == '__main__':
     namefile = docx_file_path.split("/")[1].split(".")[0] #Lấy tên file
 
     textArr = text.split("\n")
-    main_text = []
+    main_text_raw = []
 
     for i in range(0 , len(textArr)): #created and standardized file txt
         if len(textArr[i])>3:
             textArr[i] = textArr[i].strip()
-            main_text.append(textArr[i])
+            main_text_raw.append(textArr[i])
     
-    for elem in main_text:
-        elem = preprocess_abbreviations(elem)
+    main_text = []
+    for elem in main_text_raw:
+        elem_fix = preprocess_abbreviations(elem)
+        main_text.append(elem_fix)
 
     bucket_arr = []
     for i in range(0 , len(main_text)):

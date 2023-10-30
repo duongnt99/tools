@@ -123,25 +123,27 @@ if __name__ == '__main__':
 
     text_arr_vn = text.split("\n")
     
-    main_text_vn = []
+    main_text_vn_raw = []
 
 
     for i in range(0 , len(text_arr_vn)): #created and standardized file txt
       if len(text_arr_vn[i])>3:
         text_arr_vn[i] = text_arr_vn[i].strip()
-        main_text_vn.append(text_arr_vn[i])
+        main_text_vn_raw.append(text_arr_vn[i])
 
     count_li_vn = 0 # đếm số dòng nơi nhận trong file tiếng việt, file tiếng anh không có mục này nên phải để trống
-    for elem in main_text_vn:
+    for elem in main_text_vn_raw:
       if elem.startswith("-"):
         count_li_vn = count_li_vn+1
     
-    for elem in main_text_vn:
+    for elem in main_text_vn_raw:
         if "VỮNG VÀNG TRONG THỬ THÁCH" in elem:
-            main_text_vn.remove(elem)
+            main_text_vn_raw.remove(elem)
     
-    for elem in main_text_vn:
-        elem = preprocess_abbreviations(elem)
+    main_text_vn = []
+    for elem in main_text_vn_raw:
+        elem_fix = preprocess_abbreviations(elem)
+        main_text_vn.append(elem_fix)
 
     bucket_arr_vn = []
     for i in range(0 , len(main_text_vn)):
@@ -180,34 +182,36 @@ if __name__ == '__main__':
     namefile_en = docx_file_path_en.split("/")[1].split(".")[0]
 
     text_arr = text.split("\n")
-    main_text_arr = []
+    main_text_arr_raw = []
+    
 
 
     for i in range(0 , len(text_arr)): #created and standardized file txt
         if len(text_arr[i])>3:
             text_arr[i] = text_arr[i].strip()
-            main_text_arr.append(text_arr[i])
+            main_text_arr_raw.append(text_arr[i])
 
-    for elem in main_text_arr:
+    for elem in main_text_arr_raw:
         if "www.vietnamlaws.com" in elem:
-            main_text_arr.remove(elem)
+            main_text_arr_raw.remove(elem)
         if "STAND FIRM IN CHALLENGES" in elem:
-            main_text_arr.remove(elem)
+            main_text_arr_raw.remove(elem)
         if elem == "www.LuatVietnam.vn":
-            main_text_arr.remove(elem)
+            main_text_arr_raw.remove(elem)
         if "Legal Forum" in elem:
-            main_text_arr.remove(elem)
-    for elem in main_text_arr:
+            main_text_arr_raw.remove(elem)
+    for elem in main_text_arr_raw:
         if "footnote" in elem:
-            main_text_arr.remove(elem)
+            main_text_arr_raw.remove(elem)
             
-    for i in range(0, len(main_text_arr)):
-        if main_text_arr[i].startswith("www.LuatVietnam.vn"):
-            main_text_arr[i] = main_text_arr[i].replace("www.LuatVietnam.vn", "")
+    for i in range(0, len(main_text_arr_raw)):
+        if main_text_arr_raw[i].startswith("www.LuatVietnam.vn"):
+            main_text_arr_raw[i] = main_text_arr_raw[i].replace("www.LuatVietnam.vn", "")
             
-    
-    for elem in main_text_arr:
-        elem = preprocess_abbreviations(elem)
+    main_text_arr = []
+    for elem in main_text_arr_raw:
+        elem_fix = preprocess_abbreviations(elem)
+        main_text_arr.append(elem_fix)
           
     bucket_arr_en = []
     for i in range(0 , len(main_text_arr)):

@@ -71,8 +71,7 @@ Par value:		VND10,000 per share
 The purchase price that C COMPANY must pay for the Transferred Price in accordance with this Agreement is VND __ (the “Purchase Price”), which is equivalent to USD ___________ on the Effective Date and which shall be converted to the VND amount on the Closing Date upon the time when all the documents specified in Article 4.2 hereof have been delivered by MR. HQN or by the Company to C COMPANY.
 Article 4:
 Payment
-4.1	The closing for the transaction contemplated under this Agreement shall take place at [venue] at [] a.m.
-on the Closing Date (the “Closing”).
+4.1	The closing for the transaction contemplated under this Agreement shall take place at [venue] at [] am on the Closing Date (the “Closing”).
 When the Conditions Precedents set out in Article 5.1 hereof have been achieved by the Parties respectively and the documents set out in Article 4.2 have been obtained, the Parties shall notify the completion of the Condition Precedents to each other and the Closing Date shall occur on the day following the date when the Parties confirm the completion of their respective Conditions Precedents (or the following date if the Closing Date falls in any holidays or weekend).
 For this purpose, Mr. HQN shall take the role of the coordinator in following up the relevant Parties and in declaring the Closing Date.
 4.2	On the Closing Date, Mr. HQN or the Company shall, where appropriate, deliver to C COMPANY the following documents:

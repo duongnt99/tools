@@ -1,0 +1,4 @@
+(a) Trong trường hợp Thỏa thuận này quy định số tiền bằng một loại tiền tệ nhất định ("loại tiền tệ được chỉ định") "hoặc số tiền tương đương", "số tiền tương đương" là tham chiếu đến số tiền của bất kỳ loại tiền tệ nào khác, khi được chuyển đổi sang loại tiền tệ được chỉ định bằng cách sử dụng Tỷ giá hối đoái giao ngay của Đại lý để mua loại tiền được chỉ định bằng loại tiền khác đó vào khoảng 11 giờ sáng vào ngày liên quan, bằng số tiền tương ứng bằng loại tiền được chỉ định.
+(b) Đại lý sẽ thông báo cho từng Người cho vay về số tiền của từng Khoản vay và số tiền họ tham gia vào Khoản vay đó, trong mỗi trường hợp không muộn hơn 1 giờ chiều vào Ngày làm việc thứ hai trước Ngày sử dụng được đề xuất.
+(c) Nhà tài trợ không hoặc ngừng sở hữu trực tiếp hoặc gián tiếp ít nhất 15% vào bất kỳ lúc nào.
+vốn điều lệ hoặc quyền sở hữu tương đương (hoặc lợi ích thực tế của) bất kỳ ParentCo, PropCo, VDP hoặc Nhà cung cấp cam kết nào;.
